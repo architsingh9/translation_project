@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 def main():
     # Paths
     images_directory = 'data/images/'
+    xml_directory = 'data/xml/'
     translation_model_directory = 'models/fine_tuned_model/'
     correction_model_directory = 'models/ocr_correction_model/'
 
@@ -36,8 +37,8 @@ def main():
             os.makedirs(correction_model_directory, exist_ok=True)
             logger.info("Models not found. Starting training...")
             try:
-                # Fetch all Latin and English texts from Oxygen XML Editor
-                latin_texts_xml, english_texts_xml = fetch_page_data()
+                # Fetch all Latin and English texts from XML files
+                latin_texts_xml, english_texts_xml = fetch_page_data(xml_directory)
                 # Prepare datasets
                 translation_dataset = create_translation_dataset(latin_texts_xml, english_texts_xml)
                 correction_dataset = create_correction_dataset(latin_texts_xml)
@@ -102,11 +103,11 @@ def main():
                     mlflow.end_run(status="FAILED")
                     continue
 
-                # Fetch the corresponding Latin text and translation from Oxygen XML Editor
+                # Fetch the corresponding Latin text and translation from XML files
                 try:
-                    latin_text_page, english_text_page = fetch_page_data(page_number)
+                    latin_text_page, english_text_page = fetch_page_data(xml_directory, page_number)
                 except Exception as e:
-                    logger.error(f"Failed to fetch data for page {page_number} from Oxygen XML Editor: {e}")
+                    logger.error(f"Failed to fetch data for page {page_number} from XML files: {e}")
                     mlflow.end_run(status="FAILED")
                     continue
 
