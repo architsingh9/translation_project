@@ -2,89 +2,86 @@ import logging
 from datasets import Dataset, DatasetDict
 import mlflow
 from lxml import etree
-import jpype
-import jpype.imports
-from jpype.types import *
 import os
 
 logger = logging.getLogger(__name__)
 
-def start_jvm():
+def fetch_page_data(xml_directory, page_number=None):
     """
-    Starts the Java Virtual Machine for interacting with Oxygen XML Editor.
-    """
-    if not jpype.isJVMStarted():
-        # Adjust the classpath to your Oxygen installation
-        oxygen_lib_path = '/path/to/oxygen/lib/*'  # Replace with the actual path
-        jpype.startJVM(classpath=[oxygen_lib_path])
-        logger.info("JVM started.")
-
-def fetch_page_data(page_number=None):
-    """
-    Fetches Latin and English texts from Oxygen XML Editor.
+    Fetches Latin and English texts from XML files in the given directory.
     If page_number is specified, fetches data for that page only.
     """
     try:
-        start_jvm()
-
-        # Import Java classes
-        from ro.sync.exml.workspace.api.standalone import StandalonePluginWorkspace
-
-        # Get the current plugin workspace
-        workspace = StandalonePluginWorkspace.getInstance()
-        if workspace is None:
-            logger.error("Oxygen XML Editor is not running or accessible.")
-            raise Exception("Oxygen XML Editor is not running.")
-
-        # Get all open XML documents
-        editorAccesses = workspace.getAllEditorAccesses(StandalonePluginWorkspace.MAIN_EDITING_AREA)
         latin_texts = []
         english_texts = []
 
-        for editorAccess in editorAccesses:
-            if editorAccess.getCurrentPageID() == "Author":
-                # Get the page number from the document name or metadata
-                doc_url = editorAccess.getEditorLocation().toString()
-                # Assuming the document name contains the page number, e.g., page_10.xml
-                try:
-                    doc_name = os.path.basename(doc_url)
-                    doc_page_number = int(os.path.splitext(doc_name)[0].split('_')[1])
-                except (IndexError, ValueError):
-                    logger.warning(f"Invalid document name format: {doc_name}. Expected format: 'page_<number>.xml'")
-                    continue
+        xml_files = [f for f in os.listdir(xml_directory) if f.endswith('.xml')]
+        if not xml_files:
+            logger.error("No XML files found in the xml directory.")
+            raise FileNotFoundError("No XML files found.")
 
-                if page_number is not None and doc_page_number != page_number:
-                    continue  # Skip if not the target page
+        for xml_file in xml_files:
+            file_path = os.path.join(xml_directory, xml_file)
+            try:
+                # Extract page number from the file name (e.g., p0015.xml -> 15)
+                doc_name = os.path.basename(file_path)
+                doc_page_number = int(doc_name[1:5])
+            except (IndexError, ValueError):
+                logger.warning(f"Invalid XML filename format: {doc_name}. Expected format: 'p<page_number>.xml'")
+                continue
 
-                # Get the XML content
-                xml_content = editorAccess.createContentReader().read()
-                # Parse the XML content
-                root = etree.fromstring(xml_content)
-                # Modify XPath expressions as needed
-                latin_elements = root.xpath('//LatinTextElement')
-                english_elements = root.xpath('//EnglishTextElement')
+            if page_number is not None and doc_page_number != page_number:
+                continue  # Skip if not the target page
 
-                if len(latin_elements) != len(english_elements):
-                    logger.warning(f"Mismatch in Latin and English elements in {doc_name}.")
-                    continue  # Skip files with mismatched entries
+            # Parse the XML file
+            tree = etree.parse(file_path)
+            root = tree.getroot()
+            ns = {'tei': 'http://www.tei-c.org/ns/1.0'}  # Define the namespace
 
-                for lat_elem, eng_elem in zip(latin_elements, english_elements):
-                    latin_text = lat_elem.text.strip()
-                    english_text = eng_elem.text.strip()
+            # Find the transcription and translation elements
+            transcription = root.xpath('.//tei:ab[@type="transcription"]', namespaces=ns)
+            translation = root.xpath('.//tei:ab[@type="translation"]', namespaces=ns)
 
-                    if latin_text and english_text:
-                        latin_texts.append(latin_text)
-                        english_texts.append(english_text)
+            if not transcription or not translation:
+                logger.warning(f"Transcription or translation not found in {doc_name}.")
+                continue
 
-                if page_number is not None:
-                    # Return the texts for the specific page
-                    return latin_texts, english_texts
+            # Extract Latin text
+            latin_lines = []
+            for choice in transcription[0].xpath('.//tei:choice', namespaces=ns):
+                # Prefer the regularized form if available
+                reg = choice.xpath('.//tei:reg', namespaces=ns)
+                if reg and reg[0].text:
+                    latin_lines.append(reg[0].text.strip())
+                else:
+                    orig = choice.xpath('.//tei:orig', namespaces=ns)
+                    if orig and orig[0].text:
+                        latin_lines.append(orig[0].text.strip())
+            # Handle any text directly within <ab> that is not within <choice>
+            direct_texts = transcription[0].xpath('./text()', namespaces=ns)
+            for text in direct_texts:
+                if text.strip():
+                    latin_lines.append(text.strip())
+
+            # Join the Latin lines
+            latin_text = ' '.join(latin_lines)
+
+            # Extract English translation
+            english_text = ' '.join(translation[0].itertext()).strip()
+
+            if latin_text and english_text:
+                latin_texts.append(latin_text)
+                english_texts.append(english_text)
+
+            if page_number is not None:
+                # Return the texts for the specific page
+                return [latin_text], [english_text]
 
         if not latin_texts:
             logger.error("No Latin-English pairs extracted.")
             raise ValueError("Dataset is empty.")
 
-        logger.info(f"Extracted {len(latin_texts)} sentence pairs from Oxygen XML Editor.")
+        logger.info(f"Extracted {len(latin_texts)} sentence pairs from XML files.")
 
         # Log metrics to MLflow
         mlflow.log_metric("extracted_sentence_pairs", len(latin_texts))
@@ -92,7 +89,7 @@ def fetch_page_data(page_number=None):
         return latin_texts, english_texts
 
     except Exception as e:
-        logger.error(f"Failed to fetch XML data from Oxygen XML Editor: {e}")
+        logger.error(f"Failed to fetch XML data: {e}")
         raise
 
 def create_translation_dataset(latin_texts, english_texts):
