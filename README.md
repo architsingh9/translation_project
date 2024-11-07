@@ -1,4 +1,4 @@
-# my_translation_project
+# translation_project
 
 # Latin to English Translation Project with Oxygen XML Editor Integration
 
