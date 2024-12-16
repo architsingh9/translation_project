@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="208r"
+     xml:id="p0431">
+
+   <ab type="transcription"
+       xml:id="p0431_transcription"
+       corresp="#p0431_translation">
+ FIRST LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Lyp(?)ane</seg>
+		       <orig>Lyṗane</orig>
+		       <reg>Lyp?ane<!--  check expansion, can't find this saint in the wiki--></reg>
+	     </choice> 
+                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> laurenti                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> vincenti                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> dyonisi 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> so t                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> maurici 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> s t. <!-- check transcription, I think the s t might be short for 'spiritu tuo' -->                      or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> sebastiane                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> thoma                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Petre                                        or
+<lb/>
+	     <choice>
+	         
+		       <seg type="lucas">S(piritu?)s</seg>
+		       <orig>Ss̄</orig>
+		       <reg>Spiritu?s<!--  check expansion, can't find in the transcription --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(arty)res</seg>
+		       <orig>mr̈es</orig>
+		       <reg>martyres</reg>
+	     </choice>                         orate.
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Silvester                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> hylari                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> martine                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Augustine                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> ambrosi                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t0e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> gregori                                        or
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0431_translation"
+       corresp="#p0431_transcription">
+       S. Cyprian: pray for us. <!-- Lyp(?)ane is Cypriane? -->
+       S. Lawrence: pray for us.
+       S. Vincent: pray for us.
+       S. Denys with your companions: pray for us.
+       S. Maurice with your companions: pray for us.
+       S. Sebastian: pray for us.
+       S. Thomas: pray for us.
+       S. Peter: pray for us.
+       All you holy Martyrs: pray for us. <!-- Omnes Sancti Matryres -->
+       S. Silvester: pray for us.
+       S. Hilary: pray for us.
+       S. Martin: pray for us.
+       S. Augustine: pray for us.
+       S. Ambrose: pray for us.
+       S. Gregory: pray for us.
+       <!-- DM pg 401 --> 
+       
+   </ab>
+
+</div>

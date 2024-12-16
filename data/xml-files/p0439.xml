@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="212r"
+     xml:id="p0439">
+
+   <ab type="transcription"
+       xml:id="p0439_transcription"
+       corresp="#p0439_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eu(m).</seg>
+		       <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers?)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers?</reg> <!-- might be versicle? -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Declarat(i)o</seg>
+		       <orig>Declaratō</orig>
+		       <reg>Declaratio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)monu(m)</seg>
+		       <orig>s͘monū</orig>
+		       <reg>sermonum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tuor(um)</seg>
+		       <orig>tuo</orig>
+		       <reg>tuorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illu(m)i(?)at.</seg>
+		       <orig>illūiat.</orig>
+		       <reg>illumiat.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">i(n)tellectu(m)</seg>
+		       <orig>ītellectū</orig>
+		       <reg>intellectum</reg>
+	     </choice>
+      <lb/>dat 
+	<choice>
+		       <seg type="lucas">p(er)vul(is).</seg>
+		       <orig>ꝑvul͘.</orig>
+		       <reg>pervulis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ti(m)e(n?)te</seg>
+		       <orig>Tīete</orig>
+		       <reg>Timen?te</reg> <!-- check expansion, no latin text in the link -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> et
+<lb/>date illi 
+	<choice>
+		       <seg type="lucas">honore(m).</seg>
+		       <orig>honorē.</orig>
+		       <reg>honorem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)it</seg>
+		       <orig>vēit</orig>
+		       <reg>venit</reg>
+	     </choice>
+      <lb/>hora iudicii 
+	<choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Memore
+<lb/>esto 
+	     <choice>
+		       <seg type="lucas">gregat(i)o(n)is</seg>
+		       <orig>ɔgregatōis</orig>
+		       <reg>congregationis</reg>
+	     </choice> tue. 
+	<choice>
+		       <seg type="lucas">Qua(m)</seg>
+		       <orig>Quā</orig>
+		       <reg>Quam</reg>
+	     </choice>
+      <lb/>possedisti ab 
+	<choice>
+		       <seg type="lucas">i(m?)icio.</seg>
+		       <orig>īitio.</orig>
+		       <reg>initio.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Sal
+<lb break="no"/>vos fac 
+	<choice>
+		       <seg type="lucas">s(er)vos</seg>
+		       <orig>sv̇os</orig>
+		       <reg>servos</reg>
+	     </choice> tuos 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)cil</seg>
+		       <orig>ācil</orig>
+		       <reg>ancil</reg>
+	     </choice>
+      <lb break="no"/>las tuas. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)a(n)tes</seg>
+		       <orig>sꝑātes</orig>
+		       <reg>sperantes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te. 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Esto 
+	<choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">do(mine)</seg>
+		       <orig>doᶜ</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ur?)ris</seg>
+		       <orig>t݃ris</orig>
+		       <reg>turris</reg>
+	     </choice> 
+ for
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">titudi(ni)s.</seg>
+		       <orig>titudīs.</orig>
+		       <reg>titudinis.</reg>
+	     </choice> A facie 
+	<choice>
+		       <seg type="lucas">i(n)imici.</seg>
+		       <orig>īimici.</orig>
+		       <reg>inimici.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice>
+      <lb/>Fiat pax 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tute</seg>
+		       <orig>v̇tute</orig>
+		       <reg>virtute</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tute</seg>
+		       <orig>v̇tute</orig>
+		       <reg>virtute</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tute</seg>
+		       <orig>v̇tute</orig>
+		       <reg>virtute</reg>
+	     </choice> tua
+<lb/>Et 
+	<choice>
+		<!-- looks like h -->
+		       <seg type="lucas">(ab)</seg>
+		       <orig/>
+		       <reg>ab</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">unda(n)cia</seg>
+		       <orig>ūndācia</orig>
+		       <reg>undancia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>  
+      <choice>
+		       <seg type="lucas">rib(us)</seg>
+		       <orig>t͘rib⋮</orig>
+		       <reg>turribus</reg>
+	     </choice> tuis.
+<lb/>PRotege 
+	<choice>
+		       <seg type="lucas">Or(ati?)o</seg>
+		       <orig>Or̄o</orig>
+		       <reg>Orati?o<!--  check expansion, nothing linked --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Do(mine)</seg>
+		       <orig>Doᵉ</orig>
+		       <reg>Domine</reg>
+	     </choice> ex.
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fam(u)los</seg>
+		       <orig>faml͘os</orig>
+		       <reg>famulos</reg>
+	     </choice> tuos
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0439_translation"
+       corresp="#p0439_transcription">
+       And have not withheld from him the request of his lips. <!-- DM page 708 -->
+       The declaration of thy words giveth light. And giveth understanding to little ones. <!-- DRB psalm 118 --> 
+       Fear the Lord, and give him honour, because the hour of his judgment is come. <!-- DRB revelation 14, verse 7 --> 
+       Remember thy congregation, which thou hast possessed from the beginning. <!-- DRB psalm 73 -->
+       Save Your servants and handmaids. <!-- DM page 341 & 494 (ancillas) -->
+       Who hope in You, O my God. <!-- DM page 341 -->
+       Be unto her (or him), O Lord, a tower of strength. From the face of the enemy. <!-- OBDS page 500 & 511 -->
+       Let peace be in strength in strength in your strength. And abundance in Your towers  <!-- DM page 211 -->
+       Defend Thy servants O Lord by granting them the gift of peace, 
+       and as they have confidence in the patronage of Blessed Mary, ever Virgin, 
+       so do Thou make them safe from all their enemies. <!-- OBDS page 470 cont. -->
+
+   </ab> 
+
+</div>

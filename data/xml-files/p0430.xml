@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="207v"
+     xml:id="p0430">
+
+   <ab type="transcription"
+       xml:id="p0430_transcription"
+       corresp="#p0430_translation">
+ FIRST LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Iacobe                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> philippe                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> bartholomee                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> mathee                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> symon                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> thathee                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> marthia                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> marce                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> luca                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Barnaba                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Ōs</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">discip(u)li</seg>
+		       <orig>discipl͘i</orig>
+		       <reg>discipuli</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice>                orte
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Ōs</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">invoce(n)tes</seg>
+		       <orig>invocētes</orig>
+		       <reg>invocentes</reg>
+	     </choice>                        orte
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Stephane                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> clemens                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> corneli                                        or
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0430_translation"
+       corresp="#p0430_transcription">
+       S. James: pray for us.
+       S. Philip: pray for us.
+       S. Bartholomew: pray for us.
+       S. Matthew: pray for us.
+       S. Simon: pray for us.
+       S. Thaddeus: pray for us.
+       S. Matthias: pray for us.
+       S. Mark: pray for us.
+       S. Luke: pray for us.
+       S. Barnabas: pray for us.
+       All you holy Disciples of our Lord: pray for us.
+       All you holy Innocents: pray for us.
+       S. Stephen: pray for us. <!-- DM pg 400 --> 
+       S. Clement: pray for us.
+       S. Cornelius: pray for us. <!-- DM pg 401 --> 
+       
+   </ab>
+
+</div>

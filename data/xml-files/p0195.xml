@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="90r"
+     xml:id="p0195">
+
+   <ab type="transcription"
+       xml:id="p0195_transcription"
+       corresp="#p0195_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lib(er)avit</seg>
+		       <orig>liḃavit</orig>
+		       <reg>liberavit</reg>
+	     </choice> me. 
+	<choice>
+		       <seg type="lucas">Co(n)v(er)</seg>
+		       <orig>Cōv̇</orig>
+		       <reg>Conver</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(re)</seg>
+		       <orig>tė</orig>
+		       <reg>tere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> mea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">req(ui)e(m)</seg>
+		       <orig>req̇ē</orig>
+		       <reg>requiem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m):</seg>
+		       <orig>tuā:</orig>
+		       <reg>tuam:</reg>
+	     </choice> 
+	     <choice>
+	           <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)fecit</seg>
+		       <orig>bn̄fecit</orig>
+		       <reg>benefecit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi).</seg>
+		       <orig>ṫ.</orig>
+		       <reg>tibi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig> 
+		       <reg>Quia</reg>
+	     </choice> eri
+<lb break="no"/>puit 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> de morte:
+<lb/>
+	     <choice>
+		       <seg type="lucas">oc(u)los</seg>
+		       <orig>ocl͘os</orig>
+		       <reg>oculos</reg>
+	     </choice> meos a 
+	<choice>
+		       <seg type="lucas">lac(ri)mis</seg>
+		       <orig>laċmis</orig>
+		       <reg>lacrimis</reg>
+	     </choice> pe
+<lb break="no"/>des meos a lapsu. Pla
+<lb break="no"/>cebo 
+	<choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">regio(n)e</seg>
+		       <orig>regiōe</orig>
+		       <reg>regione</reg>
+	     </choice> vivo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um).</seg>
+		       <orig>ꝝ.</orig>
+		       <reg>rum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Incli(n)avit</seg>
+		       <orig>Inclīavit</orig>
+		       <reg>Inclinavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> au
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">re(m)</seg>
+		       <orig>rē</orig>
+		       <reg>rem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sua(m)</seg>
+		       <orig>suā</orig>
+		       <reg>suam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice>  
+      <lb/>CRedidi 
+	<choice>
+		       <seg type="lucas">p(ro)p</seg>
+		       <orig>ꝓp</orig>
+		       <reg>prop</reg>
+	     </choice>
+      <lb break="no"/>ter 
+	<choice>
+		       <seg type="lucas">q(uo)d</seg>
+		       <orig>qḋ</orig>
+		       <reg>quod</reg>
+	     </choice> locutus           Credidi. viii
+<lb/>
+	     <choice>
+		       <seg type="lucas">su(m):</seg>
+		       <orig>sū:</orig>
+		       <reg>sum:</reg>
+	     </choice> ego 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)iliat(us)</seg>
+		       <orig>hūiliatꝰ</orig> 
+		       <reg>humiliatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> ni
+<lb break="no"/>mis. Ego dixi 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> excessu
+<lb/>meo: 
+	<choice>
+		       <seg type="lucas">o(mn)is</seg>
+		       <orig>oīs</orig>
+		       <reg>omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(mo)</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)dax.</seg>
+		       <orig>mēdax.</orig>
+		       <reg>mendax.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)d</seg>
+		       <orig>Q̇d</orig>
+		       <reg>Quid</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ret(ri)bua(m)</seg>
+		       <orig>reṫbuā</orig>
+		       <reg>retribuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> re⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0195_translation"
+       corresp="#p0195_transcription">I was little and He delivered me.
+         Turn, O my soul, into thy rest: for the Lord hath been bountiful to thee.
+         For he hath delivered my soul from death: my eyes from tears, my feet from falling.
+         I will please the Lord in the land of the living. <!-- psalm 114 drb -->
+         Antiphon. The Lord hath inclined His ear unto
+         me. 
+         [Song] Credidi [Mode] viii. I have believed, therefore have I spoken; but I have been humbled exceedingly. 
+         I said in my excess: Every man is a liar. 
+         What shall I render to the Lord, for all the things he hath rendered unto me? <!-- DRB psalm 114 cont --> </ab>
+
+</div>

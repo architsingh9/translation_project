@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="169r"
+     xml:id="p0353">
+
+   <ab type="transcription"
+       xml:id="p0353_transcription"
+       corresp="#p0353_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">deb(is):c</seg>
+		       <orig>deḃ:c</orig>
+		       <reg>debis:c</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Nu(m)q(ui)d</seg>
+		       <orig>Nūq̇d</orig>
+		       <reg>Numquid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> dies 
+	<choice>
+		       <seg type="lucas">ho(m)i(ni)s</seg>
+		       <orig>hoīs</orig>
+		       <reg>hominis</reg>
+	     </choice>
+      <lb/>dies tui 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)ni</seg>
+		       <orig>āni</orig>
+		       <reg>anni</reg>
+	     </choice> tui 
+	<choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)a</seg>
+		       <orig>hūa</orig>
+		       <reg>huma</reg>
+	     </choice>
+      <lb break="no"/>na 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(em)p(or)a;</seg>
+		       <orig>tꝑa;</orig>
+		       <reg>tempora;</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">q(ue)ras</seg>
+		       <orig>q̄ras</orig>
+		       <reg>queras</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)ta</seg>
+		       <orig>īiq̇ta</orig>
+		       <reg>iniquita</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(m)</seg>
+		       <orig>tē</orig>
+		       <reg>tem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)t(u)m</seg>
+		       <orig>pc̄tm</orig>
+		       <reg>peccatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> scru
+<lb break="no"/>teris:c <!-- raised c? --> Et scias 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> nichil 
+	<choice>
+		       <seg type="lucas">i(m)</seg>
+		       <orig>ī</orig>
+		       <reg>im</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">piu(m)</seg>
+		       <orig>piū</orig>
+		       <reg>pium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">feceri(m):</seg>
+		       <orig>fecerī:</orig>
+		       <reg>fecerim:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> sit 
+	<choice>
+		       <seg type="lucas">ne(m)o</seg>
+		       <orig>nēo</orig>
+		       <reg>nemo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> de
+<lb/>manu tua possit 
+	<choice>
+		       <seg type="lucas">erue(re).</seg>
+		       <orig>eruė.</orig>
+		       <reg>eruere.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice>  
+      <lb/>resuscitasti
+<lb/><supplied>a m</supplied>onu
+<lb break="no"/>Qui 
+	<choice>
+		       <seg type="lucas">lazar(um)</seg>
+		       <orig>lazaꝝ</orig>
+		       <reg>lazarum</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">me(n)to</seg>
+		       <orig>mēto</orig>
+		       <reg>mento</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fetidu(m)</seg>
+		       <orig>fetidū</orig>
+		       <reg>fetidum</reg>
+	     </choice>
+      <lb/>Tu eis 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> dona 
+	<choice>
+		       <seg type="lucas">requie(m)</seg>
+		       <orig>requiē</orig>
+		       <reg>requiem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">locu(m)</seg>
+		       <orig>locū</orig>
+		       <reg>locum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)dulge(n)tie.</seg>
+		       <orig>īdulgētie.</orig>
+		       <reg>indulgentie.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)</seg>
+		       <orig>vē</orig>
+		       <reg>ven</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tur(us)</seg>
+		       <orig>turꝰ</orig>
+		       <reg>turus</reg>
+	     </choice> es 
+	<choice>
+		       <seg type="lucas">iudica(r)e</seg>
+		       <orig>iudicȧe</orig>
+		       <reg>iudicare</reg>
+	     </choice> vivos 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mo(r)</seg>
+		       <orig>mȯ</orig>
+		       <reg>mor</reg>
+	     </choice>
+      <lb break="no"/>tuos 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">igne(m).</seg>
+		       <orig>ignē.</orig>
+		       <reg>ignem.</reg>
+	     </choice> Tu.
+<lb/>
+	     <choice>
+		       <seg type="lucas">MAn(us)</seg>
+		       <orig>MAnꝰ</orig>
+		       <reg>MAnus</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> fe⸗        
+	<choice>
+		       <seg type="lucas">l(?).</seg>
+		       <orig>l͘.</orig>
+		       <reg>l?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">m(?).
+
+</seg>
+		       <orig>m̈.</orig>
+		       <reg>m?.<!--  check expansion --></reg>
+	     </choice> 
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0353_translation"
+       corresp="#p0353_transcription">
+         
+         Hast  Thou eyes  of  flesh?  or  as  a man  seeth,  dost  Thou also  see? 
+         Are  Thy days  as  the  days  of man?  and  Thy  years as  the  times  of  men, 
+         that  Thou  shouldst inquire  after  mine iniquity  and  search out  my  sin?  and  know that  I  have  done  no wicked  thing;  
+         whereas there  is  none  that can  deliver  out  of Thy  hand. <!-- OBDS pg 408-->
+         Responsorium 
+         R.  Thou  who  didst raise  Lazarus,  already stinking,  from  the grave :  
+         Grant  them rest,  O  Lord,  and  the place  of  pardon. 
+         V.  Thou  who  shalt come  to  judge  the  living and  the  dead  and the    world by  fire.
+         <!-- OBDS pg 408-->
+         Take your hands o lord they made me <!-- google translate, double check -->
+         
+   </ab>
+
+</div>

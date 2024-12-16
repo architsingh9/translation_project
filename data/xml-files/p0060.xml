@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="22v"
+     xml:id="p0060">
+
+   <ab type="transcription"
+       xml:id="p0060_transcription"
+       corresp="#p0060_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">niu(m)</seg>
+		       <orig>niū</orig>
+		       <reg>nium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> fidele 
+	<choice>
+		       <seg type="lucas">sap(ient)ia(m)</seg>
+		       <orig>sapīa⋮</orig>
+		       <reg>sapientiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)</seg>
+		       <orig>p̄</orig>
+		       <reg>pre</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sta(n)s</seg>
+		       <orig>stās</orig>
+		       <reg>stans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)vul(is).</seg>
+		       <orig>ꝑvul͘.</orig>
+		       <reg>pervulis.</reg>
+	     </choice> Iustitie 
+	<choice>
+		       <seg type="lucas">do(mini)</seg>
+		       <orig>doⁱ</orig>
+		       <reg>domini</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">r(ec)te</seg>
+		       <orig>rt̄e</orig> <!-- looks like rce -->
+		       <reg>recte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">letifica(n)tes</seg>
+		       <orig>letificātes</orig>
+		       <reg>letificantes</reg>
+	     </choice> corda: 
+	<choice>
+		       <seg type="lucas">p(re)ce</seg>
+		       <orig>p̄ce</orig>
+		       <reg>prece</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ptu(m)</seg>
+		       <orig>ptū</orig>
+		       <reg>ptum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lucidu(m)</seg>
+		       <orig>lucidū</orig>
+		       <reg>lucidum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illu(m)i(n)ans</seg>
+		       <orig>illuīans</orig>
+		       <reg>illuminans</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">oc(u)los.</seg>
+		       <orig>ocl͘os.</orig>
+		       <reg>oculos.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ti(m)or</seg>
+		       <orig>Tīor</orig>
+		       <reg>Timor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)us</seg>
+		       <orig>scūs</orig>
+		       <reg>sanctus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mane(n)s</seg>
+		       <orig>manēs</orig>
+		       <reg>manens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scl͘i:</orig>
+		       <reg>seculi:</reg>
+	     </choice> iudici
+<lb break="no"/>a 
+	<choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)a</seg>
+		       <orig>v̇a</orig>
+		       <reg>vera</reg>
+	     </choice> iustificata 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> se
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">metip(s)a.</seg>
+		       <orig>metip̄a.</orig>
+		       <reg>metipsa.</reg>
+	     </choice> Desiderabilia 
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">au(rum)</seg>
+		       <orig>auꝝ</orig>
+		       <reg>aurum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lapide(m)</seg>
+		       <orig>lapidē</orig>
+		       <reg>lapidem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)tiosu(m)</seg>
+		       <orig>p̄tiosū</orig>
+		       <reg>pretiosum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(u)ltu(m):</seg>
+		       <orig>ml͘tū:</orig>
+		       <reg>multum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> dulciora 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> mel
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">favu(m).</seg>
+		       <orig>favū.</orig>
+		       <reg>favum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ete(n)i(m)</seg>
+		       <orig>Eteī</orig>
+		       <reg>Etenim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">serv(us)</seg>
+		       <orig>servꝰ</orig>
+		       <reg>servus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tu(us)</seg>
+		       <orig>tuꝰ</orig>
+		       <reg>tuus</reg>
+	     </choice>
+      <lb/>custodit ea: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">custodie(n)di(s)</seg>
+		       <orig>custodiēdiˢ</orig>
+		       <reg>custodiendis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ill(is)</seg>
+		       <orig>ill͘</orig>
+		       <reg>illis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ret(ri)but(i)o</seg>
+		       <orig>reṫbutō</orig>
+		       <reg>retributio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lta.</seg>
+		       <orig>ml͘ta.</orig>
+		       <reg>multa.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Del(i)c(t)a</seg>
+		       <orig>Delc̄a</orig>
+		       <reg>Delicta</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)s</seg>
+		       <orig>q̇s</orig>
+		       <reg>quis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)telligit;</seg>
+		       <orig>ītelligit;</orig>
+		       <reg>intelligit;</reg>
+	     </choice> ab occultis
+<lb/>meis 
+	<choice>
+		       <seg type="lucas">mu(n)da</seg>
+		       <orig>mūda</orig>
+		       <reg>munda</reg>
+	     </choice> me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> ab ali⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0060_translation"
+       corresp="#p0060_transcription">
+         or who shall stand in His holy place? 
+         The innocent in hands, and clean of heart, 
+         who hath not taken his soul in vain, nor sworn deceitfully to his neighbour. 
+         He shall receive a blessing from the Lord, and mercy from God his Saviour.
+         This is the generation of them that seek him, of them that seek the face of the God of Jacob.
+         Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.
+         Who is this King of Glory? the Lord who is strong and mighty: the Lord mighty in battle.
+         Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.
+      
+         <!-- DRB Psalm 23 →>
+
+<!-- DRB Psalm 23 continues onto next page -->
+         
+         
+   </ab>
+
+</div>

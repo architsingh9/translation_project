@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="194v"
+     xml:id="p0404">
+
+   <ab type="transcription"
+       xml:id="p0404_transcription"
+       corresp="#p0404_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+		       <orig>aīe</orig>
+		       <reg>anime</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fam(u)le</seg>
+		       <orig>faml͘e</orig>
+		       <reg>famule</reg>
+	     </choice> tue: 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>a 
+	<choice>
+		       <seg type="lucas">(con)tagiis</seg>
+		       <orig>ɔtagiis</orig>
+		       <reg>contagiis</reg>
+	     </choice> mortalitatis
+<lb/>
+	     <choice>
+		       <seg type="lucas">exuta(m);</seg>
+		       <orig>exutā;</orig>
+		       <reg>exutam;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">et(er)ne</seg>
+		       <orig>eṫne</orig>
+		       <reg>eterne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">salvat(i)o(n)is</seg>
+		       <orig>salvatōis</orig>
+		       <reg>salvationis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ar)te(m)</seg>
+		       <orig>ꝑtē</orig>
+		       <reg>partem</reg>
+	     </choice> restitue. 
+	<choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> In 
+	<choice>
+		       <seg type="lucas">a(n)niv(er)sa</seg>
+		       <orig>āniv̇sa</orig>
+		       <reg>anniversa</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">DE(us)</seg>
+		       <orig>DEꝰ</orig>
+		       <reg>DEus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)dulge(n)⸗</seg>
+		       <orig>īdulgē⸗</orig>
+		       <reg>indulgen⸗</reg>
+	     </choice>         
+	     <choice>
+		       <seg type="lucas">riu(m)</seg>
+		       <orig>riū</orig>
+		       <reg>rium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(emus).</seg>
+		       <orig>or̄.</orig>
+		       <reg>oremus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tiar(um)</seg>
+		       <orig>tiaꝝ</orig>
+		       <reg>tiarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> da 
+	<choice>
+		       <seg type="lucas">a(n)i(m)ab(us)</seg>
+		       <orig>aīab⋮</orig>
+		       <reg>animabus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fideliu(m)</seg>
+		       <orig>fideliū</orig>
+		       <reg>fidelium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuor(um).</seg>
+		       <orig>tuoꝝ.</orig>
+		       <reg>tuorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">quor(um)</seg>
+		       <orig>quoꝝ</orig>
+		       <reg>quorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)ni</seg>
+		       <orig>āni</orig>
+		       <reg>anni</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">v(er)sariu(m)</seg>
+		       <orig>v̇sariū</orig>
+		       <reg>versarium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deposit(i)o(n)is</seg>
+		       <orig>depositōis</orig>
+		       <reg>depositionis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">die(m)</seg>
+		       <orig>diē</orig>
+		       <reg>diem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(com)</seg>
+		       <orig>ɔ</orig>
+		       <reg>com</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">me(m)oram(us);</seg>
+		       <orig>mēoramꝰ;</orig>
+		       <reg>memoramus;</reg>
+	     </choice> refrigerii se
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">de(m)</seg>
+		       <orig>dē</orig>
+		       <reg>dem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)etis</seg>
+		       <orig>q̇etis</orig>
+		       <reg>quietis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)titudine(m)</seg>
+		       <orig>bt̄itudinē</orig>
+		       <reg>beatitudinem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lu(min)is</seg>
+		       <orig>luīs</orig>
+		       <reg>luminis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">claritate(m).</seg>
+		       <orig>claritatē.</orig>
+		       <reg>claritatem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(ro)</seg>
+		       <orig>Ꝓ</orig>
+		       <reg>Pro</reg>
+	     </choice> uno solo
+<lb/>si 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir?)</seg>
+		       <orig>v̇</orig>
+		       <reg>vir?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dicatu(?)r.</seg>
+		       <orig>dicatu̇r.</orig>
+		       <reg>dicatu?r.<!--  check expansion --></reg>
+	     </choice> 
+ Da 
+	<choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+		       <orig>aīe</orig>
+		       <reg>anime</reg>
+	     </choice> fa
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(u)li</seg>
+		       <orig>ml͘i</orig>
+		       <reg>muli</reg>
+	     </choice> tui 
+	<choice>
+		       <seg type="lucas">cui(us)</seg>
+		       <orig>cuiꝰ</orig>
+		       <reg>cuius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)ni?.</seg>
+		       <orig>āni?.</orig>
+		       <reg>anni?.</reg>
+	     </choice> Si 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lr?</seg>
+		       <orig>ml͘r?</orig>
+		       <reg>mulr?</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">dicat(ur).</seg>
+		       <orig>dicat݃.</orig>
+		       <reg>dicatur.</reg>
+	     </choice> Da 
+	<choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+		       <orig>aīe</orig>
+		       <reg>anime</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fam(i)le</seg>
+		       <orig>faml͘e</orig>
+		       <reg>famile</reg>
+	     </choice> tue
+<lb/>
+	     <choice>
+		       <seg type="lucas">t(uarum)</seg>
+		       <orig>tꝰ</orig>
+		       <reg>tuarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(nniversarium)</seg>
+		       <orig>ā</orig>
+		       <reg>anniversarium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(ro)</seg>
+		       <orig>Ꝓ</orig>
+		       <reg>Pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fr(atr)ib(us)</seg>
+		       <orig>fr̄ib⋮</orig>
+		       <reg>fratribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sororib(us)</seg>
+		       <orig>sororib⋮</orig>
+		       <reg>sororibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(atio?).</seg>
+		       <orig>or̄.</orig>
+		       <reg>oratio?. <!--  check expansion --></reg>
+	     </choice> 
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0404_translation"
+       corresp="#p0404_transcription">
+         We beseech Thee, O Lord, according to Thy loving-kindness, have mercy upon the soul of Thy handmaiden,
+         and now that she is set free from the defilements of this mortal flesh, restore her to her heritage of everlasting salvation. 
+         Through Christ our Lord.
+         
+         In the anniversary, let us pray. 
+         O God, the Lord of mercies, grant to the souls of your
+         servants, the anniversary of whose
+         burial we are keeping, a place of refreshment, the
+         happiness of rest, and the brightness of your light:
+         through Christ our Lord. <!-- anniversary of deceased rite-->
+         For one alone
+         if he is a man, it is said. 
+         Give the soul of your servant whose (of the year)?
+         If she is a woman, it is said.
+         grant to the souls of your
+         family, the anniversary <!-- not quite on 'anniversary of deceased rite' used google translator -->
+         for the brothers and sisters of the house of God. Prayer. 
+   </ab>
+
+</div>

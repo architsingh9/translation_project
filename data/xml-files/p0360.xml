@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="172v"
+     xml:id="p0360">
+
+   <ab type="transcription"
+       xml:id="p0360_transcription"
+       corresp="#p0360_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(u)ltiplicati</seg>
+		       <orig>ml͘tiplicati</orig>
+		       <reg>multiplicati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t:</seg>
+	             <orig>sṫ:</orig>
+		       <reg>sunt:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> odio 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb break="no"/>iquo 
+	<choice>
+		       <seg type="lucas">oder(un)t</seg>
+		       <orig>oder̄t</orig>
+		       <reg>oderunt</reg>
+	     </choice> me. Custo
+<lb break="no"/>di 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+	             <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+	             <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> erue me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">erubesca(m)</seg>
+	             <orig>erubescā</orig>
+		       <reg>erubescam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avi</seg>
+	             <orig>sꝑavi</orig>
+		       <reg>speravi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>te. 
+	<choice>
+		       <seg type="lucas">Innoce(n)tes</seg>
+	             <orig>Innocētes</orig>
+		       <reg>Innocentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(e)c(t)i</seg>
+		       <orig>rc̄i</orig>
+		       <reg>recti</reg>
+	     </choice> ad
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">heser(un)t</seg>
+		       <orig>heser̄t</orig>
+		       <reg>heserunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi):</seg>
+	             <orig>ṁ:</orig>
+		       <reg>mihi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> sustinui te.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Lib(er)a</seg>
+	             <orig>Liḃa</orig>
+		       <reg>Libera</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+	             <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+	             <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)</seg>
+	             <orig>ṫ</orig>
+		       <reg>tri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bulat(i)o(n)ib(us)</seg>
+	             <orig>bulatōib⋮</orig>
+		       <reg>bulationibus</reg>
+	     </choice> suis. 
+	<choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+	             <orig>ä.</orig>
+		       <reg>alleluia?.<!--  check expansion --></reg>
+	     </choice> 
+ Delic
+<lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">iuve(n)tutis</seg>
+	             <orig>iuvētutis</orig>
+		       <reg>iuventutis</reg>
+	     </choice> mee 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> igno
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ra(n)cias</seg>
+	             <orig>rācias</orig>
+		       <reg>rancias</reg>
+	     </choice> meas ne 
+	<choice>
+		       <seg type="lucas">memi(n)e</seg>
+	             <orig>memīe</orig>
+		       <reg>memine</reg>
+	     </choice>
+      <lb break="no"/>ris 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ps(alm)</seg>
+		       <orig>Ps̈</orig>
+		       <reg>Psalm</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> il
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">lu(m)i(n)at(i)o</seg>
+	             <orig>lūiatō</orig>
+		       <reg>luminatio</reg>
+	     </choice>        Credo 
+	<choice>
+		       <seg type="lucas">vide(re).</seg>
+	             <orig>vidė.</orig>
+		       <reg>videre.</reg>
+	     </choice> iiii.
+<lb/>mea 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sal(us)</seg>
+	             <orig>salꝰ</orig>
+		       <reg>salus</reg>
+	     </choice> mea: 
+	<choice>
+		       <seg type="lucas">que(m)</seg>
+	             <orig>quē</orig>
+		       <reg>quem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ti(m)ebo.</seg>
+	             <orig>tīebo.</orig>
+		       <reg>timebo.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tector</seg>
+	             <orig>ꝓtector</orig>
+		       <reg>protector</reg>
+	     </choice> vite mee: a
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0360_translation"
+       corresp="#p0360_transcription">
+         continued from DPB pg 359: for they are multiplied, and 
+         have hated me with an unjust hatred. Keep 
+         thou my soul, and deliver me: 
+         I shall not be ashamed, for I have hoped in 
+         thee. The innocent and the upright 
+         have adhered to me: because I have waited on thee.
+         Deliver Israel, O God, 
+         from all his tribulations. <!-- DRB Psalm 24 Verses 19-22 --> 
+         The sins of my youth 
+         and my ignorances do not remember. <!-- DRB Psalm 24 Verse 7 -->
+         The Lord is my light 
+         and my salvation, whom shall I fear?
+         The Lord is the protector of my life <!-- DRB Psalm 26 Verse 1 -->
+   </ab>
+
+</div>

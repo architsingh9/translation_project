@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="61v"
+     xml:id="p0138">
+
+   <ab type="transcription"
+       xml:id="p0138_transcription"
+       corresp="#p0138_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cl(esi)a(m)</seg>
+		       <orig>cl͘a⋮</orig>
+		       <reg>clesiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">katholica(m)</seg>
+		       <orig>katholicā</orig>
+		       <reg>katholicam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)or(um)</seg>
+		       <orig>scōꝝ</orig>
+		       <reg>sanctorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(com)mu</seg>
+		       <orig>ɔmu</orig>
+		       <reg>commu</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nio(nem)</seg>
+		       <orig>niō⋮</orig>
+	           <reg>nionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">remissio(nem)</seg>
+		       <orig>remissiō⋮</orig>
+		       <reg>remissionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tor(um).</seg>
+		       <orig>pct̄oꝝ.</orig>
+		       <reg>peccatorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ca(r)</seg>
+		       <orig>Cȧ</orig>
+		       <reg>Car</reg>
+	     </choice>
+      <lb break="no"/>nis 
+	<choice>
+		       <seg type="lucas">resurrec(t)io(nem).</seg>
+		       <orig>resurreciō⋮.</orig>
+		       <reg>resurrectionem.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">vita(m)</seg>
+		       <orig>vitā</orig>
+		       <reg>vitam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">et(er)na(m)</seg>
+		       <orig>eṫnā</orig>
+		       <reg>eternam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+		       <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> Ad. 
+	<choice>
+		       <seg type="lucas">i(?).</seg>
+		       <orig>ï.</orig>
+		       <reg>unus.<!--  This is my best guess --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>D͘s</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ad.
+<lb/>IAm lucis orto 
+	<choice>
+		       <seg type="lucas">side(re)</seg>
+		       <orig>sidė</orig>
+		       <reg>sidere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)ce</seg>
+		       <orig>p̄ce</orig>
+		       <reg>prece</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(ur)</seg>
+		       <orig>m݃</orig>
+		       <reg>mur</reg>
+	     </choice> supplices ut 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> diurnis
+<lb/>
+	     <choice>
+		       <seg type="lucas">actib(us)</seg>
+		       <orig>actib⋮</orig>
+		       <reg>actibus</reg>
+	     </choice> nos 
+	<choice>
+		       <seg type="lucas">s(er)vet</seg>
+		       <orig>sv̇et</orig>
+		       <reg>servet</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">noce(n)tib(us).</seg>
+		       <orig>nocētib⋮.</orig>
+		       <reg>nocentibus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Li(n)gua(m)</seg>
+		       <orig>Līguā</orig>
+		       <reg>Linguam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">refrena(n)s</seg>
+		       <orig>refrenās</orig>
+		       <reg>refrenans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(em)p(er)et</seg>
+		       <orig>tꝑet</orig>
+		       <reg>temperet</reg>
+	     </choice> ne
+<lb/>litis horror 
+	<choice>
+		       <seg type="lucas">i(n)so(n)et</seg>
+		       <orig>īsōet</orig>
+		       <reg>insonet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">visu(m)</seg>
+		       <orig>visū</orig>
+		       <reg>visum</reg>
+	     </choice> fo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ve(n)do</seg>
+		       <orig>vēdo</orig>
+		       <reg>vendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)tegat</seg>
+		       <orig>ɔtegat</orig>
+		       <reg>contegat</reg>
+	     </choice> ne        
+         <choice>
+               <seg type="lucas">va(n)itates </seg>
+               <orig>vānitates</orig>
+               <reg>vanitates</reg>
+         </choice>
+<lb/>hauriat. Sint pura cor
+<lb break="no"/>dis 
+	<choice>
+		       <seg type="lucas">i(n)tima</seg>
+		       <orig>ītima</orig>
+		       <reg>intima</reg>
+	     </choice> absistat 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> ve
+<lb break="no"/>cordia carnis terat 
+	<choice>
+		       <seg type="lucas">sup(er)bi</seg>
+		       <orig>suꝑbi</orig>
+		       <reg>superbi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">a(m)</seg>
+		       <orig>ā</orig>
+		       <reg>am</reg>
+	     </choice> 
+         <supplied>        
+	<choice>
+		       <seg type="lucas">pot(us)</seg>
+		       <orig>potꝰ</orig>
+		       <reg>potus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cibiq(ue)†</seg>
+		       <orig>cibiq⋮</orig>
+		       <reg>cibique</reg>
+	     </choice>
+         </supplied>
+	     <choice>
+		       <seg type="lucas">p(ar)citas.</seg>
+		       <orig>ꝑcitas.</orig>
+		       <reg>parcitas.</reg>
+	     </choice> Ut
+<lb/>
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> dies 
+	<choice>
+		       <seg type="lucas">abscess(er)it</seg>
+		       <orig>abscesṡit</orig>
+		       <reg>abscesserit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nocte(m)q(ue)</seg>
+		       <orig>noctēq⋮</orig>
+		       <reg>noctemque</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0138_translation"
+       corresp="#p0138_transcription"> I believe in the Holy Spirit, the holy catholic Church, the communion of saints,
+         the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen. Ad i.? <!-- no expansion in transcription -->
+         Now in the sun's new dawning ray,
+         lowly of heart, our God we pray
+         that He from harm may keep us free
+         in all the deeds this day shall see.
+         Linguam refrenans temperet,
+         ne litis horror insonet,
+         visum fovendo contegat,
+         ne vanitates hauriat. 	May fear of Him our tongues restrain,
+         lest strife unguarded speech should stain:
+         His favoring care our guardian be,
+         lest our eyes feed on vanity.
+         Sint pura cordis intima,
+         absistat et vecordia:
+         carnis terat superbiam
+         potus cibique parcitas. 	May every heart be pure from sin,
+         and folly find no place therein:
+         scant meed of food, excess denied,
+         wear down in us the body's pride. That when the light of day is gone,
+         and night in course shall follow on, <!-- iam lucis hymn cont -->
+   </ab>
+
+</div>

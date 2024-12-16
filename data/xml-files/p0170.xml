@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="77v"
+     xml:id="p0170">
+
+   <ab type="transcription"
+       xml:id="p0170_transcription"
+       corresp="#p0170_translation">
+
+      <lb/>is 
+	<choice>
+		       <seg type="lucas">s(em)p(er).</seg>
+		       <orig>sꝑ.</orig>
+		       <reg>semper.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sp(re)visti</seg>
+		       <orig>Sp̄visti</orig>
+		       <reg>Sprevisti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">discede(n)</seg>
+		       <orig>discedē</orig>
+		       <reg>disceden</reg>
+	     </choice>
+      <lb break="no"/>tes a iustitiis tuis: 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)ius</seg>
+		       <orig>īius</orig>
+		       <reg>inius</reg>
+	     </choice>
+      <lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cogitat(i)o</seg>
+		       <orig>cogitatō</orig>
+		       <reg>cogitatio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um).</seg>
+		       <orig>eoꝝ.</orig>
+		       <reg>eorum.</reg>
+	     </choice> Preva
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rica(n)tes</seg>
+		       <orig>ricātes</orig>
+		       <reg>ricantes</reg>
+	     </choice> reputavi 
+	<choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(e)c(ca)to</seg>
+		       <orig>pct̄o</orig>
+		       <reg>peccato</reg>
+	     </choice>
+      <lb break="no"/>res 
+	<choice>
+		       <seg type="lucas">t(er)re:</seg>
+		       <orig>ṫre:</orig>
+		       <reg>terre:</reg>
+	     </choice> ideo dilexi 
+	<choice>
+		       <seg type="lucas">testi(m)o(n)ia</seg>
+		       <orig>testiōia</orig>
+		       <reg>testimonia</reg>
+	     </choice>
+      <lb/>tua. 
+	<choice>
+		       <seg type="lucas">Co(n)fige</seg>
+		       <orig>Cōfige</orig>
+		       <reg>Confige</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ti(m)ore</seg>
+		       <orig>tīore</orig>
+		       <reg>timore</reg>
+	     </choice> tuo
+<lb/>carnes meas: a iudiciis
+<lb/>
+	     <choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> tuis timui. Feci iudi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ciu(m)</seg>
+		       <orig>ciū</orig>
+		       <reg>cium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iustitia(m):</seg>
+		       <orig>iustitiā:</orig>
+		       <reg>iustitiam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ra)das</seg>
+		       <orig>ẗdas</orig>
+		       <reg>tradas</reg>
+	     </choice> me
+<lb/>
+	     <choice>
+		       <seg type="lucas">calu(m)nia(n)tib(us)</seg>
+		       <orig>calūpniātib⋮</orig>
+		       <reg>calumniantibus</reg>
+	     </choice> me. Susci
+<lb break="no"/>pe 
+	<choice>
+		       <seg type="lucas">servu(m)</seg>
+		       <orig>servū</orig>
+		       <reg>servum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bonu(m):</seg>
+		       <orig>bonū:</orig>
+		       <reg>bonum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+	           <seg type="lucas">calu(m)nie(n)t(ur)</seg>
+		        <orig>calūpniēt݃</orig>
+		       <reg>calumnientur</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">s(upe)rbi.</seg>
+		       <orig>sr̄bi.</orig>
+		       <reg>superbi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Oc(u)li</seg>
+		       <orig>Ocl͘i</orig>
+		       <reg>Oculi</reg>
+	     </choice>
+      <lb/>mei 
+	<choice>
+		       <seg type="lucas">defecer(un)t</seg>
+		       <orig>defecer̄t</orig>
+		       <reg>defecerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> salutare tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> : 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eloq(ui)u(m)</seg>
+		       <orig>eloq̇ū</orig>
+		       <reg>eloquium</reg>
+	     </choice> iustitie tue.
+<lb/>Fac 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vo</seg>
+		       <orig>s͘vo</orig>
+		       <reg>servo</reg>
+	     </choice> tuo 
+	<choice>
+		       <seg type="lucas">s(e)c(un)d(u)m</seg>
+		       <orig>scḋm</orig>
+		       <reg>secundum</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0170_translation"
+       corresp="#p0170_transcription"> always on thy justifications. Thou hast despised all them that fall off from thy judgments; for their thought is unjust. 
+         I have accounted all the sinners of the earth prevaricators: therefore have I loved thy testimonies. 
+         Pierce thou my flesh with thy fear: for I am afraid of thy judgments. 
+         I have done judgment and justice: give me not up to them that slander me. 
+         Uphold thy servant unto good: let not the proud calumniate me. 
+         My eyes have fainted after thy salvation: and for the word of thy justice.
+         Deal with thy servant according <!-- psalm 118 cont --> </ab>
+
+</div>

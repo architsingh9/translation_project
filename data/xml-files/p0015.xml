@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../stylesheets/dpb_proof.css"?> 
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="1r"
+     xml:id="p0015">
+
+   <ab type="transcription"
+       xml:id="p0015_transcription"
+       corresp="#p0015_translation">
+
+      <lb/>Ad 
+	<choice>
+		       <seg type="lucas">v(ersu)s</seg>
+		       <orig>v̈s</orig>
+		       <reg>versus</reg>
+	</choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Memo(ra)</seg>
+		       <orig>Memö</orig>
+		       <reg>Memora</reg>
+	     </choice>
+      <lb/>Regali ex
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ro)genie</seg>
+	             <orig>ꝓgenie</orig>
+		       <reg>progenie</reg>
+	     </choice>
+      <lb/>maria
+<lb/>exorta re
+<lb break="no"/>fulget 
+	<choice>
+		       <seg type="lucas">cui(us)</seg>
+	             <orig>cuiꝰ</orig>
+		       <reg>cuius</reg>
+	     </choice>
+      <lb/>precibus nos adiuvari 
+	<choice>
+		       <seg type="lucas">me(n)</seg>
+	             <orig>mē</orig>
+		       <reg>men</reg>
+	     </choice>
+      <lb break="no"/>te et 
+	<choice>
+		       <seg type="lucas">sp(irit)u</seg>
+		       <orig>sp̄u</orig>
+		       <reg>spiritu</reg>
+	     </choice> devotissime pos
+<lb break="no"/>cimus 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+	             <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Ora 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+	             <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> nobis
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+	              <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+	             <orig>genit͘x</orig>
+		       <reg>genitrix</reg>
+	     </choice> Ut 
+	<choice>
+		       <seg type="lucas">dig(ni)</seg>
+		       <orig>diġ</orig>
+		       <reg>digni</reg>
+	     </choice> effi
+<lb break="no"/>ciamur 
+	<choice>
+		       <seg type="lucas">p(ro)missio(n)ib(us)</seg>
+	             <orig>ꝓmissiōibꝰ</orig>
+		       <reg>promissionibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christ)i</seg>
+		       <orig>xp̄i</orig>
+		       <reg>christi</reg>
+	     </choice> Zu
+<lb/>
+	     <choice>
+		       <seg type="lucas">mette(n)</seg>
+	             <orig>mettē</orig>
+		       <reg>metten</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">A(ntiphona)</seg>
+	             <orig>Ä</orig>
+		       <reg>Antiphona</reg>
+	     </choice> Sub 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+	             <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)sidiu(m)</seg>
+	             <orig>p̄sidiū</orig>
+		       <reg>presidium</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">co(n)fugim(us)</seg>
+	             <orig>cōfugimꝰ</orig>
+		       <reg>confugimus</reg>
+	     </choice>
+               <choice>
+                              <seg type="lucas">san(c)ta</seg> 
+                              <orig>sanᶜta</orig>
+                              <reg>sancta</reg>
+               </choice>sancta dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+		       <orig>genit͘x</orig>
+		       <reg>genitrix</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ras</seg>
+		       <orig>nr̄as</orig>
+		       <reg>nostras</reg>
+	     </choice> 
+                          
+                        <choice>
+		       <seg type="lucas">cat(i)o(n)es</seg>
+	             <orig>d<supplied>ep̄</supplied>catoēs</orig>
+	                 <reg>d<supplied>epre</supplied>cationes</reg>
+	</choice>  ne despi⸗
+
+
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0015_translation"
+       corresp="#p0015_transcription">  Verses to memorize. <!-- unsure of translation -->
+         Sprung from a royal line, all radiant is
+         Mary, by whose prayers we most devoutly beg to be
+         helped both in mind and in spirit. Versicle. Pray for us, 
+         O holy Mother of God, that we may be made worthy of the 
+         promises of Christ. Antiphon. We fly to thy patronage, O holy Mother of God; 
+         despise not our petitions <!--continues to next page --> </ab>
+
+</div>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="209v"
+     xml:id="p0434">
+
+   <ab type="transcription"
+       xml:id="p0434_transcription"
+       corresp="#p0434_translation">
+ FIRST LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Ōs</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)e</seg>
+		       <orig>sc̄e</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)gines</seg>
+		       <orig>v̇gines</orig>
+		       <reg>virgines</reg>
+	     </choice>                      orate
+<lb/>
+	     <choice>
+		       <seg type="lucas">Om(ne)s?</seg>
+		       <orig>Om̄s</orig>
+		       <reg>Omnesa</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice>                                      orate.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Propici(is)</seg>
+		       <orig>Propiciꝰ</orig>
+		       <reg>Propiciis</reg>
+	     </choice> esto 
+	<choice>
+		       <seg type="lucas">p(ar)ce</seg>
+		       <orig>ꝑce</orig>
+		       <reg>parce</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ada(m?)</seg>
+		       <orig>Adā</orig>
+		       <reg>Adam?<!--  check expansion, can't find in the translation --></reg>
+	     </choice> 
+      <choice>
+		       <seg type="lucas">nat(i)o(n)e</seg>
+		       <orig>natōe</orig>
+		       <reg>natione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)petu</seg>
+		       <orig>ꝑpetu</orig>
+		       <reg>perpetu</reg>
+	     </choice>
+      <lb break="no"/>a. li. n d. A 
+	<choice>
+		       <seg type="lucas">s(u)bitanea</seg>
+		       <orig>sḃitanea</orig>
+		       <reg>subitanea</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(?)p??sa</seg>
+		       <orig>īp??sa</orig>
+	         <reg>i?p??sa<!--  check expansion, cannot find in translation (improvisa?) --></reg>
+	     </choice> 
+ morte.l n d. Ab
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(m)mine(n)tib(us)</seg>
+		       <orig>īminētib⋮</orig>
+		       <reg>imminentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+		       <orig>pct̄oꝝ</orig>
+		       <reg>peccatorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ror(um)</seg>
+		       <orig>nr̄oꝝ</orig>
+		       <reg>nostrorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)i</seg>
+		       <orig>ꝑi</orig>
+		       <reg>peri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cul(is).l</seg>
+		       <orig>cul͘.l</orig>
+		       <reg>culis.l</reg>
+	     </choice> n d. Ab 
+	<choice>
+		       <seg type="lucas">i(n)festat(i)o(n)i</seg>
+		       <orig>īfestatoī</orig>
+		       <reg>infestationi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">demonu(m).l</seg>
+		       <orig>demonū.l</orig>
+		       <reg>demonum.l</reg>
+	     </choice> n d. Ab 
+	<choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(m)mu(n)dicia</seg>
+		       <orig>īmūdicia</orig>
+		       <reg>immundicia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)tis</seg>
+		       <orig>mētis</orig>
+		       <reg>mentis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">corp(or)is.</seg>
+		       <orig>corꝑis.</orig>
+		       <reg>corporis.</reg>
+	     </choice>
+      <lb/>l. Ab ira 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> odio 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> ma
+<lb break="no"/>la 
+	<choice>
+		       <seg type="lucas">volu(n)tate.l</seg>
+		       <orig>volūtate.l</orig>
+		       <reg>voluntate.l</reg>
+	     </choice> n. Ab im
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mu(n)dis</seg>
+		       <orig>mūdis</orig>
+		       <reg>mundis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cogitat(i)o(n)ib(us).l</seg>
+		       <orig>cogitatōib⋮.l</orig>
+		       <reg>cogitationibus.l</reg>
+	     </choice> n d.
+<lb/>Acecitate cordis.l n. A
+<lb/>fulgure 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">te(m)pestate.l</seg>
+		       <orig>tēpestate.l</orig>
+		       <reg>tempestate.l</reg>
+	     </choice> Ab
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0434_translation"
+       corresp="#p0434_transcription">
+       All you holy virgins: pray for us.
+       All you saints: pray for us.
+       Be merciful unto us spare us O Lord.
+       From eternal damnation. <!-- li. n. d translates to? -->
+       From a sudden and unprovided death.
+       From the scourges that threaten our sins.
+       From the snares of the devil.
+       From the uncleanness of mind and body.
+       From anger, hatred, and all ill-will.
+       From unclean thoughts.  <!-- DM page 402 -->       
+       From blindness of heart.
+       From lightning and storm.
+       From all evil.
+       <!-- DM page 403 cont. -->
+       
+   </ab>
+
+</div>

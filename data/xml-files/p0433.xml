@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="209r"
+     xml:id="p0433">
+
+   <ab type="transcription"
+       xml:id="p0433_transcription"
+       corresp="#p0433_translation">
+ FIRST LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> maria 
+	<choice>
+		       <seg type="lucas">mag(na?)</seg>
+		       <orig>magⁿᵃ</orig> <!-- this is the best I got here -->
+		       <reg>magna?</reg>
+	     </choice>                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> martha                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> felicitas                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)petua</seg>
+		       <orig>ꝑpetua</orig>
+		       <reg>perpetua</reg>
+	     </choice>                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> agatha                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> agnes •b•                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> lucia •a•                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> cecilia                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Katherina                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Katherina                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> barbara                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> margaretha                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> ursula 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> soda.t.     <!-- check transcription here, soda t? Do not see in translation-->                   or.
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Kunegundis?      <!-- check transcription -->                          or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Elizabeth                                or
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0433_translation"
+       corresp="#p0433_transcription">
+       S. Mary Magdalen: pray for us.
+       S. Martha: pray for us.
+       S. Felicitas: pray for us.
+       S. Perpetua: pray for us.
+       S. Agatha: pray for us.
+       S. Agnes: pray for us.
+       S. Lucy: pray for us.
+       S. Cecily: pray for us.
+       S. Catharine: pray for us.
+       S. Catherine: pray for us. <!-- DM pg. 402 -->
+       S. Baranabas: pray for us. <!-- DM pg. 400 -->
+       S. Margaret: pray for us.
+       S. Ursula with our companions: pray for us.
+       S. Kunigunde: pray for us.
+       S. Elizabeth: pray for us. <!-- DM pg. 974 -->       
+       
+   </ab>
+
+</div>

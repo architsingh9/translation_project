@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="145v"
+     xml:id="p0306">
+
+   <ab type="transcription"
+       xml:id="p0306_transcription"
+       corresp="#p0306_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uam)</seg>
+		       <orig>q̈</orig>
+	           <!-- pls quam -->
+		       <reg>quam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vide(re)</seg>
+		       <orig>vidė</orig>
+		       <reg>videre</reg>
+	     </choice> mala 
+	<choice>
+		       <seg type="lucas">ge(n)tis</seg>
+		       <orig>gētis</orig>
+		       <reg>gentis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nr̄e</orig>
+		       <reg>nostre</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)or(um)</seg>
+		       <orig>sc̄oꝝ</orig> 
+		       <reg>sanctorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fu(er)it</seg>
+		       <orig>fu̇it</orig>
+		       <reg>fuerit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">volu(n)tas</seg>
+		       <orig>volūtas</orig>
+		       <reg>voluntas</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> celo sic fiat. 
+	<choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ Exau
+<lb break="no"/>diat 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o(n)es</seg>
+		       <orig>orōes</orig>
+		       <reg>orationes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(est)ras</seg>
+		       <orig>vr̄as</orig>
+		       <reg>vestras</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">reco(n)ciliet(ur)</seg>
+		       <orig>recōciliet݃</orig>  
+		       <reg>reconcilietur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vob(is)</seg>
+		       <orig>voḃ</orig>
+		       <reg>vobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ec)</seg>
+		       <orig>nᶜ</orig>
+		       <reg>nec</reg>
+	     </choice> vos de
+<lb break="no"/>serat 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(em)p(or)e</seg>
+		       <orig>tꝑe</orig>
+		       <reg>tempore</reg>
+	     </choice> malo. 
+	<choice>
+		       <seg type="lucas">Do(minica?).</seg>
+		       <orig>Dö.</orig>
+		       <reg>Dominica?.</reg>
+	     </choice> 
+ <choice>
+     <orig>ï</orig>
+     <reg>prima</reg>
+ </choice>
+<lb/>
+	     <choice>
+		       <seg type="lucas">novie(m)b(ri?)s.</seg>
+		       <orig>noviēḃs.</orig>
+		       <reg>noviembris.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> Aspice 
+	<choice>
+		       <seg type="lucas">do(mine)</seg>
+		       <orig>doᵉ</orig>
+		       <reg>domine</reg>
+	     </choice>
+      <lb/>de sede 
+	<choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> cogita 
+	<choice>
+		       <seg type="lucas">d(e)</seg>
+		       <orig>ḋ</orig>
+		       <reg>de</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)cli(n)a</seg>
+		       <orig>īclīa</orig>
+		       <reg>inclina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">aure(m)</seg>
+		       <orig>aurē</orig>
+		       <reg>aurem</reg>
+	     </choice> tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">a(m)</seg>
+		       <orig>ā</orig>
+		       <reg>am</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> audi. 
+	<choice>
+		       <seg type="lucas">Ap(er)i</seg>
+		       <orig>Aꝑi</orig>
+		       <reg>Aperi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)los</seg>
+		       <orig>ocl͘os</orig>
+		       <reg>oculos</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuo(s)</seg>
+		       <orig>tuoˢ</orig>
+		       <reg>tuos</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> vide 
+	<choice>
+		       <seg type="lucas">t(ri)bulat(i)o(nem)</seg>
+		       <orig>ṫbulatō⋮</orig>
+		       <reg>tribulationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra(m).</seg>
+		       <orig>nr̄a⋮.</orig>
+		       <reg>nostram.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> regis 
+	<choice>
+		       <seg type="lucas">isr(ae)l</seg>
+		       <orig>isrl͘</orig>
+		       <reg>israel</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)te(n)de</seg>
+		       <orig>ītēde</orig>
+		       <reg>intende</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> dedu
+<lb break="no"/>cis velut 
+	<choice>
+		       <seg type="lucas">ove(m)</seg>
+		       <orig>ovē</orig>
+		       <reg>ovem</reg>
+	     </choice> ioseph. A
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(er)i.</seg>
+		       <orig>ꝑi.</orig>
+		       <reg>peri.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ap(er)i.</seg>
+		       <orig>Aꝑi.</orig>
+		       <reg>Aperi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(?)</seg>
+		       <orig>Magnificat</orig>
+		       <reg></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ Vidi
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sede(n)te(m)</seg>
+		       <orig>sedētē</orig>
+		       <reg>sedentem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">soliu(m)</seg>
+		       <orig>soliū</orig>
+		       <reg>solium</reg>
+	     </choice> excel⸗ 
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0306_translation"
+       corresp="#p0306_transcription">than to see the evils of our nation and of the saints. Alleulia. May the Lord hear your prayers and be reconciled to you and not abandon you in a bad time. (Dominica. prima. noviembris. Responsorium).
+   Look, Lord, from your holy seat and think about us; incline thine ear, my God and hear; open your eyes and see your trouble. Vespers. The One who reigns over Israel: Be attentive. For you lead Joseph like a sheep. Open up. Glory, open up.
+   m(?) Alleluia. I saw the Lord sitting on a high and exalted throne,</ab>
+
+</div>

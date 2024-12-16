@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="197v"
+     xml:id="p0410">
+
+   <ab type="transcription"
+       xml:id="p0410_transcription"
+       corresp="#p0410_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)iusticia(m)</seg>
+		       <orig>īiusticiā</orig>
+		       <reg>iniusticiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">absco(n)di.</seg>
+		       <orig>abscōdi.</orig>
+		       <reg>abscondi.</reg>
+	     </choice>
+      <lb/>Dixi 
+	<choice>
+		       <seg type="lucas">(con)fitebor</seg>
+		       <orig>ɔfitebor</orig>
+		       <reg>confitebor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adv(er)su(m)</seg>
+		       <orig>adv̇sū</orig>
+		       <reg>adversum</reg>
+	     </choice> me
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)iusticia(m)</seg>
+		       <orig>īiusticiā</orig>
+		       <reg>iniusticiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> tu re
+<lb break="no"/>misisti 
+	<choice>
+		       <seg type="lucas">i(m)pietate(m)</seg>
+		       <orig>īpietatē</orig>
+		       <reg>impietatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)ti</seg>
+		       <orig>pct̄i</orig>
+		       <reg>peccati</reg>
+	     </choice> mei.
+<lb/>Pro hac orabit ad te
+<lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)is</seg>
+		       <orig>oīs</orig>
+		       <reg>omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s:</seg>
+		       <orig>sc̄s:</orig>
+		       <reg>sanctus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(em)p(or)e</seg>
+		       <orig>tꝑe</orig>
+		       <reg>tempore</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(or)tu(n)o.</seg>
+		       <orig>oꝑtūo.</orig>
+		       <reg>oportuno.</reg>
+	     </choice> Ve
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ru(m)t(ame)n</seg>
+		       <orig>rūtn̄</orig>
+		       <reg>rumtamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> dil??io 
+	<choice>
+		       <seg type="lucas">aq(ua)r(um)</seg>
+		       <orig>aq̈ꝝ</orig>
+		       <reg>aquarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lta</seg>
+		       <orig>ml͘ta</orig>
+		       <reg>multa</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um):</seg>
+		       <orig>ꝝ:</orig>
+		       <reg>rum:</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ap(ro)pximab(u)nt.</seg>
+	           <!-- I disagreed with the transcription here (the macron appears over a u
+	                 not an n) so I changed it, i left the lucas seg alone -->
+		       <orig>aꝓpximabūt.</orig>
+		       <reg>apropximabunt.</reg>
+	     </choice>
+      <lb/>Tu es 
+	<choice>
+		       <seg type="lucas">refugiu(m)</seg>
+		       <orig>refugiū</orig>
+		       <reg>refugium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">t(ri)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bulat(i)o(n)e</seg>
+		       <orig>bulatōe</orig>
+		       <reg>bulatione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">c(ir)cu(m)dedit</seg>
+		       <orig>ċcūdedit</orig>
+		       <reg>circumdedit</reg>
+	     </choice> me: ex
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ultat(i)o</seg>
+		       <orig>ultatō</orig>
+		       <reg>ultatio</reg>
+	     </choice> mea erue me a 
+	<choice>
+		       <seg type="lucas">c(ir)cu(m)</seg>
+		       <orig>ċcū</orig>
+		       <reg>circum</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">da(n)tib(us)</seg>
+		       <orig>dātib⋮</orig>
+		       <reg>dantibus</reg>
+	     </choice> me. 
+	<choice>
+		       <seg type="lucas">Intell(e)c(tu)m</seg>
+		       <orig>Intellcm̄</orig>
+		       <reg>Intellectum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> da
+<lb break="no"/>bo; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)strua(m)</seg>
+		       <orig>īstruā</orig>
+		       <reg>instruam</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> via hac
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(ua)</seg>
+		       <orig>q̈</orig>
+		       <reg>qua</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(ra)dieris:</seg>
+		       <orig>g̈dieris:</orig>
+		       <reg>gradieris:</reg>
+	     </choice> firmabo 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> te
+<lb/>
+	     <choice>
+		       <seg type="lucas">oc(u)los</seg>
+		       <orig>ocl͘os</orig>
+		       <reg>oculos</reg>
+	     </choice> meos. Nolite fieri
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0410_translation"
+       corresp="#p0410_transcription">
+       I will acknowledge my sin unto thee: and mine unrighteousness have I not hid.
+       I said, I will confess my sins unto the Lord: and so thou forgavest the wickedness of my sin.
+       For this shall every one that is godly make his prayer unto thee, in a time when thou mayest be found: 
+       but in the great water-floods they shall not come nigh him.
+       Thou art a place to hide me in, thou shalt preserve me from trouble:
+       thou shalt compass me about with songs of deliverance.
+       I will inform thee, and teach thee in the way wherein thou shalt go: and I will guide thee with mine eye.
+       Be ye not like to horse and mule, which have no understanding.
+       <!-- drb psalm 31 cont. -->
+   </ab>
+
+</div>

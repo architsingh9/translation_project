@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="69r"
+     xml:id="p0153">
+
+   <ab type="transcription"
+       xml:id="p0153_transcription"
+       corresp="#p0153_translation">
+
+      <lb/>nos custodire. 
+	<choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> exa.
+<lb/>IN hac 
+	<choice>
+		       <seg type="lucas">ho(r)a</seg>
+		       <orig>hȯa</orig>
+		       <reg>hora</reg>
+	     </choice> <seg next="#segment">hu⸗</seg>
+	<choice>
+		       <seg type="lucas">Or(emus).</seg>
+		       <orig>Or̄.</orig>
+		       <reg>Oremus.</reg>
+	     </choice>        
+	    <seg xml:id="segment"> <choice>
+		       <seg type="lucas">Ore(mus).</seg>
+		       <orig>Oreꝰ.</orig>
+		       <reg>Oremus.</reg>
+	     </choice> </seg>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(us)</seg>
+		       <orig>iꝰ</orig>
+		       <reg>ius</reg>
+	     </choice> diei tua nos 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(e)ple</seg>
+		       <orig>r̄ple</orig>
+		       <reg>reple</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a;</seg>
+		       <orig>mīa;</orig>
+		       <reg>misericordia;</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">totu(m)</seg>
+		       <orig>totū</orig>
+		       <reg>totum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">die(m)</seg>
+		       <orig>diē</orig>
+		       <reg>diem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exulta(n)</seg>
+		       <orig>exultā</orig>
+		       <reg>exultan</reg>
+	     </choice>
+      <lb break="no"/>tes. 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">laudib(us)</seg>
+		       <orig>laudib⋮</orig>
+		       <reg>laudibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iugit(re)</seg>
+		       <orig>iugit͘</orig>
+		       <reg>iugitre</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">delectem(ur).</seg>
+		       <orig>delectem݃.</orig>
+		       <reg>delectemur.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> do. 
+         Fia? <!-- check transcription -->
+         
+	<choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> exaudi 
+	<choice>
+		       <seg type="lucas">or(ati)o(nem)</seg>
+		       <orig>or̄o⋮</orig>
+		       <reg>orationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> au
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rib(us)</seg>
+		       <orig>rib⋮</orig>
+		       <reg>ribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)cipe</seg>
+		       <orig>ꝑcipe</orig>
+		       <reg>percipe</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ba</seg>
+		       <orig>v̇ba</orig>
+		       <reg>verba</reg>
+	     </choice> oris mei.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Cap(ite?).</seg>
+		       <orig>Cāp.</orig>
+		       <reg>Capite.<!--  might be capitulum --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Pace(m)</seg>
+		       <orig>Pacē</orig>
+		       <reg>Pacem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)itate(m)</seg>
+		       <orig>v̇itatē</orig>
+		       <reg>veritatem</reg>
+	     </choice> dili
+<lb break="no"/>gite: ait 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s.</seg>
+		       <orig>op̄s.</orig>
+		       <reg>omnipotens.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Or(ati)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Oratio.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> nos ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ri)ncipiu(m)</seg>
+		       <orig>ṗncipiū</orig>
+		       <reg>principium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hui(us)</seg>
+		       <orig>huiꝰ</orig>
+		       <reg>huius</reg>
+	     </choice> diei 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ve(n)ire</seg>
+		       <orig>vēire</orig>
+		       <reg>venire</reg>
+	     </choice> fecisti; tua nos sal
+<lb break="no"/>va 
+	<choice>
+		       <seg type="lucas">v(ir)tute:</seg>
+		       <orig>v̇tute:</orig>
+		       <reg>virtute:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> hac die ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">nullu(m)</seg>
+		       <orig>nullū</orig>
+		       <reg>nullum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">declinem(us)</seg>
+		       <orig>declinemꝰ</orig>
+		       <reg>declinemus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)t(um);</seg>
+		       <orig>pc̄t⋮</orig>
+		       <reg>peccatum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0153_translation"
+       corresp="#p0153_transcription"> to keep us
+         without sin. O Lord, hear my
+         prayer.
+        And let my cry
+        come unto Thee. <!-- obvm 182 --> Let us pray.  At this hour of this day, we ask you, Lord, to be filled with mercy, 
+         so that we may rejoice in your praises throughout the day. <!-- google translate, can't find translation --> Through [Christ our Lord]. Via? Antiphon. O God, 
+         hear my prayer; give
+         ear to the words of my mouth. Chapter. Love truth and peace, saith the Lord God Almighty. <!-- sources in main transcription doc --> Prayer. 
+         Lord God Almighty, Thou hast brought us safely to the beginning of this day. Defend us today by Thy mighty power, 
+         that we may not fall into any sin, but that all our words <!-- source cont linked in doc --> </ab>
+
+</div>

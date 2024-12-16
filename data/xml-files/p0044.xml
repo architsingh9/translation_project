@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="14v"
+     xml:id="p0044">
+
+   <ab type="transcription"
+       xml:id="p0044_transcription"
+       corresp="#p0044_translation">
+
+      <lb/>tu 
+	<choice>
+		       <seg type="lucas">manu(m)</seg>
+		       <orig>manū</orig>
+		       <reg>manum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)ples</seg>
+		       <orig>īples</orig>
+		       <reg>imples</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(?)e</seg>
+		       <orig>ōe</orig>
+		       <reg>o?e<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">aial(?)</seg>
+		       <orig>aīal</orig>
+		       <reg>aial?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicco(n)e.</seg>
+		       <orig>bn̄diccōe.</orig>
+		       <reg>benediccone.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+	           <!-- used dot to the right instead of dot between -->
+		       <reg>Gloria.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">K(yrie eleison).</seg>
+		       <orig>K.</orig>
+	           <!-- I see no diacritic here -->
+		       <reg>Kyrie eleison.</reg>
+	     </choice>  
+	     <choice>
+		       <seg type="lucas">(Christe eleison)</seg>
+		       <orig>X </orig>
+	           <!-- this matches the capital X character so I am going with it -->
+		       <reg>Christe eleison</reg>
+	     </choice> . 
+	<choice>
+		       <seg type="lucas">K(yrie eleison).</seg>
+		       <orig>K.</orig>
+		       <reg>Kyrie eleison.</reg>
+	     </choice>  
+	     <choice>
+		       <seg type="lucas">Pr(?)</seg>
+		       <orig>Pr̄</orig>
+		       <reg>Pr? <!-- check expansion --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ur(?).</seg> 
+	           <!-- check transcription this look like an n to me -->
+		       <orig>ur̄.</orig>
+		       <reg>ur?.<!--  check expansion --></reg>
+	     </choice> 
+ Et n. Ore
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">B(e)n(e)</seg>
+		       <orig>Bn̄</orig>
+		       <reg>Bene</reg>
+	     </choice> 十 dic 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(us).</seg>
+	             <orig>mꝰ.</orig>
+		       <reg>mus.</reg>
+	     </choice>
+      <lb/>dona tua 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> de tua
+<lb/>largitate 
+	<choice>
+		       <seg type="lucas">sum(us)</seg>
+		       <orig>sumꝰ</orig>
+		       <reg>sumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)pt(ur)e.</seg>
+		       <orig>sūpt݃e.</orig>
+		       <reg>sumpture.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christum) </seg>
+		       <orig>xp̄m </orig>
+		       <reg>christum </reg>
+	           <!-- there are letters in the book here but nothing in the orig -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)r(u)m.</seg>
+		       <orig>nr̄m.</orig>
+		       <reg>nostrum.</reg>
+	     </choice> Jube
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dice(re).</seg>
+		       <orig>bn̄dicė.</orig>
+		       <reg>benedicere.</reg>
+	     </choice> M 
+         <!-- transcription is wack here, the first two letters of the next word seem to be missing and written
+               here as question marks -->
+	<choice>
+		       <seg type="lucas">e(n)se</seg>
+		       <orig>ēse</orig>
+		       <reg>ense</reg>
+	     </choice> celes
+<lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">p(er)ticipes;</seg>
+		       <orig>ꝑticipes;</orig>
+		       <reg>perticipes;</reg>
+	     </choice> faciat nos
+<lb/>rex 
+	<choice>
+		       <seg type="lucas">et(er)ne</seg>
+		       <orig>eṫne</orig>
+		       <reg>eterne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)e.</seg>
+		       <orig>gl̇͘e.</orig>
+		       <reg>glorie.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+		       <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gra(tia)s</seg>
+		       <orig>gr̄as</orig>
+		       <reg>gratias</reg>
+	     </choice>
+      <lb/>fru. 
+	<choice>
+		       <seg type="lucas">Co(n)fiteant(ur)</seg>
+		       <orig>Cōfiteānt݃</orig>
+		       <reg>Confiteantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+	           <!-- used dot above for tibi, not sure if dot right or macron is more appropriate -->
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+		       <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">op(er)a</seg>
+		       <orig>oꝑa</orig>
+		       <reg>opera</reg>
+	     </choice> tua; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> tui 
+	<choice>
+		       <seg type="lucas">b(e)n(e)di</seg>
+		       <orig>bn̄di</orig>
+		       <reg>benedi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ca(n)t</seg>
+		       <orig>cāt</orig>
+		       <reg>cant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi).</seg>
+		       <orig>ṫ.</orig>
+	           <!-- used dot above for tibi, not sure if dot right or macron is more appropriate -->
+		       <reg>tibi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+		       <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice> p. 
+	<choice>
+		       <seg type="lucas">Agim(us)</seg>
+		       <orig>Agimꝰ</orig>
+		       <reg>Agimus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+	           <!-- used dot above for tibi, not sure if dot right or macron is more appropriate -->
+		       <reg>tibi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">gr(ati)as</seg>
+		       <orig>gr̄as</orig>
+	           <!-- scan is unclear but macron above the r seems right? -->
+		       <reg>gratias</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+	           <!-- not sure if not above or dot right, dot above seemed better for d -->
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">univ(er)sis</seg>
+		       <orig>univ̇sis</orig>
+		       <reg>universis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(e)n(e)ficiis</seg>
+		       <orig>bn̄ficiis</orig>
+		       <reg>beneficiis</reg>
+	     </choice> tuus: 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+	      <!-- not sure if dot above or dot right, looked to the right here -->
+		       <reg>qui</reg>
+	     </choice> vivis 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+ </orig>
+		       <reg>et</reg>
+	     </choice>
+
+
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0044_translation"
+       corresp="#p0044_transcription">open your hand, and you fill every living thing with blessing. Lord have mercy. 
+         Christ have mercy. Lord have mercy. </ab>
+
+</div>

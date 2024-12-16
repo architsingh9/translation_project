@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="162r"
+     xml:id="p0339">
+
+   <ab type="transcription"
+       xml:id="p0339_transcription"
+       corresp="#p0339_translation">
+
+      <lb/>oris tui. Et 
+	<choice>
+		    <seg type="lucas">ca(n)te(n)t</seg>
+	          <orig>cātēt</orig>
+		    <reg>cantent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> viis
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ni:</seg>
+		       <orig>dn̄i:</orig>
+		       <reg>domini:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(na)</seg>
+		       <orig>mag̈</orig>
+		       <reg>magna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	           <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+	           <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">excels(us)</seg>
+		       <orig>excelsꝰ</orig>
+		       <reg>excelsus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)ili</seg>
+	           <orig>hūili</orig>
+		       <reg>humili</reg>
+	     </choice>
+      <lb break="no"/>a respicit: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> alta alonge
+<lb/>
+	     <choice>
+		       <seg type="lucas">(co)gnoscit:</seg>
+		       <orig>ɔgnoscit:</orig>
+		       <reg>cognoscit:</reg>
+	     </choice> Si 
+	<choice>
+		       <seg type="lucas">a(m)b(u)lav(er)o</seg>
+	           <orig>ābl͘av̇o</orig>
+		       <reg>ambulavero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	           <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>medio 
+	<choice>
+		       <seg type="lucas">t(ri)bulat(i)o(n)is</seg>
+	      <orig>ṫbulatōis</orig>
+		       <reg>tribulationis</reg>
+	     </choice> vivifi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cab(is)</seg>
+	           <orig>caḃ</orig>
+		       <reg>cabis</reg>
+	     </choice> me: 
+	<choice>
+		 <seg type="lucas">(et) </seg>
+	      <orig>+ </orig>
+		 <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ira(m)</seg>
+	           <orig>irā</orig>
+		       <reg>iram</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicor(um)</seg>
+	           <orig>īimicoꝝ</orig>
+		       <reg>inimicorum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">meor(um)</seg>
+		       <orig>meorꝝ</orig>
+		       <reg>meorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exte(n)disti</seg>
+	           <orig>extēdisti</orig>
+		       <reg>extendisti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">manu(m)</seg>
+	           <orig>manū</orig>
+		       <reg>manum</reg>
+	     </choice> tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">a(m)</seg>
+	           <orig>ā</orig>
+		       <reg>am</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">salvu(m)</seg>
+	           <orig>salvū</orig>
+		       <reg>salvum</reg>
+	     </choice> me fecit 
+	<choice>
+		       <seg type="lucas">dext(er)a</seg>
+		       <orig>dext͘a</orig>
+		       <reg>dextera</reg>
+	     </choice>
+      <lb/>tua. 
+	<choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ret(ri)buet</seg>
+	           <orig>reṫbuet</orig>
+		       <reg>retribuet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+	           <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+	           <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	      <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)a</seg>
+	           <orig>oꝑa</orig>
+		       <reg>opera</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">manuu(m)</seg>
+	           <orig>manuū</orig>
+		       <reg>manuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuar(um)</seg>
+	           <orig>tuarꝝ</orig>
+		       <reg>tuarum</reg>
+	     </choice> ne despici
+<lb break="no"/>as. 
+	<choice>
+		       <seg type="lucas">An(tiphon)</seg>
+		       <orig>An̈</orig>
+		       <reg>Antiphon</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Op(er)a</seg>
+	           <orig>Oꝑa</orig>
+		       <reg>Opera</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">manuu(m)</seg>
+	           <orig>manuū</orig>
+		       <reg>manuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuar(um)</seg>
+	           <orig>tuarꝝ</orig>
+		       <reg>tuarum</reg>
+	     </choice>
+      <lb/>ne 
+	<choice>
+		       <seg type="lucas">d(e)spicia(s).</seg>
+	      <orig>ḋspiciaˢ.</orig>
+		       <reg>despicias.</reg>
+	     </choice> 
+	     <choice>
+	           <seg type="lucas">M(?)</seg><!--check transcription -->
+		       <orig>M̈</orig>
+		       <reg>M?</reg>
+	     </choice> 
+	     <choice>
+	           <seg type="lucas">a(?)</seg> <!--check transcription-->
+	           <orig>ä</orig>
+		       <reg>a?</reg>
+	     </choice>        Audivi.ii.
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0339_translation"
+       corresp="#p0339_transcription">
+      Let  all  the  kings  of the  earth  give  praise unto  Thee,  O  Lord: for  they  have  heard all  the  words  of  Thy mouth.
+      And  let  them  sing in  the  ways  of  the Lord:  for  great  is the  glory  of  the  Lord.
+      For  the  Lord  is high,  yet  He  looketh on  the  lowly:  and  the high  He  knoweth  afar off.
+      If  I  shall  walk  in <!-- OBDS pg 387 -->
+      the  midst  of  tribulation Thou  wilt  quicken me:  and  Thou  hast stretched  forth  
+      Thy hand  against  the wrath  of  mine  enemies, and  Thy  right hand  hath  saved  me.
+      The  Lord  will  repay for  me :  Thy  mercy, O  Lord,  endureth for  ever:  O  despise not  the  works  of  Thy hands. <!-- OBDS pg 388 -->
+      Antiphon
+      Despise  not,  O Lord,  the  works  of Thy  hands. <!-- OBDS pg 388 --> M(?) a(?) <!-- incomplete words -->
+      
+   </ab>
+</div>

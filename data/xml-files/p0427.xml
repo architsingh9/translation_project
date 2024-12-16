@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="206r"
+     xml:id="p0427">
+
+   <ab type="transcription"
+       xml:id="p0427_transcription"
+       corresp="#p0427_translation">
+
+      <lb/>tua 
+	<choice>
+		       <seg type="lucas">disp(er)ges</seg>
+		       <orig>disꝑges</orig>
+		       <reg>disperges</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+		       <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice> me
+<lb break="no"/>os. Et 
+	<choice>
+		       <seg type="lucas">p(er)des</seg>
+		       <orig>ꝑdes</orig>
+		       <reg>perdes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)bu</seg>
+		       <orig>ṫbu</orig>
+		       <reg>tribu</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">la(n)t</seg>
+		       <orig>lāt</orig>
+		       <reg>lant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m):</seg>
+		       <orig>meā:</orig>
+		       <reg>meam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> ego ser
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">v(us)</seg>
+		       <orig>vꝰ</orig>
+		       <reg>vus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tu(us)</seg>
+		       <orig>tuꝰ</orig>
+		       <reg>tuus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m).</seg>
+		       <orig>sū.</orig>
+		       <reg>sum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon?).</seg>
+		       <orig>än.</orig>
+		       <reg>antiphon?.<!--  check expansion, there is no helpful info in the translation--></reg>
+	     </choice> 
+ Ne
+<lb/>
+	     <choice>
+		       <seg type="lucas">remi(?)scaris</seg>
+		       <orig>remīscaris</orig>
+		       <reg>reminiscaris</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> delicta
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(e)l</seg>
+		       <orig>vl͘</orig>
+		       <reg>vel</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er?)</seg>
+		       <orig>ꝑntū</orig>
+		       <reg>parentum</reg>
+	</choice> 
+      
+	     <choice>
+		       <seg type="lucas">n(ost)ror(um)</seg>
+		       <orig>nr̄oꝝ</orig>
+		       <reg>nostrorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">neq(ue)</seg>
+		       <orig>neq⋮</orig>
+		       <reg>neque</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vi(n)dicta(m)</seg>
+		       <orig>vīdictā</orig>
+		       <reg>vindictam</reg>
+	     </choice> sumas de 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)tis</seg>
+		       <orig>pc̄tis</orig>
+		       <reg>peccatis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> adiu⸗        
+	<choice>
+		       <seg type="lucas">Ps(alm)</seg>
+		       <orig>Ps̈</orig>
+		       <reg>Psalm</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">n(ost)ris.</seg>
+		       <orig>nr̄is.</orig>
+		       <reg>nostris.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">toriu(m)</seg>
+		       <orig>toriū</orig>
+		       <reg>torium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tende:</seg>
+		       <orig>ītende:</orig>
+		       <reg>intende:</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">adiuna(n)du(m)</seg>
+		       <orig>adiunādū</orig>
+		       <reg>adiunandum</reg>
+	     </choice> me fe
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sti(?)a.</seg>
+		       <orig>stīa.</orig>
+		       <reg>stina.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Co(n)fu(n)da(n)t(ur)</seg>
+		       <orig>Cōfūdāt݃</orig> 
+		       <reg>Confundantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">revea(n)t(ur):</seg>
+		       <orig>reveāt݃:</orig>
+		       <reg>reveantur:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)r(un)t</seg>
+		       <orig>q̄r̄t</orig>
+		       <reg>querunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Av(er)ta(n)t(ur)</seg>
+		       <orig>Av̇tāt݃</orig> 
+		       <reg>Avertantur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">retrorsu(m)</seg>
+		       <orig>retrorsū</orig>
+		       <reg>retrorsum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">erubesca(n)t:</seg>
+		       <orig>erubescāt:</orig>
+		       <reg>erubescant:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vol(un?)t</seg>
+		       <orig>volt̄</orig>
+		       <reg>volunt</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> mala. 
+	<choice>
+		       <seg type="lucas">Av(er)ta(n)t(ur)</seg>
+		       <orig>Av̇tāt݃</orig>
+		       <reg>Avertantur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">stat(?)i</seg>
+		       <orig>statī</orig>
+		       <reg>statim</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">erubesce(n)tes:</seg>
+		       <orig>erubescētes:</orig>
+		       <reg>erubescentes:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dicu(n)t</seg>
+		       <orig>dicūt</orig>
+		       <reg>dicunt</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0427_translation"
+       corresp="#p0427_transcription">
+       And of thy goodness slay mine enemies.
+       And destroy all them that vex my soul; for I am thy servant.  <!-- drb palsm 142 -->
+       Remember not, O Lord, our offences, nor those of our parents;
+       neither take vengeance of our sins. <!-- DM pg. 341 -->
+       Haste thee, O God, to deliver me: make haste to help me, O Lord.
+       Let them be ashamed and confounded that seek after my soul:
+       let them be turned backward and put to confusion that wish me evil.
+       Let them for their reward be soon brought to shame: that cry over me, There, there.
+       <!-- drb palsm 69 -->         
+   </ab>
+
+</div>

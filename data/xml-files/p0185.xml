@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="85r"
+     xml:id="p0185">
+
+   <ab type="transcription"
+       xml:id="p0185_transcription"
+       corresp="#p0185_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(con)firmata</seg>
+		       <orig>ɔfirmata</orig>
+		       <reg>confirmata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scl͘i:</orig>
+		       <reg>seculi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">f(a)c(t)a</seg>
+		       <orig>fc̄a</orig>
+		       <reg>facta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)i</seg>
+		       <orig>v̇i</orig>
+		       <reg>veri</reg>
+	     </choice>
+      <lb break="no"/>tate 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eq(ui)tate.</seg>
+		       <orig>eq͘tate.</orig>
+		       <reg>equitate.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Rede(m)pt(i)o(nem)</seg>
+		       <orig>Redē̄mptō⋮</orig>
+		       <reg>Redemptionem</reg>
+	     </choice>
+         <lb/> <supplied>misit</supplied>
+         <choice>
+               <seg type="lucas"> d(omi)n(u)s</seg>
+               <orig>dn̄s</orig>
+               <reg>dominus</reg>
+         </choice>
+	<choice>
+		       <seg type="lucas">p(o)p(u)lo</seg>
+		       <orig>ppl͘o</orig>
+		       <reg>populo</reg>
+	     </choice> suo: 
+	<choice>
+		       <seg type="lucas">ma(n)</seg>
+		       <orig>mā</orig>
+		       <reg>man</reg>
+	     </choice>
+      <lb break="no"/>davit 
+	<choice>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">testame(n)tu(m)</seg>
+		       <orig>testamētu⋮</orig>
+		       <reg>testamentum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">suu(m).</seg>
+		       <orig>suū.</orig>
+		       <reg>suum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(tu)m</seg>
+		       <orig>Scm̄</orig>
+		       <reg>Sanctum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ribile</seg>
+		       <orig>t͘ribile</orig>
+		       <reg>terribile</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nom(en)</seg>
+		       <orig>nom̄</orig>
+		       <reg>nomen</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)itiu(m)</seg>
+		       <orig>īitiū</orig>
+		       <reg>initium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sapi(enti)e</seg>
+		       <orig>sapīe</orig>
+		       <reg>sapientie</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ti(m)or</seg>
+		       <orig>tīor</orig>
+		       <reg>timor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Intell(e)c(tu)s</seg>
+		       <orig>Intellc̄s</orig>
+		       <reg>Intellectus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bon(us)</seg>
+		       <orig>bonꝰ</orig>
+		       <reg>bonus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> faci
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">e(n)tib(us)</seg>
+		       <orig>ētib⋮</orig>
+		       <reg>entibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m):</seg>
+		       <orig>eū:</orig>
+		       <reg>eum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laudat(i)o</seg>
+		       <orig>laudat̄o</orig>
+		       <reg>laudatio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)et</seg>
+		       <orig>māet</orig>
+		       <reg>manet</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li.</seg>
+		       <orig>scl͘i.</orig>
+		       <reg>seculi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> Fidelia 
+	<choice>
+		       <seg type="lucas">o(mn)ia</seg>
+		       <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)firmata</seg>
+		       <orig>ɔfirmata</orig>
+		       <reg>confirmata</reg>
+	     </choice> in
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li.</seg>
+		       <orig>scl͘i.</orig>
+		       <reg>seculi.</reg>
+	     </choice>  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">B(ea)tus</seg>
+		       <orig>Btūs</orig>
+		       <reg>Beatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)</seg>
+		       <orig>v̇</orig>
+		       <reg>vir</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ti(m)et</seg>
+		       <orig>tīet</orig>
+		       <reg>timet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um):</seg>
+		       <orig>dn̄⋮:</orig>
+		       <reg>dominum:</reg>
+	     </choice> in        ||        In 
+	<choice>
+		       <seg type="lucas">ma(n)datis.</seg>
+		       <orig>mādatis.</orig>
+		       <reg>mandatis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vii(?).</seg>
+		       <orig>viiⁱ.</orig>
+		       <reg>octem??.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> volet nimis.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Pote(n)s</seg>
+		       <orig>Potēs</orig>
+		       <reg>Potens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra</seg>
+		       <orig>t͘ra</orig>
+		       <reg>terra</reg>
+	     </choice> erit <supplied>semen</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0185_translation"
+       corresp="#p0185_transcription">confirmed for ever and ever, made in truth and equity. 
+         e hath sent redemption to his people: he hath commanded his covenant for ever. Holy and terrible is his name: 
+         The fear of the Lord is the beginning of wisdom. A good understanding to all that do it: his praise continueth for ever and ever. <!-- psalm 110 drb --> 
+         Antiphon. All his commandments are faithful: confirmed for ever and ever. 
+         [Song] In mandatis. [Mode] vii. Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments. 
+         His seed shall be mighty upon earth: <!-- psalm 111 drb --> </ab>
+
+</div>

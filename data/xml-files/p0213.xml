@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="99r"
+     xml:id="p0213">
+
+   <ab type="transcription"
+       xml:id="p0213_transcription"
+       corresp="#p0213_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">votu(m)</seg>
+		       <orig>votū</orig>
+		       <reg>votum</reg>
+	     </choice> vovit deo ia
+<lb break="no"/>cob. Si 
+	<choice>
+		       <seg type="lucas">i(n)troiero</seg>
+		       <orig>ītroiero</orig>
+		       <reg>introiero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)na</seg>
+		       <orig>taḃna</orig>
+		       <reg>taberna</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">c(u)l(u)m</seg>
+		       <orig>cl̇͘m</orig>
+		       <reg>culum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dom(us)</seg>
+		       <orig>domꝰ</orig>
+		       <reg>domus</reg>
+	     </choice> mee: si 
+	<choice>
+		       <seg type="lucas">Asce(n)d(er)o</seg>
+		       <orig>Ascēḋo</orig>
+		       <reg>Ascendero</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">l(e)c(tu)m</seg>
+		       <orig>lcm̄</orig>
+		       <reg>lectum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">st(ra)ti</seg>
+		       <orig>sẗti</orig>
+		       <reg>strati</reg>
+	     </choice> mei. Si 
+	<choice>
+		       <seg type="lucas">ded(er)o</seg>
+		       <orig>deḋo</orig>
+		       <reg>dedero</reg>
+	     </choice> 
+	     <choice>		       
+	                 <seg type="lucas">so(m)</seg>
+		       <orig>sōp</orig>
+		       <reg>som</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nu(m)</seg>
+		       <orig>nū</orig>
+		       <reg>num</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ocul(is)</seg>
+		       <orig>ocul͘</orig>
+		       <reg>oculis</reg>
+	     </choice> meis: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	                  <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">palpeb(ri)s</seg>
+		       <orig>palpeḃs</orig>
+		       <reg>palpebris</reg>
+	     </choice>
+      <lb/>meis 
+	<choice>
+		       <seg type="lucas">dorimitat(i)o(nem).</seg>
+	                 <orig>dorimitatō⋮.</orig>
+		       <reg>dorimitationem.</reg>
+	     </choice> Et re
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ui)e(m)</seg>
+		       <orig>q͘ē</orig>
+		       <reg>quiem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(em)p(or)ib(us)</seg>
+	                 <orig>tꝑib⋮</orig>
+		       <reg>temporibus</reg>
+	     </choice> meis donec 
+	<choice>
+		       <seg type="lucas">i(n)ve</seg>
+		       <orig>īve</orig>
+		       <reg>inve</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nia(m)</seg>
+		       <orig>niā</orig>
+		       <reg>niam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">locu(m)</seg>
+		       <orig>locū</orig>
+		       <reg>locum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)nac(u)l(u)m</seg>
+		       <orig>taḃnacl͘m</orig>
+		       <reg>tabernaculum</reg>
+	     </choice>
+      <lb/>deo iacob. Ecce 
+	<choice>
+		       <seg type="lucas">audivi(mus)</seg>
+	                 <orig>audivīꝰ</orig>
+		       <reg>audivimus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> effrata: 
+	<choice>
+		       <seg type="lucas">i(n)ve(n)iem(us)</seg>
+		       <orig>īvēiemꝰ</orig>
+		       <reg>inveniemus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ca(m)pis</seg>
+		       <orig>cāpis̄</orig>
+		       <reg>campis</reg>
+	     </choice> silve. 
+	<choice>
+		       <seg type="lucas">Introibi(mus)</seg>
+		       <orig>Introibīꝰ</orig>
+		       <reg>Introibimus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)nac(u)l(u)m</seg>
+		       <orig>taḃnacl͘m</orig>
+		       <reg>tabernaculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> adorabi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us)</seg>
+		       <orig>mꝰ</orig>
+		       <reg>mus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> loco ubi 
+	<choice>
+		       <seg type="lucas">steteru(n)t</seg>
+		       <orig>steterūt</orig>
+		       <reg>steterunt</reg>
+	     </choice> pe
+<lb break="no"/>des 
+	<choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Surge 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in̄</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">req(ui)e(m)</seg>
+		       <orig>req̇ē</orig>
+		       <reg>requiem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tua(m):</seg>
+		       <orig>tuā:</orig>
+		       <reg>tuam:</reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> archa 
+	<choice>
+		       <seg type="lucas">s(an)ctificat(i)o(n)is</seg>
+		       <orig>sct̄ificatōis</orig>
+		       <reg>sanctificationis</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0213_translation"
+       corresp="#p0213_transcription">to the Lord. he vowed a vow to the God of Jacob. 
+         If I shall enter into the tabernacle of my house: if I shall go up into the bed wherein I lie: 
+         If I shall give sleep to my eyes, or slumber to my eyelids, 
+         Or rest to my temples: until I find out a place for the Lord, a tabernacle for the God of Jacob. 
+         Behold we have heard of it in Ephrata: we have found it in the fields of the wood. 
+         We will go into his tabernacle: We will adore in the place where his feet stood. 
+         Arise, O Lord, into thy resting place: thou and the ark, which thou hast sanctified. <!-- psalm 131 cont --> </ab>
+
+</div>

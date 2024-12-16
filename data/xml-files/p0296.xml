@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="140v"
+     xml:id="p0296">
+
+   <ab type="transcription"
+       xml:id="p0296_transcription"
+       corresp="#p0296_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">M(agnificat?)</seg>
+		       <orig>M̈</orig>
+		       <reg>Magnificat?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Sta(n)s</seg>
+		       <orig>Stās</orig>
+		       <reg>Stans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">aut(em)</seg>
+		       <orig>aūt</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ih(esu)s</seg>
+		       <orig>iḣs</orig>
+		       <reg>ihesus</reg>
+	     </choice> iussit
+<lb/>
+	     <choice>
+		       <seg type="lucas">cecu(m)</seg>
+		       <orig>cecū</orig>
+		       <reg>cecum</reg>
+	     </choice> adduci ad se 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> ait illi
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)d</seg>
+		       <orig>q̇d</orig>
+		       <reg>quid</reg>
+	     </choice> vis ut 
+	<choice>
+		       <seg type="lucas">facia(m)</seg>
+		       <orig>faciā</orig>
+		       <reg>faciam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">videa(m)</seg>
+		       <orig>videā</orig>
+		       <reg>videam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ih(esu)s</seg>
+		       <orig>iḣs</orig>
+		       <reg>ihesus</reg>
+	     </choice> ait illi respice
+<lb/>fides tua te 
+	<choice>
+		       <seg type="lucas">salvu(m)</seg>
+		       <orig>salvū</orig>
+		       <reg>salvum</reg>
+	     </choice> fecit et
+<lb/>
+	     <choice>
+		       <seg type="lucas">festi(m)</seg>
+		       <orig>ɔfestī</orig>
+		       <reg>confestim</reg>
+	     </choice> vidit 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">seq(ue)bat(ur)</seg>
+		       <orig>seq̄bat݃</orig>
+		       <reg>sequebatur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illu(m)</seg>
+		       <orig>illū</orig>
+		       <reg>illum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mag(ni)fica(n)s</seg>
+		       <orig>maġficās</orig>
+		       <reg>magnificans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m).</seg>
+		       <orig>deū.</orig>
+		       <reg>deum.</reg>
+	     </choice> 
+	<choice>
+		       <seg type="lucas">fr(?)</seg>
+		       <orig>rfr̈</orig>
+		       <reg>feria <!-- this is a guess based on Ash Wednesday. needs checking --></reg>
+	     </choice> q <!-- this might end up being an expansion and would need a choice -->
+         <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(iserere?)</seg>
+		       <orig>m̈</orig>
+		       <reg>Magnificat.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(?)</seg>
+		       <orig>ḃ</orig>
+		       <reg>Benedictus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon?).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice>
+         <choice>
+           <orig>Trade<supplied>t݃</supplied></orig>
+            <reg>Trade<supplied>tur</supplied></reg> 
+         </choice>
+	 
+	     <choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tib(us)</seg>
+		       <orig>gētib⋮</orig>
+		       <reg>gentibus</reg>
+	     </choice> ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">illude(n)du(m)</seg>
+		       <orig>illudēdū</orig>
+		       <reg>illudendum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">flagella(n)du(m)</seg>
+		       <orig>flagellādū</orig>
+		       <reg>flagellandum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">crucifige(n)du(m).</seg>
+		       <orig>crucifigēdū.</orig>
+		       <reg>crucifigendum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">M(agnificans?)</seg>
+		       <orig>M̈</orig>
+		       <reg>Magnificans?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">O(mn)is</seg>
+		       <orig>Oīs</orig>
+		       <reg>Omnis</reg>
+	     </choice> ple
+<lb break="no"/>bs ut vidit dedit 
+	<choice>
+		       <seg type="lucas">laude(m)</seg>
+		       <orig>laudē</orig>
+		       <reg>laudem</reg>
+	     </choice>
+      <lb/>deo. 
+	<choice>
+		       <seg type="lucas">Me(na?)</seg>
+		       <orig>Më</orig>
+		       <reg>Mena?</reg>
+	     </choice> de 
+	<choice>
+		       <seg type="lucas">d(omi)nicaloq(ue)re</seg>
+		       <orig>dn̄icaloqre</orig>
+		       <reg>dominicaloquere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q;</orig>
+		       <reg>quia</reg>
+	     </choice> audit 
+	<choice>
+		       <seg type="lucas">s(er)v(us)</seg>
+		       <orig>sv̇ꝰ</orig>
+		       <reg>servus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tu(us).</seg>
+		       <orig>tuꝰ.</orig>
+		       <reg>tuus.</reg>
+	     </choice> In sab
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(bat?)o</seg>
+		       <orig>ḃo</orig>
+		       <reg>bato</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Cognover(un)t</seg>
+		       <orig>Cognover̄t</orig>
+		       <reg>Cognoverunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> a
+<lb/>dan 
+	<choice>
+		       <seg type="lucas">usq(ue)</seg>
+		       <orig>usq⋮</orig>
+		       <reg>usque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(er)sabee</seg>
+		       <orig>ḃsabee</orig>
+		       <reg>bersabee</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uod)</seg>
+		       <orig>ȹ</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fidel(is)</seg>
+		       <orig>fidel͘:</orig>
+		       <reg>fidelis</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0296_translation"
+       corresp="#p0296_transcription"> Magnificat. Antiphon. Then 
+         Jesus stopped and commanded that he should be brought to Him. 
+         And asked him, saying, "What would you
+         have Me do for you?". "Lord, that I may
+         see." And Jesus said to him, "Receive your sight, your
+         faith has saved you." And. at once he received his sight,
+         and followed Him, glorifying God. <!-- DM 90, with some words missing from DPB -->
+         Feria Quarta and magnificat benedictus antiphon. 
+         He shall deliver him to the Gentiles to be mocked, 
+         and scourged, and crucified. <!-- DRB Matthew 20:19 -->
+         Magnificat. Antiphon. All the people
+         upon seeing it gave praise to God. <!-- DM 90 -->
+         Me? of Sunday. <!-- needs checking-->
+         Speak, Lord, for thy servant heareth. <!-- 1 Kings (1 Samuel) 3:9 DRB -->
+         On Saturday. 
+         All from Dan to Bersabee knew that Samuel was a faithful prophet of the Lord. 
+         <!-- 1 Kings (1 Samuel) 3:20 DRB continues-->
+         
+         
+   </ab>
+
+</div>

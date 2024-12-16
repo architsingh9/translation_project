@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="109r"
+     xml:id="p0233">
+
+   <ab type="transcription"
+       xml:id="p0233_transcription"
+       corresp="#p0233_translation">
+
+      <lb/>ad te. 
+	<choice>
+		       <seg type="lucas">Dirigat(ur)</seg>
+		       <orig>Dirigat݃</orig>
+		       <reg>Dirigatur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o</seg>
+		       <orig>or̄o</orig>
+		       <reg>oratio</reg>
+	     </choice> mea
+<lb/>
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)ce(n)su(m)</seg>
+		       <orig>īcēsū</orig>
+		       <reg>incensum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(e)c(t)u</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectum</reg>
+	     </choice> tuo: ele
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">vat(i)o</seg>
+		       <orig>vatō</orig>
+		       <reg>vatio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">manuu(m)</seg>
+		       <orig>manuū</orig>
+		       <reg>manuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mear(um)</seg>
+		       <orig>meaꝝ</orig>
+		       <reg>mearum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sac(ri)</seg>
+		       <orig>saċ</orig>
+		       <reg>sacri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ficiu(m)</seg>
+		       <orig>ficiū</orig>
+		       <reg>ficium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vesp(er)tinu(m).</seg>
+		       <orig>vesꝑtinū.</orig> 
+		       <reg>vespertinum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Po(n)e</seg>
+		       <orig>Pōe</orig>
+		       <reg>Pone</reg>
+	     </choice> do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mi(n)e</seg>
+		       <orig>mīe</orig>
+		       <reg>mine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">custodia(m)</seg>
+		       <orig>custodiā</orig>
+		       <reg>custodiam</reg>
+	     </choice> ori meo: 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ostiu(m)</seg>
+		       <orig>ostiū</orig>
+		       <reg>ostium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">c(ir)cu(m)sta(n)tie</seg>
+		       <orig>ċcūstātie</orig>
+		       <reg>circumstantie</reg>
+	     </choice> labiis me
+<lb break="no"/>is. 
+	<choice>
+		       <seg type="lucas">No(n)</seg>
+		       <orig>Nō</orig>
+		       <reg>Non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">decli(n)es</seg>
+		       <orig>declīes</orig>
+		       <reg>declines</reg>
+	     </choice> cor 
+	<choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ba</seg>
+		       <orig>v̇ba</orig>
+		       <reg>verba</reg>
+	     </choice> malitie: ad excu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sa(n)das</seg>
+		       <orig>sādas</orig>
+		       <reg>sandas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">excusat(i)o(n)es</seg>
+		       <orig>excusatōes</orig>
+		       <reg>excusationes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tis.</seg>
+		       <orig>pct̄is.</orig>
+		       <reg>peccatis.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Cu(m)</seg>
+		       <orig>Cū</orig>
+		       <reg>Cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(min)ib(ums)</seg>
+		       <orig>hōib⋮</orig>
+		       <reg>hominibums</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)a(n)tib(us)</seg>
+		       <orig>oꝑātib⋮</orig>
+		       <reg>operantibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)</seg>
+		       <orig>īiq̇</orig>
+		       <reg>iniqui</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tate(m):</seg>
+		       <orig>tatē:</orig>
+		       <reg>tatem:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(com)mu(n)icabo</seg>
+		       <orig>ɔmūicabo</orig>
+		       <reg>communicabo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">el(e)c(t)is</seg>
+		       <orig>elc̄is</orig>
+		       <reg>electis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um).</seg>
+		       <orig>eoꝝ.</orig>
+		       <reg>eorum.</reg>
+	     </choice> Corripiet me
+<lb/>
+	     <choice>
+		       <seg type="lucas">iust(us)</seg>
+		       <orig>iustꝰ</orig>
+		       <reg>iustus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+		       <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)crepabit</seg>
+		       <orig>īcrepabit</orig>
+		       <reg>increpabit</reg>
+	     </choice>
+      <lb/>me: 
+	<choice>
+		       <seg type="lucas">oleu(m)</seg>
+		       <orig>oleū</orig>
+		       <reg>oleum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)toris</seg>
+		       <orig>pct̄oris</orig>
+		       <reg>peccatoris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)</seg>
+		       <orig>ī</orig>
+		       <reg>im</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">pi(n)guet</seg>
+		       <orig>pīguet</orig>
+		       <reg>pinguet</reg>
+	     </choice> cor 
+	<choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> ad⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0233_translation"
+       corresp="#p0233_transcription">when I cry to thee. 
+         Let my prayer be directed as incense in thy sight; the lifting up of my hands, as evening sacrifice. 
+         Set a watch, O Lord, before my mouth: and a door round about my lips. 
+         Incline not my heart to evil words; to make excuses in sins. With men that work iniquity: and I will not communicate with the choicest of them. 
+         he just shall correct me in mercy, and shall reprove me: but let not the oil of the sinner fatten my heart. <!-- DRB says caput/head, but manuscript clearly says "cor" --> 
+         For my prayer also shall still be against the things with which they are well pleased: <!-- drb psalm 140 cont --></ab>
+
+</div>

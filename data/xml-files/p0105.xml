@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="45r"
+     xml:id="p0105">
+
+   <ab type="transcription"
+       xml:id="p0105_transcription"
+       corresp="#p0105_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(ri)s</seg>
+		       <orig>ṫs</orig>
+		       <reg>tris</reg>
+	     </choice> meis. Donec 
+	<choice>
+		       <seg type="lucas">pona(m)</seg>
+		       <orig>ponā</orig>
+		       <reg>ponam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+		       <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice> tuos: 
+	<choice>
+		       <seg type="lucas">scabellu(m)</seg>
+		       <orig>scabellū</orig>
+		       <reg>scabellum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pedu(m)</seg>
+		       <orig>pedū</orig>
+		       <reg>pedum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuor(um).</seg>
+		       <orig>tuoꝝ.</orig>
+		       <reg>tuorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Virga(m)</seg>
+		       <orig>Virgā</orig>
+		       <reg>Virgam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tu</seg>
+		       <orig>v̇tu</orig>
+		       <reg>virtu</reg>
+	     </choice>
+      <lb break="no"/>tis tue emittet 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> ex sy
+<lb break="no"/>on: 
+	<choice>
+		       <seg type="lucas">d(omi)nare</seg>
+		       <orig>dn̄are</orig>
+		       <reg>dominare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> medio 
+	<choice>
+		       <seg type="lucas">i(n)imi</seg>
+		       <orig>īimi</orig>
+		       <reg>inimi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cor(um)</seg>
+		       <orig>coꝝ</orig>
+		       <reg>corum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuor(um).</seg>
+		       <orig>tuoꝝ.</orig>
+		       <reg>tuorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Tecu(m)</seg>
+		       <orig>Tecū</orig>
+		       <reg>Tecum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ri)ncipiu(m)</seg>
+		       <orig>ṗncipiū</orig>
+		       <reg>principium</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> die 
+	<choice>
+		       <seg type="lucas">v(ir)tutis</seg>
+		       <orig>v̇tutis</orig>
+		       <reg>virtutis</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sple(n)dori</seg>
+		       <orig>splēdori</orig>
+		       <reg>splendori</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)or(um):</seg>
+		       <orig>s̄coꝝ:</orig>
+		       <reg>sanctorum:</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">ut(er)o</seg>
+		       <orig>uṫo</orig>
+		       <reg>utero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> lucife
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+		       <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> genui te. Iuravit do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">min(us)</seg>
+		       <orig>minꝰ</orig>
+		       <reg>minus</reg>
+	     </choice> 
+	     <choice>
+	     
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pe(n)itebit</seg>
+		       <orig>pēitebit</orig>
+		       <reg>penitebit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m):</seg>
+		       <orig>eū:</orig>
+		       <reg>eum:</reg>
+	     </choice> tu
+<lb/>es 
+	<choice>
+		       <seg type="lucas">sac(er)dos</seg>
+		       <orig>sac̄dos</orig>
+		       <reg>sacerdos</reg>
+	     </choice>  
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> ordi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ne(m)</seg>
+		       <orig>nē</orig>
+		       <reg>nem</reg>
+	     </choice> melchisedech. 
+	<choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice>
+      <lb/>a 
+	<choice>
+		       <seg type="lucas">dext(ri)s</seg>
+		       <orig>dexṫs</orig>
+		       <reg>dextris</reg>
+	     </choice> tuis: 
+	<choice>
+		       <seg type="lucas">(con)fregit</seg>
+		       <orig>ɔfregit</orig>
+		       <reg>confregit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> die
+<lb/>ire sue reges. Iudica
+<lb break="no"/>bit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nat(i)o(n)ib(us)</seg>
+		       <orig>natōib⋮</orig>
+		       <reg>nationibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)plevit</seg>
+		       <orig>īplevit</orig>
+		       <reg>implevit</reg>
+	     </choice> rui⸗
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0105_translation"
+       corresp="#p0105_transcription"> The Lord said to my Lord: 
+         Sit thou at my right hand: Until I make thy enemies thy footstool.
+         The Lord will send forth the sceptre of thy power out of Sion: 
+         rule thou in the midst of thy enemies. With thee is the principality 
+         in the day of thy strength: in the brightness of the saints: from 
+         the womb before the day star I begot thee. The Lord hath sworn, and 
+         he will not repent: Thou art a priest for ever according to the order 
+         of Melchisedech. The Lord at thy right hand hath broken kings in the 
+         day of his wrath. He shall judge among nations, he shall fill 
+         ruins <!-- DRBO Psalm 109 --> </ab> 
+
+</div>

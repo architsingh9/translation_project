@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="210v"
+     xml:id="p0436">
+
+   <ab type="transcription"
+       xml:id="p0436_transcription"
+       corresp="#p0436_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice>  
+      <choice>
+		       <seg type="lucas">licu(m)</seg>
+		       <orig>apl͘icū</orig>
+		       <reg>aplicum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	      
+      <choice>
+		       <seg type="lucas">d(us)</seg>
+		       <orig>g̈dꝰ</orig>
+		       <reg>gradus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)e</seg>
+		       <orig>eccl͘e</orig>
+		       <reg>ecclesie</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">religio(n)e</seg>
+		       <orig>religiōe</orig>
+		       <reg>religione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vare</seg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
+	     </choice> dig
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">n(ar?)is.t.</seg>
+		       <orig>ṅis.t.</orig>
+		       <reg>neris.t.</reg>
+	     </choice> 
+ Ut 
+	<choice>
+		       <seg type="lucas">ep(?)os</seg>
+		       <orig>ep̄os</orig>
+		       <reg>ep?os<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re?)latos</seg>
+		       <orig>p̄latos</orig>
+		       <reg>pre?latos<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ros</seg>
+		       <orig>nr̄os</orig>
+		       <reg>nostros</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(n)ctas</seg>
+		       <orig>cūctas</orig>
+		       <reg>cunctas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gregat(i)o</seg>
+		       <orig>ɔgregatō</orig>
+		       <reg>congregatio</reg>
+	     </choice>
+      <lb break="no"/>nes 
+	<choice>
+		       <seg type="lucas">ill(us?)</seg>
+		       <orig>ill͘</orig>
+		       <reg>illus?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)missas</seg>
+		       <orig>ɔmissas</orig>
+		       <reg>conmissas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> tuo 
+	<choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>sc̄o</orig>
+		       <reg>sancto</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(er)vicio</seg>
+		       <orig>s͘vicio</orig>
+		       <reg>servicio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vare</seg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar?)is.</seg>
+		       <orig>digṅis.</orig>
+		       <reg>digneris.</reg>
+	     </choice> 
+ t.
+<lb/>Ut 
+	<choice>
+		       <seg type="lucas">regib(us)</seg>
+		       <orig>regib⋮</orig>
+		       <reg>regibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ri)ncipib(us)</seg>
+		       <orig>ṗncipib⋮</orig>
+		       <reg>principibus</reg>
+	     </choice> no
+<lb break="no"/>stris 
+	<choice>
+		       <seg type="lucas">pace(m)</seg>
+		       <orig>pacē</orig>
+		       <reg>pacem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vera(m)</seg>
+		       <orig>verā</orig>
+		       <reg>veram</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cordia(m)</seg>
+		       <orig>ɔcordiā</orig>
+		       <reg>concordiam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">atq(ue)</seg>
+		       <orig>atq⋮</orig>
+		       <reg>atque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">victoria(m)</seg>
+		       <orig>victoriā</orig>
+		       <reg>victoriam</reg>
+	     </choice> donare dig
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">n(ar?)is.</seg>
+		       <orig>ṅis.</orig>
+		       <reg>neris.</reg>
+	     </choice> 
+ ti. Ut 
+	<choice>
+		       <seg type="lucas">cu(n)ctu(m)</seg>
+		       <orig>cūctū</orig>
+		       <reg>cunctum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(o)p(u)l(um)</seg>
+		       <orig>ppl͘⋮</orig>
+		       <reg>populum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christ)i</seg>
+		       <orig>xp̄i</orig>
+		       <reg>christi</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">anu(m)</seg>
+		       <orig>anū</orig>
+		       <reg>anum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)co(n?)so</seg>
+		       <orig>p̄cōso</orig>
+		       <reg>precon?so</reg> <!-- check expansion -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sa(n)g(ui)ne</seg>
+		       <orig>sāġne</orig>
+		       <reg>sanguine</reg>
+	     </choice> tuo re
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">de(m)ptu(m)</seg>
+		       <orig>dēptū</orig>
+		       <reg>demptum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vare</seg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar?)is.</seg>
+		       <orig>digṅis.</orig>
+		       <reg>digneris.</reg>
+	     </choice> 
+ t r?.
+<lb/>Ut 
+	<choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)f(a)c(t)orib(us)</seg>
+		       <orig>bn̄fc̄orib⋮</orig>
+		       <reg>benefactoribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ris</seg>
+		       <orig>nr̄is</orig>
+		       <reg>nostris</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">se(m)p(ite)rna</seg>
+		       <orig>sēpr̄na</orig>
+		       <reg>sempiterna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bo(na)</seg>
+		       <orig>bö</orig>
+		       <reg>bona</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ret(ri)buas.t.</seg>
+		       <orig>reṫbuas.t.</orig>
+		       <reg>retribuas.t.</reg>
+	     </choice> rati.
+<lb/>Ut 
+	<choice>
+		       <seg type="lucas">a(n)i(m)as</seg>
+		       <orig>aīas</orig>
+		       <reg>animas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ras</seg>
+		       <orig>nr̄as</orig>
+		       <reg>nostras</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pare(n)tu(m)</seg>
+		       <orig>parētū</orig>
+		       <reg>parentum</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0436_translation"
+       corresp="#p0436_transcription">
+       That You would vouchsafe to preserve our apostolic prelate 
+       and all the orders of the church in holy religion.
+       That You would vouchasafe to preserve our bishops and prelates
+       and all the congregations committed to them in Your holy service. <!-- DM page 403 -->
+       That You would vouchsafe to give peace and true concord and victory to our kings and princes.
+       That You would vouchsafe to preserve the whole christian people redeemed by Your blood.
+       That You would vouchsafe to give eternal happiness to all our benefactors.
+       <!-- DM page 404 cont. -->
+         
+   </ab>
+
+</div>

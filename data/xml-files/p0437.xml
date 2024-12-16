@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="211r"
+     xml:id="p0437">
+
+   <ab type="transcription"
+       xml:id="p0437_transcription"
+       corresp="#p0437_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ror(um)</seg>
+		       <orig>nr̄or⋮</orig>
+		       <reg>nostrorum</reg>
+	     </choice> ab 
+	<choice>
+		       <seg type="lucas">et(er)na</seg>
+		       <orig>eṫna</orig>
+		       <reg>eterna</reg>
+	     </choice>  
+      <choice>
+		       <seg type="lucas">nat(i)o(n)e</seg>
+		       <orig>dānatōe</orig>
+		       <reg>damnatione</reg>
+	     </choice>
+      <lb/>eripias.t. Ut 
+	<choice>
+		       <seg type="lucas">fruct(us)</seg>
+		       <orig>fructꝰ</orig>
+		       <reg>fructus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)re</seg>
+		       <orig>ṫre</orig>
+		       <reg>terre</reg>
+	     </choice>
+      <lb/>dare 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vare</seg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar?)is.</seg>
+		       <orig>digṅis.</orig>
+		       <reg>digneris.</reg>
+	     </choice> 
+ t r.
+<lb/>Ut 
+	<choice>
+		       <seg type="lucas">oc(u)los</seg>
+		       <orig>ocl͘os</orig>
+		       <reg>oculos</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(ericordi)e</seg>
+		       <orig>mīe</orig>
+		       <reg>miericordie</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> nos
+<lb/>
+	     <choice>
+		       <seg type="lucas">reduce(re)</seg>
+		       <orig>reducė</orig>
+		       <reg>reducere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar?)is.</seg>
+		       <orig>digṅis.</orig>
+		       <reg>digneris.</reg>
+	     </choice> 
+ t. Ut ob
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">seq(ui)u(m)</seg>
+		       <orig>seq̇ū</orig>
+		       <reg>sequium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vitutis</seg>
+		       <orig>s͘vitutis</orig>
+		       <reg>servitutis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nr̄e</orig>
+		       <reg>nostre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">rat(i?)ona</seg>
+		       <orig>ratōna</orig>
+		       <reg>rati?ona<!--  check expansion --></reg>
+	     </choice> 
+      <lb break="no"/>bile facias.t. Ut 
+	<choice>
+		       <seg type="lucas">me(n)tes</seg>
+		       <orig>mētes</orig>
+		       <reg>mentes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ras</seg>
+		       <orig>nr̄as</orig>
+		       <reg>nostras</reg>
+	     </choice> ad celestia desideria
+<lb/>erigas.t. Ut 
+	<choice>
+		       <seg type="lucas">mis(er)ias</seg>
+		       <orig>mis͘ias</orig>
+		       <reg>miserias</reg>
+	     </choice> pau
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(er?)m</seg>
+		       <orig>ꝑm</orig>
+		       <reg>per?m<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">captivor(um)</seg>
+		       <orig>captivoꝝ</orig>
+		       <reg>captivorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tueri</seg>
+		       <orig>ītueri</orig>
+		       <reg>intueri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> re
+<lb break="no"/>levare 
+	<choice>
+		       <seg type="lucas">dign(ar)is.t.</seg>
+		       <orig>digṅis.t.</orig>
+		       <reg>dignaris.t.</reg>
+	     </choice> Ut loca
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)ita(n)tes</seg>
+		       <orig>h̄itātes</orig>
+		       <reg>habitantes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis visi
+<lb break="no"/>rate 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)solari</seg>
+		       <orig>ɔsolari</orig>
+		       <reg>consolari</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar)is.</seg>
+		       <orig>digṅis.</orig>
+		       <reg>dignaris.</reg>
+	     </choice> t.r
+<lb/>Ut 
+	<choice>
+		       <seg type="lucas">reg(u)larib(us)</seg>
+		       <orig>regl͘arib⋮</orig>
+		       <reg>regularibus</reg>
+	     </choice> disciplinis
+<lb/>nos 
+	<choice>
+		       <seg type="lucas">i(n)stru(?)e</seg>
+		       <orig>īstru̇e</orig>
+		       <reg>instru?e</reg> <!-- check expansion, not in translation -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dign(ar)is.t.</seg>
+		       <orig>digṅis.t.</orig>
+		       <reg>digneris.t.</reg>
+	     </choice> Ut
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0437_translation"
+       corresp="#p0437_transcription">
+       That You would vouchsafe to give eternal happiness to all our benefactors.
+       That You would vouchsafe to give and preserve the fruits of the earth.
+       That You would vouchsafe to turn towards us the eyes of Your mercy.
+       That You would vouchsafe to make our worship a reasonable service.
+       That You would raise our minds to heavenly desires.
+       That You would vouchsafe to regard and relieve the misery of the poor and captives.
+       That You would vouchsafe to visit and comfort our homes and all who dwell therein. <!-- DM page 404 -->
+       That You would vouchsafe to instruct us in a good life.
+       That You would vouchsafe to give eternal rest to all the faithful departed.
+       <!-- DM page 405 cont. -->
+       
+   </ab>
+
+</div>

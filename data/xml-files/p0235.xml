@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="110r"
+     xml:id="p0235">
+
+   <ab type="transcription"
+       xml:id="p0235_transcription"
+       corresp="#p0235_translation">
+
+      <lb/>ad te exaudi me.  
+<lb/>VOce mea
+<lb/>ad 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice>
+         <seg next="#seg235">
+	     <choice>
+		       <seg type="lucas">cla(ma)⸗</seg>
+		       <orig>clä⸗</orig>
+		       <reg>clama⸗</reg>
+	     </choice>
+               </seg> Porcio. viii.
+<lb/><seg xml:id="seg235">vi</seg>: voce mea ad 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dep(re)</seg>
+		       <orig>dep̄</orig>
+		       <reg>depre</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cat(us)</seg>
+		       <orig>catꝰ</orig>
+		       <reg>catus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m).</seg>
+		       <orig>sū.</orig>
+		       <reg>sum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Effu(n)do</seg>
+		       <orig>Effūdo</orig>
+		       <reg>Effundo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)sp(e)c(t)u</seg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o(nem)</seg>
+		       <orig>or̄o⋮</orig>
+		       <reg>orationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m):</seg>
+		       <orig>meā:</orig>
+		       <reg>meam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)bulat(i)o(nem)</seg>
+		       <orig>ṫbulatō⋮</orig>
+		       <reg>tribulationem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(su)m</seg>
+		       <orig>ip̄m</orig>
+		       <reg>ipsum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)nu(n)t(i)o</seg>
+		       <orig>ꝓnūtō</orig>
+		       <reg>pronuntio</reg>
+	     </choice> In
+<lb/>
+	     <choice>
+		       <seg type="lucas">deficie(n)do</seg>
+		       <orig>deficiēdo</orig>
+		       <reg>deficiendo</reg>
+	     </choice> ex me 
+	<choice>
+		       <seg type="lucas">sp(iritu)m</seg>
+		       <orig>spm̄</orig>
+		       <reg>spiritum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m);</seg>
+		       <orig>meū;</orig>
+		       <reg>meum;</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">(con)gnovisti</seg>
+		       <orig>ɔgnovisti</orig>
+		       <reg>cognovisti</reg>
+	     </choice> semitas
+<lb/>meas. In via hac 
+	<choice>
+		       <seg type="lucas">q(ua)</seg>
+		       <orig>q̈</orig>
+		       <reg>qua</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(m)</seg>
+		       <orig>ā</orig>
+		       <reg>am</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(u)laba(m):</seg>
+		       <orig>bl͘abā:</orig>
+		       <reg>bulabam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">absco(n)der(un)t</seg>
+		       <orig>abscōder̄t</orig>
+		       <reg>absconderunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laq(ue)u(m)</seg>
+		       <orig>laq̄ū</orig>
+		       <reg>laqueum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(n)sid(er)aba(m)</seg>
+		       <orig>Cōsiḋabā</orig>
+		       <reg>Considerabam</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">dext(er)a(m)</seg>
+		       <orig>dext͘a⋮</orig>
+		       <reg>dexteram</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">videba(m):</seg>
+		       <orig>videbā:</orig>
+		       <reg>videbam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> erat 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice> cog
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nosce(re)t</seg>
+		       <orig>noscėt</orig>
+		       <reg>nosceret</reg>
+	     </choice> me. Periit fuga
+<lb/>a me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">req(ui)rat</seg>
+		       <orig>req̇rat</orig>
+		       <reg>requirat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0235_translation"
+       corresp="#p0235_transcription">I have cried to thee, O Lord, hear me. <!-- drb psalm 140 --> [Song] Porcio. [Mode] viii. 
+         I cried to the Lord with my voice: with my voice I made supplication to the Lord. 
+         In his sight I pour out my prayer, and before him I declare my trouble: 
+         When my spirit failed me, then thou knewest my paths. In this way wherein I walked, they have hidden a snare for me. 
+         I looked on my right hand, and beheld, and there was no one that would know me. Flight hath failed me: and there is no one that hath regard to my soul. <!-- drb psalm 141 cont --></ab>
+
+</div>

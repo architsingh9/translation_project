@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="26r"
+     xml:id="p0067">
+
+   <ab type="transcription"
+       xml:id="p0067_transcription"
+       corresp="#p0067_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+
+	     <choice>
+		       <seg type="lucas">(con)fitem(ur).</seg>
+		       <orig>ɔfitem݃.</orig>
+		       <reg>confitemur.</reg>
+	     </choice> Te 
+	<choice>
+		       <seg type="lucas">et(er)nu(m)</seg>
+		       <orig>eṫnū</orig>
+		       <reg>eternum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(at)re(m)</seg>
+		       <orig>pr̄e⋮</orig>
+		       <reg>patrem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)is</seg>
+		       <orig>oīs</orig>
+		       <reg>omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra</seg>
+		       <orig>ṫra</orig>
+		       <reg>terra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ven(er)at(ur).</seg>
+		       <orig>ven̄at݃.</orig>
+		       <reg>veneratur.</reg>
+	     </choice> Ti
+<lb break="no"/>bi 
+	<choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)g(e)li:</seg>
+		       <orig>āgl͘i:</orig>
+		       <reg>angeli:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> celi 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">univ(er)</seg>
+		       <orig>univ̇</orig>
+		       <reg>univer</reg>
+	     </choice>
+      <lb break="no"/>se 
+	<choice>
+		       <seg type="lucas">p(otes)tates.</seg>
+		       <orig>pt̄ates.</orig>
+		       <reg>potestates.</reg>
+	     </choice> Tibi cheru
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bi(m)</seg>
+		       <orig>bī</orig>
+		       <reg>bim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">seraphi(m):</seg>
+		       <orig>seraphī:</orig>
+		       <reg>seraphim:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)cessabili</seg>
+		       <orig>īcessabili</orig>
+		       <reg>incessabili</reg>
+	     </choice>
+      <lb/>voce 
+	<choice>
+		       <seg type="lucas">p(ro)clama(n)t.</seg>
+		       <orig>ꝓclamāt.</orig>
+		       <reg>proclamant.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(t)us.</seg>
+		       <orig>Scūs.</orig>
+		       <reg>Sanctus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(tu)s.</seg>
+		       <orig>Sc̄s.</orig>
+		       <reg>Sanctus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(tu)s.</seg>
+		       <orig>Sc̄s.</orig>
+		       <reg>Sanctus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> sa
+<lb break="no"/>baoth. 
+	<choice>
+		       <seg type="lucas">Ple(n)i</seg>
+		       <orig>Plēi</orig>
+		       <reg>Pleni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> celi 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)</seg>
+		       <orig>ṫ</orig>
+		       <reg>ter</reg>
+	     </choice>
+      <lb break="no"/>ra : maiestatis 
+	<choice>
+		       <seg type="lucas">gl(ori)e</seg>
+		       <orig>gl͘e</orig>
+		       <reg>glorie</reg>
+	     </choice> tue. 
+<lb/>Te 
+	<choice>
+		       <seg type="lucas">gl(ori)os(us)</seg>
+		       <orig>gl͘osꝰ</orig>
+		       <reg>gloriosus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ap(osto)lo(rum)</seg>
+		       <orig>apl͘oꝝ</orig>
+		       <reg>apostolorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">chor(us)</seg>
+		       <orig>chorꝰ</orig>
+		       <reg>chorus</reg>
+	     </choice>
+      <lb/>Te 
+	<choice>
+		       <seg type="lucas">p(ro)ph(et)a(rum)</seg>
+		       <orig>ꝓpḣaꝝ</orig>
+		       <reg>prophetarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laudabil(is)</seg>
+		       <orig>laudabil͘</orig>
+		       <reg>laudabilis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nu(meru)s</seg>
+		       <orig>nu̇s</orig>
+		       <reg>numerus</reg>
+	     </choice>
+      <lb/>Te 
+	<choice>
+		       <seg type="lucas">m(atry)r(um)</seg>
+		       <orig>mr̈⋮</orig>
+		       <reg>matryrum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(n)didat(us)</seg>
+		       <orig>cādidatꝰ</orig>
+		       <reg>candidatus</reg>
+	     </choice> : lau
+<lb break="no"/>dat 
+	<choice>
+		       <seg type="lucas">ex(er)cit(us).</seg>
+		       <orig>eẋcitꝰ.</orig>
+		       <reg>exercitus.</reg>
+	     </choice> Te 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">orbe(m)</seg>
+		       <orig>orbē</orig>
+		       <reg>orbem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(er)ra(rum)</seg>
+		       <orig>ṫraꝝ</orig>
+		       <reg>terrarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fitet(ur)</seg>
+		       <orig>ɔfitet݃</orig>
+		       <reg>confitetur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)a.</seg>
+		       <orig>eccl͘a.</orig>
+		       <reg>ecclesia.</reg>
+	     </choice> Pa
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tre(m)</seg>
+		       <orig>trē</orig>
+		       <reg>trem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)me(n)se</seg>
+		       <orig>īmēse</orig>
+		       <reg>inmense</reg>
+	     </choice> maiestatis.
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0067_translation"
+       corresp="#p0067_transcription">We acknowledge Thee to be the Lord.
+         All the earth doth worship Thee: the Father everlasting. To Thee
+         all Angels cry aloud: the heavens and all the Powers therein. To 
+         Thee Cherubim and Seraphim: continually do cry. Holy, Holy, Holy: 
+         Lord God of Sabaoth. Heaven and earth are full: of the majesty of
+         Thy glory. The glorious choir of the Apostles, The admirable company
+         of the Protphets, The white-robed army of Martyrs: praises Thee. The 
+         Holy Church throughout all the world: doth acknowledge Thee. The Father: 
+         of infinite Majesty. <!-- OBDS pg 40, 42 --></ab>
+
+</div>

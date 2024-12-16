@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="92v"
+     xml:id="p0200">
+
+   <ab type="transcription"
+       xml:id="p0200_transcription"
+       corresp="#p0200_translation">
+  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Mo(n)tag</seg>
+		       <orig>Mōtag</orig>
+		       <reg>Montag</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ersu)s.</seg>
+		       <orig>v̈s.</orig>
+		       <reg>vesperas.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">LEtat(us)</seg>
+		       <orig>LEtatꝰ</orig>
+		       <reg>LEtatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> hys 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice>          In 
+	<choice>
+		       <seg type="lucas">domu(m).</seg>
+		       <orig>domū.</orig>
+		       <reg>domum.</reg>
+	     </choice> vii.
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(i)c(t)a</seg>
+		       <orig>dc̄a</orig>
+		       <reg>dicta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi):</seg>
+		       <orig>ṁ:</orig>
+		       <reg>mihi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">domu(m)</seg>
+		       <orig>domū</orig>
+		       <reg>domum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> ibi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us).</seg>
+		       <orig>mꝰ.</orig>
+		       <reg>mus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sta(n)tes</seg>
+		       <orig>Stātes</orig>
+		       <reg>Stantes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">era(n)t</seg>
+		       <orig>erāt</orig>
+		       <reg>erant</reg>
+	     </choice> pedes
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ri:</seg>
+		       <orig>nr̄i:</orig>
+		       <reg>nostri:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> atriis tuis 
+	<choice>
+		       <seg type="lucas">i(e)r(usa)l(e)m.</seg>
+		       <orig>ihrl͘m.</orig>
+		       <reg>ierusalem.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">I(e)r(usa)l(em)</seg>
+		       <orig>Irl͘⋮</orig>
+		       <reg>Ierusalem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">edificat(ur)</seg>
+		       <orig>edificat݃</orig>
+		       <reg>edificatur</reg>
+	     </choice> ut civi
+<lb break="no"/>tas: 
+	<choice>
+		       <seg type="lucas">cui(us)</seg>
+		       <orig>cuiꝰ</orig>
+		       <reg>cuius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)ticipat(i)o</seg>
+		       <orig>ꝑticipatō</orig> 
+		       <reg>participatio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">idip(su)m.</seg>
+		       <orig>idip̄m.</orig>
+		       <reg>idipsum.</reg>
+	     </choice> Illuc 
+	<choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">asce(n)de</seg>
+		       <orig>ascēde</orig>
+		       <reg>ascende</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ru(n)t</seg>
+		       <orig>rūt</orig>
+		       <reg>runt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)b(us)</seg>
+		       <orig>ṫb⋮</orig>
+		       <reg>tribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)b(us)</seg>
+		       <orig>ṫb⋮</orig>
+		       <reg>tribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">testi(m)oni</seg>
+		       <orig>testīoni</orig>
+		       <reg>testimoni</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice> ad 
+	     <choice>
+		       <seg type="lucas">fite(n)du(m)</seg>
+		       <orig>ɔfitēdū</orig>
+		       <reg>confitendum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nomi(ni)</seg>
+		       <orig>nomī</orig>
+		       <reg>nomini</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice> illic 
+	<choice>
+		       <seg type="lucas">seder(un)t</seg>
+		       <orig>seder̄t</orig>
+		       <reg>sederunt</reg>
+	     </choice> sedes
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iudic(i)o:</seg>
+		       <orig>iudicō:</orig>
+		       <reg>iudicio:</reg>
+	     </choice> sedes 
+	<choice>
+		       <seg type="lucas">sup(er)</seg>
+		       <orig>suꝑ</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">domu(m)</seg>
+		       <orig>domū</orig>
+		       <reg>domum</reg>
+	     </choice>
+      <lb/>david. Rogate 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> ad pa
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ce(m)</seg>
+		       <orig>cē</orig>
+		       <reg>cem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(e)r(usa)l(em):</seg>
+		       <orig>irl͘⋮:</orig>
+		       <reg>ierusalem:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">unda(n)tia</seg>
+		       <orig>hūndātia</orig>
+		       <reg>abundantia</reg>
+	     </choice> dili⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0200_translation"
+       corresp="#p0200_transcription">Monday Vespers. 
+         [Song] In dominum [Mode] vii. 
+         I rejoiced at the things that were said to me: We shall go into the house of the Lord. 
+         Our feet were standing in thy courts, O Jerusalem.
+         For thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the name of the Lord. 
+         Because their seats have sat in judgment, seats upon the house of David.
+         Pray ye for the things that are for the peace of Jerusalem: and abundance for them that love thee. <!-- psalm 121 drb cont --> </ab>
+
+</div>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="163v"
+     xml:id="p0342">
+
+   <ab type="transcription"
+       xml:id="p0342_transcription"
+       corresp="#p0342_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Or(ati?)o</seg>
+		       <orig>Or̄o</orig>
+		       <reg>Orati?o<!--  check expansion --></reg>
+	     </choice> 
+	     <choice>         
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">c(?).</seg>
+		       <orig>c̈.</orig>
+		       <reg>c?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Ite(?)</seg>
+		       <orig>Itē</orig>
+		       <reg>Ite?<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vigi(?)</seg>
+		       <orig>vigï</orig>
+		       <reg>vigi?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">defu(n)c</seg>
+		       <orig>defūc</orig>
+		       <reg>defunc</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tor(um)</seg>
+		       <orig>toꝝ</orig>
+		       <reg>torum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(?).</seg>
+		       <orig>an̈.</orig>
+		       <reg>an?.<!--  check expansion --></reg>
+	     </choice> 
+                Dirige. vii.
+<lb/>VErba mea au
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rib(us)</seg>
+		       <orig>rib⋮</orig>
+		       <reg>ribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)cipe</seg>
+		       <orig>ꝑcipe</orig>
+		       <reg>parcipe</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)tellige</seg>
+		       <orig>ītellige</orig>
+		       <reg>intellige</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cla(m)ore(m)</seg>
+		       <orig>clāorē</orig>
+		       <reg>clamorem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Inte(n)de</seg>
+		       <orig>Intēde</orig>
+		       <reg>Intende</reg>
+	     </choice> voci 
+	<choice>
+		       <seg type="lucas">or(ati)o</seg>
+		       <orig>or̄o</orig>
+		       <reg>oratio</reg>
+	     </choice>
+      <lb break="no"/>nis mee: rex 
+	<choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s.</seg>
+		       <orig>m̄s.</orig>
+		       <reg>meus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> ad te orabo 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)e</seg>
+		       <orig>māe</orig>
+		       <reg>mane</reg>
+	     </choice> exaudies 
+	<choice>
+		       <seg type="lucas">voce(m)</seg>
+		       <orig>vocē</orig>
+		       <reg>vocem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice>
+      <lb/>Mane astabo 
+	<choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> vide
+<lb break="no"/>bo: 
+	<choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vole(n)s</seg>
+		       <orig>volēs</orig>
+		       <reg>volens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)ta</seg>
+		       <orig>īiq̇ta</orig>
+		       <reg>iniquita</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(m)</seg>
+		       <orig>tē</orig>
+		       <reg>tem</reg>
+	     </choice> tu es. 
+	<choice>
+		       <seg type="lucas">Neq(ue)</seg>
+		       <orig>Neq⋮</orig>
+		       <reg>Neque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)itabit</seg>
+		       <orig>hītabit</orig>
+		       <reg>habitabit</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">iux(ta)</seg>
+		       <orig>iuẍ</orig>
+		       <reg>iuxta</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">malign(us):</seg>
+		       <orig>malignꝰ:</orig>
+		       <reg>malignus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">neq(ue)</seg>
+		       <orig>neq⋮</orig>
+		       <reg>neque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ma(n)eb(un)t</seg>
+		       <orig>māeb̄t</orig>
+		       <reg>manebunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iusti</seg>
+		       <orig>īiusti</orig>
+		       <reg>iniusti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> oculos
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0342_translation"
+       corresp="#p0342_transcription">
+       <!-- first 3 lines have incomplete words-->
+       Speech and <!-- google translate--> c(?). Ite(?) vigi(?) of the deceased <!-- google translate --> an(?)
+       Give  ear,  O  Lord,  to my  words :  understand my  cry.
+       O  hearken  unto  the voice  of  my  prayer: my  King  and  my  God.
+       For  to  Thee  will  I pray :  in  the  morning, O  Lord,  Thou shalt  hear  my  voice. <!-- OBDS pg 397-->
+       In  the  morning  will I  stand  before  Thee and  will  see:  for Thou  art  not  a  God that  wiliest  iniquity. 
+       Neither  shall  the wicked  dwell  nigh Thee:  nor  the  unjust abide  before  Thine eyes.<!-- OBDS pg 398 -->
+   </ab>
+
+</div>

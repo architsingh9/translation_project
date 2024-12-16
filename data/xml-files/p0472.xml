@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="228v" xml:id="p0472">
+
+      <ab type="transcription" xml:id="p0472_transcription" corresp="#p0472_translation">
+            <lb/>tur; <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">laudab(un)t</seg>
+                  <orig>laudab̄t</orig>
+                  <reg>laudabunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">d(omi)n(um)</seg>
+                  <orig>dn̄⋮</orig>
+                  <reg>dominum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">req(ui)</seg>
+                  <orig>req̇</orig>
+                  <reg>requi</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">re(n)t</seg>
+                  <orig>rēt</orig>
+                  <reg>rent</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">eu(m):</seg>
+                  <orig>eū:</orig>
+                  <reg>eum:</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">vive(n)t</seg>
+                  <orig>vivēt</orig>
+                  <reg>vivent</reg>
+            </choice> corda <choice>
+                  <seg type="lucas">eor(um)</seg>
+                  <orig>eoꝝ</orig>
+                  <reg>eorum</reg>
+            </choice> in <lb/>
+            <choice>
+                  <seg type="lucas">s(e)c(u)l(um)</seg>
+                  <orig>scl͘⋮</orig>
+                  <reg>seculum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(e)c(u)li:</seg>
+                  <orig>scl͘i:</orig>
+                  <reg>seculi:</reg>
+            </choice> 
+            <choice>
+                  <seg type="lucas">Remi(ni)sce(n)t(ur)</seg>
+                  <orig>Remīscēt݃</orig>
+                  <reg>Reminiscentur</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">v(er)te(n)</seg>
+                  <orig>ɔv̇tē</orig>
+                  <reg>converten</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">t(ur)</seg>
+                  <orig>t݃</orig>
+                  <reg>tur</reg>
+            </choice> ad <choice>
+                  <seg type="lucas">d(omi)n(um):</seg>
+                  <orig>dn̄⋮:</orig>
+                  <reg>dominum:</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">univ(er)si</seg>
+                  <orig>univ̇si</orig>
+                  <reg>universi</reg>
+            </choice> fines <choice>
+                  <seg type="lucas">t(er)re.</seg>
+                  <orig>ṫre.</orig>
+                  <reg>terre.</reg>
+            </choice>
+            <lb/>Et <choice>
+                  <seg type="lucas">adorab(un)t</seg>
+                  <orig>adorab̄t</orig>
+                  <reg>adorabunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">sp(e)c(t)u</seg>
+                  <orig>ɔspc̄u</orig>
+                  <reg>conspectu</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ei(us):</seg>
+                  <orig>eiꝰ:</orig>
+                  <reg>eius:</reg>
+            </choice> u <lb break="no"/>
+            <choice>
+                  <seg type="lucas">niv(er)se</seg>
+                  <orig>niv̇se</orig>
+                  <reg>niverse</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">fa(m)ilie</seg>
+                  <orig>fāilie</orig>
+                  <reg>familie</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ge(n)ciu(m).</seg>
+                  <orig>gēciū.</orig>
+                  <reg>gencium.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Q(uonia)m</seg>
+                  <orig>Qm̄</orig>
+                  <reg>Quoniam</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">d(omi)ni</seg>
+                  <orig>dn̄i</orig>
+                  <reg>domini</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">e(st)</seg>
+                  <orig>ē</orig>
+                  <reg>est</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">regnu(m):</seg>
+                  <orig>regnū:</orig>
+                  <reg>regnum:</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ip(s)e</seg>
+                  <orig>ip̄e</orig>
+                  <reg>ipse</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">d(omi)nabi</seg>
+                  <orig>dn̄abi</orig>
+                  <reg>dominabi</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">t(ur)</seg>
+                  <orig>t݃</orig>
+                  <reg>tur</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ge(n)ciu(m).</seg>
+                  <orig>gēciū.</orig>
+                  <reg>gencium.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Ma(n)ducaver(un)t</seg>
+                  <orig>Māducaver̄t</orig>
+                  <reg>Manducaverunt</reg>
+            </choice> et <lb/>
+            <choice>
+                  <seg type="lucas">adoraver(un)t</seg>
+                  <orig>adoraver̄t</orig>
+                  <reg>adoraverunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">o(mne)s</seg>
+                  <orig>ōs</orig>
+                  <reg>omnes</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">pi(n)gues</seg>
+                  <orig>pīgues</orig>
+                  <reg>pingues</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(er)re:</seg>
+                  <orig>ṫre:</orig>
+                  <reg>terre:</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">sp(e)c(t)u</seg>
+                  <orig>ɔspcū</orig>
+                  <reg>conspectu</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ei(us)</seg>
+                  <orig>eiꝰ</orig>
+                  <reg>eius</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">cade(n)t</seg>
+                  <orig>cadēt</orig>
+                  <reg>cadent</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">o(mne)s</seg>
+                  <orig>ōs</orig>
+                  <reg>omnes</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">desce(n)</seg>
+                  <orig>descē</orig>
+                  <reg>descen</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">du(n)t</seg>
+                  <orig>dūt</orig>
+                  <reg>dunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(er)ra(m).</seg>
+                  <orig>ṫrā.</orig>
+                  <reg>terram.</reg>
+            </choice> Et <choice>
+                  <seg type="lucas">a(n)i(m)a</seg>
+                  <orig>aīa</orig>
+                  <reg>anima</reg>
+            </choice> mea <lb/>illi vivet: 
+            
+            <choice> 
+                  <seg type="lucas">(et) </seg> 
+                  <orig> + </orig>
+                  <reg>et </reg>
+            </choice>       
+            <choice>
+                  <seg type="lucas">seme(n)</seg>
+                  <orig>semē</orig>
+                  <reg>semen</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">meu(m)</seg>
+                  <orig>meū</orig>
+                  <reg>meum</reg>
+            </choice> ser <lb break="no"/>viet illi. 
+            
+            <choice>
+                  <seg type="lucas">Annu(n)ciabit(ur)</seg>
+                  <orig>Annūciabit݃</orig>
+                  <reg>Annunciabitur</reg>
+            </choice>
+            
+            <lb/>
+            <choice>
+                  <seg type="lucas">d(omi)no</seg>
+                  <orig>dn̄o</orig>
+                  <reg>domino</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">g(e)n(er)at(i)o</seg>
+                  <orig>gṅatō</orig> 
+                  <reg>generatio</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ve(n)tura;</seg>
+                  <orig>vētura;</orig>
+                  <reg>ventura;</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig> + </orig>
+                  <reg>et </reg>
+            </choice> an <lb break="no"/>
+          
+            <choice>
+                  <seg type="lucas">nu(n)ciab(un)t</seg>
+                  <orig>nūciab̄t</orig>
+                  <reg>nunciabunt</reg>
+           </choice> celi 
+            
+            <choice>
+                  <seg type="lucas">iusticia(m)</seg>
+                  <orig>iusticiā</orig>
+                  <reg>iusticiam</reg>
+            </choice> eius: </ab>
+
+      <ab type="translation" xml:id="p0472_translation" corresp="#p0472_transcription"><!-- continued from DRB Psalm 21 -->
+and shall be filled; and they shall praise the Lord that seek him: their hearts shall live for ever
+and ever. All the ends of the earth shall remember, and shall be converted to
+the Lord: And all the kindreds of the Gentiles shall adore in his sight. For
+the kingdom is the Lord's; and he shall have dominion over the nations. All the
+fat ones of the earth have eaten and have adored: all they that go down to the
+earth shall fall before him. And to him my soul shall live: and my seed shall
+serve him. There shall be declared to the Lord a generation to come: and the
+heavens shall shew forth his justice
+<!-- continues DRB Pslam 21 -->
+</ab>
+
+</div>

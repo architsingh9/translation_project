@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="115r"
+     xml:id="p0245">
+
+   <ab type="transcription"
+       xml:id="p0245_transcription"
+       corresp="#p0245_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">rie(n)tib(us).</seg>
+		       <orig>riētib⋮.</orig>
+		       <reg>rientibus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> solvit 
+	<choice>
+		       <seg type="lucas">(com)pe</seg>
+		       <orig>ɔpe</orig>
+		       <reg>compe</reg>
+	     </choice> 
+      <lb break="no"/>ditos: 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illu(m)i(n)at</seg>
+		       <orig>illuīat</orig>
+		       <reg>illuminat</reg>
+	     </choice> cecos.
+<lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> erigit elisos: 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice>
+      <lb/>diligit iustos. 
+	<choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> cus
+<lb break="no"/>todit 
+	<choice>
+		       <seg type="lucas">adve(n)as;</seg>
+		       <orig>advēas;</orig>
+		       <reg>advenas;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pupillu(m)</seg>
+		       <orig>pupillū</orig>
+		       <reg>pupillum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vidua(m)</seg>
+		       <orig>viduā</orig>
+		       <reg>viduam</reg>
+	     </choice> suscipiet: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> vi
+<lb break="no"/>as 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+		       <orig>pct̄oꝝ</orig> 
+		       <reg>peccatorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">disp(er)det.</seg>
+		       <orig>disꝑdet.</orig>
+		       <reg>disperdet.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Reg(na)</seg>
+		       <orig>Reg̈</orig>
+		       <reg>Regna</reg>
+	     </choice>
+      <lb break="no"/>bit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)la;</seg>
+		       <orig>scl͘a;</orig>
+		       <reg>secula;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tu(us)</seg>
+		       <orig>tuꝰ</orig>
+		       <reg>tuus</reg>
+	     </choice> sy
+<lb break="no"/>on: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(e)n(er)at(i)o(n)e(m)</seg>
+		       <orig>gṅatōe</orig>
+		       <reg>generationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(e)n(er)at(i)o(n)e(m).</seg>
+		       <orig>gṅatōe⋮.</orig>
+		       <reg>generationem.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> Laudabo 
+	<choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> in  
+<lb/>vita mea
+<lb/>LAudate do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">minu(m)</seg>
+		       <orig>minū</orig>
+		       <reg>minum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> <seg next="#seg245">bo⸗</seg>      
+	<choice>
+		       <seg type="lucas">D(e)o</seg>
+		       <orig>Ḋo</orig>
+		       <reg>Deo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ro.</seg>
+		       <orig>nr̄o.</orig>
+		       <reg>nostro.</reg>
+	     </choice> 
+ viii.
+<lb/>
+         <seg xml:id="seg245">
+	     <choice>
+		       <seg type="lucas">n(us)</seg>
+		       <orig>nꝰ</orig>
+		       <reg>nus</reg>
+	     </choice> 
+         </seg>
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">psalm(us):</seg>
+		       <orig>psalmꝰ:</orig>
+		       <reg>psalmus:</reg>
+	     </choice> deo 
+	<choice>
+		       <seg type="lucas">n(ost)ro</seg>
+		       <orig>nr̄o</orig>
+		       <reg>nostro</reg>
+	     </choice> sit
+<lb/>
+	     <choice>
+		       <seg type="lucas">iocu(n)da</seg>
+		       <orig>iocūda</orig>
+		       <reg>iocunda</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">decoraq(ue)</seg>
+		       <orig>decoraq⋮</orig>
+		       <reg>decoraque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laudat(i)o.</seg>
+		       <orig>laudatō.</orig>
+		       <reg>laudatio.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0245_translation"
+       corresp="#p0245_transcription">who giveth food to the hungry. The Lord looseth them that are fettered: 
+         The Lord enlighteneth the blind. The Lord lifteth up them that are cast down: the Lord loveth the just. 
+         The Lord keepeth the strangers, he will support the fatherless and the widow: and the ways of sinners he will destroy. 
+         The Lord shall reign for ever: thy God, O Sion, unto generation and generation. Alleluia. In my life I will praise my God. <!-- drb psalm 145. -->
+   [Song] Deo nostro. [Mode] viii. 
+   Praise ye the Lord, because psalm is good: to our God be joyful and comely praise. <!-- drb psalm 146 cont --> </ab>
+
+</div>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="243r"
+     xml:id="p0501">
+
+   <ab type="transcription"
+       xml:id="p0501_transcription"
+       corresp="#p0501_translation">
+
+      <lb/>tate 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)r(u)m;</seg>
+		       <orig>nr̄m;</orig>
+		       <reg>nostrum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> adora
+<lb break="no"/>te 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mo(n)te</seg>
+		       <orig>mōte</orig>
+		       <reg>monte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>sc̄o</orig>
+		       <reg>sancto</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)us</seg>
+		       <orig>scūs</orig>
+		       <reg>sanctus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(oste)r.</seg>
+		       <orig>nr̄.</orig>
+		       <reg>noster.</reg>
+	     </choice> De 
+	<choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>scō</orig>
+		       <reg>sancto</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nico</seg>
+		       <orig>dn̄ico</orig>
+		       <reg>dominico</reg>
+	     </choice>
+      <lb/>QUasi stella                                ad 
+	<choice>
+		       <seg type="lucas">v(ersu)s</seg>
+		       <orig>v̈s</orig>
+		       <reg>vesperas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cap(ite).</seg>
+		       <orig>cap̄.</orig>
+		       <reg>capitulum.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">matuti(n)a</seg>
+		       <orig>matutīa</orig>
+		       <reg>matutina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> medio ne
+<lb break="no"/>bule: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uas)i</seg>
+		       <orig>q̈i</orig>
+		       <reg>quasi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lu(n)a</seg>
+		       <orig>lūa</orig>
+		       <reg>luna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ple(na)</seg>
+		       <orig>plë</orig>
+		       <reg>plena</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dieb(us)</seg>
+		       <orig>dieb⋮</orig>
+		       <reg>diebus</reg>
+	     </choice>
+      <lb/>suis; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uas)i</seg>
+		       <orig>q̈i</orig>
+		       <reg>quasi</reg>
+	     </choice> sol 
+	<choice>
+		       <seg type="lucas">refulge(n)s:</seg>
+		       <orig>refulgēs:</orig>
+		       <reg>refulgens:</reg>
+	     </choice> sic 
+<lb/>iste effulsit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">te(m)plo</seg>
+		       <orig>tēplo</orig>
+		       <reg>templo</reg>
+	     </choice> dei. 
+	<choice>
+		       <seg type="lucas">D(e)o.</seg>
+		       <orig>Ḋo.</orig>
+		       <reg>Deo.</reg>
+	     </choice>
+      <lb/>GAude 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>m̄r</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)a</seg>
+		       <orig>eccl͘a</orig>
+		       <reg>ecclesia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">leta(m)</seg>
+		       <orig>letā</orig>
+		       <reg>letam</reg>
+	     </choice> a
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ge(n)s</seg>
+		       <orig>gēs</orig>
+		       <reg>gens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(m)oria(m)</seg>
+		       <orig>mēoriā</orig>
+		       <reg>memoriam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> nove
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ro)lis</seg>
+		       <orig>ꝓlis</orig>
+		       <reg>prolis</reg>
+	     </choice> gaudia mittis ad ce
+<lb break="no"/>li 
+	<choice>
+		       <seg type="lucas">curia(m).</seg>
+		       <orig>curiā.</orig>
+		       <reg>curiam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Predicator(um)</seg>
+		       <orig>Predicatoꝝ</orig>
+		       <reg>Predicatorum</reg>
+	     </choice> or
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">di(ni)s</seg>
+		       <orig>dīs</orig>
+		       <reg>dinis</reg>
+	     </choice> dux 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nic(us)</seg>
+		       <orig>dn̄icꝰ</orig>
+		       <reg>dominicus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)di</seg>
+		       <orig>mūdi</orig>
+		       <reg>mundi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ia(m)</seg>
+		       <orig>iā</orig>
+		       <reg>iam</reg>
+	     </choice> fulget 
+	<choice>
+		       <seg type="lucas">t(er)mi(ni)s</seg>
+		       <orig>ṫmīs</orig>
+		       <reg>terminis</reg>
+	     </choice> civis 
+	<choice>
+		       <seg type="lucas">effect(us)</seg>
+		       <orig>effectꝰ</orig>
+		       <reg>effectus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">celic(us).</seg>
+		       <orig>celicꝰ.</orig>
+		       <reg>celicus.</reg>
+	     </choice> Carnis 
+	<choice>
+		       <seg type="lucas">lib(er)</seg>
+		       <orig>liḃ</orig>
+		       <reg>liber</reg>
+	     </choice> ergas⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0501_translation"
+       corresp="#p0501_transcription">Exalt ye the Lord our God, and adore at his at his holy mountain: 
+         for the Lord our God is holy.<!-- Psalm 98 DRB--> The Feast of Saint Dominic at vespers. Chapter. 
+         <!-- Translation Workflow --> He shone in his days as the morning star in 
+         the midst of a cloud, and as the full moon. And as the sun when it shines, so did he shine in 
+         the temple of God.<!--Ecclus. 50, 6-9 (p. 699) SDM--> [Thanks be to] God.<!-- Translation Workflow -->
+         Rejoice, sweet Mother Church, to whom this happy fetal day is given, in mind of him who thy womb
+         is born a saint this day to Heaven. Our mighty Father, who led forth and marshalled his great 
+         preacher-host, with glory crowned now leaves this earth to dwell on Heavan's blissful coast. 
+         From the prison of flesh set free, <!-- Hymn 113 (p. 400-403) HDMB --> 
+         </ab>
+
+</div>

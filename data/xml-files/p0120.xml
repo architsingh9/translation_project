@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="52v"
+     xml:id="p0120">
+
+   <ab type="transcription"
+       xml:id="p0120_transcription"
+       corresp="#p0120_translation">
+
+      <lb/>filii tui 
+	<choice>
+		       <seg type="lucas">testame(n)tu(m)</seg>
+		       <orig>testamētū</orig>
+		       <reg>testamentum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m):</seg>
+		       <orig>meū:</orig>
+		       <reg>meum:</reg>
+	     </choice> 
+	     <choice>
+	         
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">testi(m)onia</seg>
+		       <orig>testīonia</orig>
+		       <reg>testimonia</reg>
+	     </choice> mea hec 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> doce
+<lb break="no"/>bo eos. Et filii 
+	<choice>
+		       <seg type="lucas">eor(um):</seg>
+		       <orig>eoꝝ:</orig>
+		       <reg>eorum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">usq(ue)</seg>
+		       <orig>usq⋮</orig>
+		       <reg>usque</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sedeb(un)t</seg>
+		       <orig>sedeb̄t</orig>
+		       <reg>sedebunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+       
+
+	     <choice>
+		       <seg type="lucas">sede(m)</seg>
+		       <orig>sedē</orig>
+		       <reg>sedem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice>
+      <lb/>elegit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">syo(n):</seg>
+		       <orig>syō:</orig>
+		       <reg>syon:</reg>
+	     </choice> elegit 
+	<choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">h(ab)itat(i)on(em)</seg>
+		       <orig>hītatō⋮</orig>
+		       <reg>habitationem</reg>
+	     </choice> sibi. Hec 
+	<choice>
+		       <seg type="lucas">req(ui)es</seg>
+		       <orig>req̇es</orig>
+		       <reg>requies</reg>
+	     </choice>
+      <lb/>mea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scl͘i:</orig>
+		       <reg>seculi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ic)</seg>
+		       <orig>ḣ</orig>
+		       <reg>hic</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)itabo</seg>
+		       <orig>hītabo</orig>
+		       <reg>habitabo</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> elegi 
+	<choice>
+		       <seg type="lucas">ea(m).</seg>
+		       <orig>eā.</orig>
+		       <reg>eam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Vidua(m)</seg>
+		       <orig>Viduā</orig>
+		       <reg>Viduam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dice(n)s</seg>
+		       <orig>bn̄dices̄</orig>
+		       <reg>benedicens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dica(m):</seg>
+		       <orig>bn̄dicā:</orig>
+		       <reg>benedicam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paup(er)es</seg>
+		       <orig>pauꝑes</orig>
+		       <reg>pauperes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sat(ur)abo</seg>
+		       <orig>sat݃abo</orig>
+		       <reg>saturabo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">panib(us).</seg>
+		       <orig>panib⋮.</orig>
+		       <reg>panibus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sac(er)</seg>
+		       <orig>Saċ</orig>
+		       <reg>Sacer</reg>
+	     </choice>
+      <lb break="no"/>dotes 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)dua(m)</seg>
+		       <orig>īduā</orig>
+		       <reg>induam</reg>
+	     </choice> salutari: 
+	<choice>
+	    
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ex(u)ltat(i)o(n)e</seg>
+		       <orig>exl͘tatōe</orig>
+		       <reg>exultatione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exultab(un)t.</seg>
+		       <orig>exultab̄t.</orig>
+		       <reg>exultabunt.</reg>
+	     </choice>
+      <lb/>Illuc 
+	<choice>
+		       <seg type="lucas">p(ro)duca(m)</seg>
+		       <orig>ꝓducā</orig>
+		       <reg>producam</reg>
+	     </choice> cornu 
+	<choice>
+		       <seg type="lucas">d(avi)d:</seg>
+		       <orig>dḋ:</orig>
+		       <reg>david:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ar)avi</seg>
+		       <orig>ꝑavi</orig>
+		       <reg>paravi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">luc(er)na(m)</seg>
+		       <orig>luċnā</orig>
+		       <reg>lucernam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christo) </seg>
+		       <orig>xº</orig>
+		       <reg>christo </reg>
+	     </choice> meo. Ini
+<lb break="no"/>micos 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)dua(m)</seg>
+		       <orig>īduā</orig>
+		       <reg>induam</reg>
+	     </choice> 
+	     
+	     <choice>
+		       <seg type="lucas">fusio(n)e:</seg>
+		       <orig>ɔfusiōe:</orig>
+		       <reg>confusione:</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0120_translation"
+       corresp="#p0120_transcription"> If thy children will keep thy covenant, 
+       and these my testimonies which I shall teach them: 
+       Their children also for evermore shall sit upon thy throne. 
+       For the Lord hath chosen Sion: he hath chosen it for his dwelling. 
+       This is my rest for ever and ever: here will I dwell, for I have chosen it.
+       Blessing, I will bless her widow: I will satisfy her poor with bread.
+       I will clothe her priests with salvation: and her saints shall rejoice with exceeding great joy. 
+       There will I bring forth a horn to David: I have prepared a lamp for my anointed. 
+       His enemies I will clothe with confusion: <!-- psalm 131 drb cont -->
+   </ab>
+
+</div>

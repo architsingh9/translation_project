@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="228r"
+     xml:id="p0471">
+
+   <ab type="transcription"
+       xml:id="p0471_transcription"
+       corresp="#p0471_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">nib(us)</seg>
+	             <orig>nib⋮</orig>
+		       <reg>nibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">unicorniu(m)</seg>
+	             <orig>unicorniū</orig>
+		       <reg>unicornium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)ilitate(m)</seg>
+	             <orig>hūilitatē</orig>
+		       <reg>humilitatem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+	             <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> Narrabo nomen
+<lb/>
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+	             <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fr(atr)ib(us)</seg>
+	             <orig>fr̄ib⋮</orig>
+		       <reg>fratribus</reg>
+	     </choice> meis: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> medio
+<lb/>
+	     <choice>
+		       <seg type="lucas">eccl(esi)e</seg>
+		       <orig>eccl͘e</orig>
+		       <reg>ecclesie</reg>
+	     </choice> laudabo te. 
+	<choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Qi</orig> 
+		       <reg>Qui</reg>
+	     </choice> time
+<lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+	             <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> laudate 
+	<choice>
+		       <seg type="lucas">eu(m):</seg>
+	             <orig>eū:</orig>
+		       <reg>eum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">univ(er)</seg>
+	             <orig>univ̇</orig>
+		       <reg>univer</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+	             <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">seme(n)</seg>
+	             <orig>semē</orig>
+		       <reg>semen</reg>
+	     </choice> iacob 
+	<choice>
+		       <seg type="lucas">gl(or)ificate</seg>
+		       <orig>gl͘ificate</orig>
+		       <reg>glorificate</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eu(m).</seg>
+	             <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice> Timeat 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+	             <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)e</seg>
+	             <orig>ōe</orig>
+		       <reg>omne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">seme(n)</seg>
+	             <orig>semē</orig>
+		       <reg>semen</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> sprevit 
+	<choice>
+		       <seg type="lucas">neq(ue)</seg>
+	             <orig>neq⋮</orig>
+		       <reg>neque</reg>
+	     </choice> de
+<lb break="no"/>spexit 
+	<choice>
+		       <seg type="lucas">dep(re)cat(i)o(nem)</seg>
+	             <orig>dep̄catō⋮</orig>
+		       <reg>deprecationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paup(er)is.</seg>
+	             <orig>pauꝑis.</orig>
+		       <reg>pauperis.</reg>
+	     </choice>
+      <lb/>Nec 
+	<choice>
+		       <seg type="lucas">av(er)tit</seg>
+	             <orig>av̇tit</orig>
+		       <reg>avertit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+	             <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sua(m)</seg>
+	             <orig>suā</orig>
+		       <reg>suam</reg>
+	     </choice> a me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">clamare(m)</seg>
+	             <orig>clamarē</orig>
+		       <reg>clamarem</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+	             <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> exau
+<lb break="no"/>divit me. Apud te laus
+<lb/>mea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)a</seg>
+		       <orig>eccl͘a</orig>
+		       <reg>ecclesia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(na):</seg>
+		       <orig>mag̈:</orig>
+		       <reg>magna:</reg>
+	     </choice> vota me
+<lb break="no"/>a 
+	<choice>
+		       <seg type="lucas">redda(m)</seg>
+	             <orig>reddā</orig>
+		       <reg>reddam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">sp(e)c(t)u</seg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">time(n)tiu(m)</seg>
+	             <orig>timētiū</orig>
+		       <reg>timentium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m).</seg>
+	             <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ede(n)t</seg>
+	             <orig>Edēt</orig>
+		       <reg>Edent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paup(er)es</seg>
+	             <orig>pauꝑes</orig>
+		       <reg>pauperes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">saturaba(n)⸗</seg>
+	             <orig>saturabā⸗</orig>
+		       <reg>saturaban⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0471_translation"
+       corresp="#p0471_transcription"><!-- continued from DRB Psalm 21 -->
+and my lowness from the horns of the unicorns. I will declare thy name to my
+brethren: in the midst of the church will I praise thee. Ye that fear the Lord,
+praise him: all ye the seed of Jacob, glorify him. Let all the seed of Israel
+fear him: because he hath not slighted nor despised the supplication of the
+poor man. Neither hath he turned away his face from me: and when I cried to him
+he heard me. With thee is my praise in a great church: I will pay my vows in
+the sight of them that fear him. The poor shall eat and shall be filled:
+<!-- continues DRB Psalm 21 -->
+</ab>
+
+</div>

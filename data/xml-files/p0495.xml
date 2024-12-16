@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="240r"
+     xml:id="p0495">
+
+   <ab type="transcription"
+       xml:id="p0495_transcription"
+       corresp="#p0495_translation">
+
+      <lb/>afferte 
+	<choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a(m)</seg>
+		       <orig>gl͘a⋮</orig>
+		       <reg>gloriam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(min)i</seg>
+		       <orig>nōi</orig>
+		       <reg>nomini</reg>
+	     </choice> 
+ eius.
+<lb/>Tollite hostias 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)troite</seg>
+		       <orig>ītroite</orig>
+		       <reg>introite</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">at(ri)a</seg>
+		       <orig>aṫa</orig>
+		       <reg>atria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> adorate 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)m</seg>
+		       <orig>dn̄m</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> a
+<lb break="no"/>trio 
+	<choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>scō</orig>
+		       <reg>sancto</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(m)moveat(ur)</seg>
+		       <orig>Cōmoveat݃ </orig>
+		       <reg>Commoveatur</reg>
+	     </choice>
+      <lb/>a facie 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">univ(er)sa</seg>
+		       <orig>univ̇sa</orig>
+		       <reg>universa</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra:</seg>
+		       <orig>ṫra:</orig>
+		       <reg>terra:</reg>
+	     </choice> dici
+<lb break="no"/>te 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tib(us)</seg>
+		       <orig>gētib⋮</orig>
+		       <reg>gentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na)vit.</seg>
+		       <orig>reg̈vit.</orig>
+		       <reg>regnavit.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ete(n)i(m)</seg>
+		       <orig>Eteī</orig>
+		       <reg>Etenim</reg>
+	     </choice> correxit 
+	<choice>
+		       <seg type="lucas">orbe(m)</seg>
+		       <orig>orbē</orig>
+		       <reg>orbem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)re</seg>
+		       <orig>ṫre</orig>
+		       <reg>terre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(com)movebit(ur):</seg>
+		       <orig>ɔmovebit݃:</orig>
+		       <reg>commovebitur:</reg>
+	     </choice> iudicabit
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(o)p(u)los</seg>
+		       <orig>ppl͘os</orig>
+		       <reg>populos</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eq(ui)tate.</seg>
+		       <orig>eq̇tate.</orig>
+		       <reg>equitate.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Lete(n)t(ur)</seg>
+		       <orig>Letēt݃ </orig>
+		       <reg>Letentur</reg>
+	     </choice> ce
+<lb break="no"/>li 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> exultet 
+	<choice>
+		       <seg type="lucas">t(er)ra;</seg>
+		       <orig>ṫra;</orig>
+		       <reg>terra;</reg>
+	     </choice> 
+	     
+	     <choice>
+		       <seg type="lucas">(com)moveat(ur)</seg>
+		       <orig>ɔmoveat݃</orig>
+		       <reg>commoveatur</reg>
+	     </choice>
+      <lb/>mare 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ple(n)itudo</seg>
+		       <orig>plēitudo</orig>
+		       <reg>plenitudo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> gau
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">deb(un)t</seg>
+		       <orig>deb̄t</orig>
+		       <reg>debunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(m)pi</seg>
+		       <orig>cāpi</orig>
+		       <reg>campi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+		       <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis 
+	<choice>
+		       <seg type="lucas">su(n)t.</seg>
+		       <orig>sūt.</orig>
+		       <reg>sunt.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Tu(n)c</seg>
+		       <orig>Tūc</orig>
+		       <reg>Tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exultab(un)t</seg>
+		       <orig>exultab̄t</orig>
+		       <reg>exultabunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+		       <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> ligna
+<lb/>
+	     <choice>
+		       <seg type="lucas">silvar(um)</seg>
+		       <orig>silvaꝝ</orig>
+		       <reg>silvarum</reg>
+	     </choice> a facie 
+	<choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)it:</seg>
+		       <orig>vēit:</orig>
+		       <reg>venit:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)it</seg>
+		       <orig>vēit</orig>
+		       <reg>venit</reg>
+	     </choice> iudicare 
+	<choice>
+		       <seg type="lucas">terra(m).</seg>
+		       <orig>terrā.</orig>
+		       <reg>terram.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0495_translation"
+       corresp="#p0495_transcription">
+         Bring to the Lord glory unto his name. Bring up sacrifices, and come into his courts: 
+         Adore ye the Lord in his holy court. Let all the earth be moved at his presence. 
+         Say ye among the Gentiles, the Lord hath reigned. For he hath corrected the world,
+         which shall not be moved: he will judge the people with justice.
+         Let the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof: 
+         The fields and all things that are in them shall be joyful. Then shall all the trees of the woods rejoice 
+         Before the face of the Lord, because he cometh: because he cometh to judge the earth. 
+         <!-- DRB Psalm 95, continues (but the sentence ends on this page) -->
+         
+   </ab>
+
+</div>

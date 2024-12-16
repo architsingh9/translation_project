@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="110v"
+     xml:id="p0236">
+
+   <ab type="transcription"
+       xml:id="p0236_transcription"
+       corresp="#p0236_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Cla(ma)vi</seg>
+		       <orig>Clävi</orig>
+		       <reg>Clamavi</reg>
+	     </choice> ad te 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice>
+      <lb/>dixi tu es spes mea por
+<lb break="no"/>tio mea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra</seg>
+		       <orig>tṙa</orig>
+		       <reg>terra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vive(n)tiu(m)</seg>
+		       <orig>vivētiū</orig>
+		       <reg>viventium</reg>
+	     </choice> In
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(n)de</seg>
+		       <orig>tēde</orig>
+		       <reg>tende</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">dep(re)cat(i)o(nem)</seg>
+		       <orig>dep̄catō⋮</orig>
+		       <reg>deprecationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m):</seg>
+		       <orig>meā:</orig>
+		       <reg>meam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">hu(m)iliat(us)</seg>
+		       <orig>hūiliatꝰ</orig>
+		       <reg>humiliatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> nimis. Li
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(er)a</seg>
+		       <orig>ḃa</orig>
+		       <reg>bera</reg>
+	     </choice> me a 
+	<choice>
+		       <seg type="lucas">p(er)seq(ue)ntib(us)</seg>
+		       <orig>ꝑseq̄ntib⋮</orig>
+		       <reg>persequentibus</reg>
+	     </choice> me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fortati</seg>
+		       <orig>ɔfortati</orig>
+		       <reg>confortati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>st͘</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> me. 
+	<choice>
+		       <seg type="lucas">Ed(uc)</seg>
+		       <orig>Edᶜ</orig>
+		       <reg>Educ</reg>
+	     </choice>
+      <lb/>de custodia 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">(con)fi(n)tedu(m)</seg>
+		       <orig>ɔfitēdū</orig>
+		       <reg>confintedum</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">no(m)i(ni)</seg>
+		       <orig>nōi</orig>
+		       <reg>nomini</reg>
+	     </choice> tuo: me expec
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ta(n)t</seg>
+		       <orig>tāt</orig>
+		       <reg>tant</reg>
+	     </choice> iusti donec 
+	<choice>
+		       <seg type="lucas">ret(ri)buas</seg>
+		       <orig>reṫbuas</orig>
+		       <reg>retribuas</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ Portio mea 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> sit
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra</seg>
+		       <orig>ṫra</orig>
+		       <reg>terra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vive(n)ciu(m).</seg>
+		       <orig>vivēciū.</orig>
+		       <reg>vivencium.</reg>
+	     </choice> Ad 
+	<choice>
+		       <seg type="lucas">m(?) </seg>
+		       <orig>m̈ </orig>
+		       <reg>mihi <!--  ?? check expansion --></reg>
+	    </choice> 
+      <choice>
+		       <seg type="lucas">a(lleluia)</seg>
+		       <orig>ä</orig>
+		       <reg>alleluia</reg>
+	     </choice> Sus
+<lb break="no"/>cepit 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l</seg>
+		       <orig>isrl͘</orig>
+		       <reg>israel</reg>
+	     </choice> pu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">er(um)</seg>
+		       <orig>eꝝ</orig>
+		       <reg>erum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suu(m)</seg>
+		       <orig>suū</orig>
+		       <reg>suum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> locu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(us)</seg>
+		       <orig>tꝰ</orig>
+		       <reg>tus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">abraha(m)</seg>
+		       <orig>abrahā</orig>
+		       <reg>abraham</reg>
+	     </choice> et           Suscepit. vii;
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0236_translation"
+       corresp="#p0236_transcription">and there is no one that hath regard to my soul. 
+         I cried to thee, O Lord: I said: Thou art my hope, my portion in the land of the living. 
+         Attend to my supplication: for I am brought very low. Deliver me from my persecutors; for they are stronger than I. 
+         Bring my soul out of prison, that I may praise thy name: the just wait for me, until thou reward me. [M]. <!-- needs checking --> Alleulia. 
+   Let the Lord be my portion in the land of the living. <!-- drb psalm 141, after alleluia has added words, needs checking -->
+         At midday. [Song] Suscepit. [Mode]. vii." God hath received
+         Israel His servant, as He spoke unto
+         Abraham and his seed, and hath
+         exalted the humble for ever. <!-- the magnificat (OBDS 178) and my translation, needs checking --> </ab>
+
+</div>

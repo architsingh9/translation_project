@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="180v"
+     xml:id="p0376">
+
+   <ab type="transcription"
+       xml:id="p0376_transcription"
+       corresp="#p0376_translation">
+
+      <lb/>suscepisti: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)firmasti</seg>
+	             <orig>ɔfirmasti</orig>
+		       <reg>confirmasti</reg>
+	     </choice> me
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(e)c(t)u</seg>
+	             <orig>ɔspc̄ū</orig>
+		       <reg>conspectu</reg>
+	     </choice> tuo 
+	<choice>
+		       <seg type="lucas">i(n)et(er)nu(m).</seg>
+	             <orig>īeṫnu.</orig>
+		       <reg>ineternum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)di</seg>
+		       <orig>Bn̄di</orig>
+		       <reg>Benedi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ct(us)</seg>
+	             <orig>ctꝰ</orig>
+		       <reg>ctus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+	             <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l</seg>
+		       <orig>isrl͘</orig>
+		       <reg>israel</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">s(e)c(u)lo</seg>
+		       <orig>scl͘o</orig>
+		       <reg>seculo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> us
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+	             <orig>q⋮</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+	             <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> fiat fiat. 
+	<choice>
+		       <seg type="lucas">a(lleluia).</seg>
+	             <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> Sana
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+	             <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+	             <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)cavi</seg>
+		       <orig>pc̄avi</orig>
+		       <reg>peccavi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi).</seg>
+	             <orig>ṫ.</orig>
+		       <reg>tibi.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">QUe(m)admo</seg>
+	             <orig>QUēadmo</orig>
+		       <reg>QUemadmo</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+	             <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> deside
+<lb break="no"/>rat 
+	<choice>
+		       <seg type="lucas">c(er)v(us)</seg>
+	             <orig>ċvꝰ</orig>
+		       <reg>cervus</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">fo(n)⸗</seg>
+	             <orig>fō⸗</orig>
+		       <reg>fon⸗</reg>
+	     </choice>        Sitivit. viii.
+<lb/>tes 
+	<choice>
+		       <seg type="lucas">aq(ua)r(um):</seg>
+	             <orig>aq̈ꝝ:</orig>
+		       <reg>aquarum:</reg>
+	     </choice> ita 
+	<choice>
+		       <seg type="lucas">desid(er)at</seg>
+	             <orig>desiḋat</orig>
+		       <reg>desiderat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ani(m)a</seg>
+	             <orig>anīa</orig>
+		       <reg>anima</reg>
+	     </choice>
+      <lb/>mea ad te 
+	<choice>
+		       <seg type="lucas">d(eu)s.</seg>
+	             <orig>ḋs.</orig>
+		       <reg>deus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sitiv(it)</seg>
+		       <orig>Sitivᵗ</orig> 
+		       <reg>Sitivit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+	             <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice>
+      <lb/>mea ad 
+	<choice>
+		       <seg type="lucas">deu(m)</seg>
+	             <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fo(r)te(m)</seg>
+	             <orig>fōtē</orig>
+		       <reg>fortem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vivu(m):</seg>
+	             <orig>vivū:</orig>
+		       <reg>vivum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">qu(ando)</seg>
+	             <orig>qū</orig>
+		       <reg>quando</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">venia(m)</seg>
+	             <orig>veniā</orig>
+		       <reg>veniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">app(ar)ebo</seg>
+	             <orig>apꝑebo</orig>
+		       <reg>apparebo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+	             <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice>
+      <lb/>dei. 
+	<choice>
+		       <seg type="lucas">Fueru(n)t</seg>
+	             <orig>Fuerūt</orig>
+		       <reg>Fuerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+	             <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> lacrime
+<lb/>mee 
+	<choice>
+		       <seg type="lucas">pa(n)es</seg>
+	             <orig>pāes</orig>
+		       <reg>panes</reg>
+	     </choice> die ac nocte:
+<lb/>
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+	             <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dicit(ur)</seg>
+		       <orig>dicit݃</orig>
+		       <reg>dicitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+	             <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> cottidie ubi
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0376_translation"
+       corresp="#p0376_transcription">
+         But thou hast upheld me by reason of my innocence: and hast established me in thy sight for ever.
+         Blessed be the Lord the God of Israel from eternity to eternity. So be it. So be it. Alleluia.
+         O Lord, heal my soul, for I have sinned against thee.
+         <!-- drb psalm 40 -->
+         As the hart panteth after the fountains of water; so my soul panteth after thee, O God.
+         My soul hath thirsted after the strong living God; when shall I come and appear before the face of God?
+         My tears have been my bread day and night, whilst it is said to me daily: Where is thy God?
+         <!-- drb psalm 41 cont. -->
+   </ab>
+
+</div>

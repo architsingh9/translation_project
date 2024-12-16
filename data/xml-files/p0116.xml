@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="50v" xml:id="p0116">
+
+      <ab type="transcription" xml:id="p0116_transcription" corresp="#p0116_translation">
+            <lb/>
+            <choice>
+                  <seg type="lucas">qua(m)</seg>
+                  <orig>quā</orig>
+                  <reg>quam</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">mu(n)d(us)</seg>
+                  <orig>mūdꝰ</orig>
+                  <reg>mundus</reg>
+            </choice> dare <choice>
+                  <seg type="lucas">n(on)</seg>
+                  <orig>n̄</orig>
+                  <reg>non</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(otes)t</seg>
+                  <orig>pt̄</orig>
+                  <reg>potest</reg>
+            </choice> pa <lb break="no"/>
+            <choice>
+                  <seg type="lucas">ce(m)</seg>
+                  <orig>cē</orig>
+                  <reg>cem</reg>
+            </choice> : ut <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice> corda <choice>
+                  <seg type="lucas">n(ost)ra</seg>
+                  <orig>nr̄a</orig>
+                  <reg>nostra</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ma(n)datis</seg>
+                  <orig>mādatis</orig>
+                  <reg>mandatis</reg>
+            </choice>
+            <lb/>tuis dedita; <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">hostiu(m)</seg>
+                  <orig>hostiū</orig>
+                  <reg>hostium</reg>
+            </choice> sub <lb break="no"/>lata <choice>
+                  <seg type="lucas">formidi(n)e</seg>
+                  <orig>formidīe</orig>
+                  <reg>formidine</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(em)p(or)a</seg>
+                  <orig>tꝑa</orig> 
+                  <reg>tempora</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">si(n)t</seg>
+                  <orig>sīt</orig>
+                  <reg>sint</reg>
+            </choice> tua <lb/>
+            <choice>
+                  <seg type="lucas">p(ro)tect(i)o(n)e</seg>
+                  <orig>ꝓtectōe</orig>
+                  <reg>protectione</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(ra)nq(ui)lla.</seg>
+                  <orig>ẗnq̇lla.</orig>
+                  <reg>tranquilla.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">P(er)</seg>
+                  <orig>Ꝑ</orig>
+                  <reg>Per</reg>
+            </choice> do. m ad <lb break="no"/>O <choice>
+                  <seg type="lucas">V(ir)go</seg>
+                  <orig>v̇go</orig>
+                  <reg>Virgo</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">v(ir)gi⸗</seg>
+                  <orig>v̇gi⸗</orig>
+                  <reg>virgi⸗</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ve(n)tu</seg>
+                  <orig>vētu</orig>
+                  <reg>ventu</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">an(tiphon?).</seg>
+                  <orig>an̈.</orig>
+                  <reg>antiphon.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">nu(m)</seg>
+                  <orig>nū</orig>
+                  <reg>num</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">qu(omod)o</seg>
+                  <orig>qūo</orig>
+                  <reg>quomodo</reg>
+            </choice> fiet istud. <choice>
+                  <seg type="lucas">q(uia)</seg>
+                  <orig>q:</orig> 
+                  <reg>quia</reg>
+            </choice>
+            <lb/>nec <choice>
+                  <seg type="lucas">p(ri)ma(m)</seg>
+                  <orig>ṗmā</orig>
+                  <reg>primam</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">si(mi)le(m)</seg>
+                  <orig>sil͘e⋮</orig>
+                  <reg>similem</reg>
+            </choice> visa es nec <lb/>
+            <choice>
+                  <seg type="lucas">h(abe)re</seg>
+                  <orig>hr̄e</orig>
+                  <reg>habere</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">seq(ue)nte(m).</seg>
+                  <orig>seq̄ntē.</orig>
+                  <reg>sequentem.</reg>
+            </choice> filie <choice>
+                  <seg type="lucas">i(e)r(usa)l(em)</seg>
+                  <orig>irl͘⋮</orig>
+                  <reg>ierusalem</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)d</seg>
+                  <orig>q̇d</orig>
+                  <reg>quid</reg>
+            </choice> me <lb/>
+            <choice>
+                  <seg type="lucas">admiranmi(ni).</seg>
+                  <orig>admiranmī.</orig>
+                  <reg>admiranmini.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">d(iv)inu(m)</seg>
+                  <orig>ḋinū</orig>
+                  <reg>divinum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">e(st)</seg>
+                  <orig>ē</orig>
+                  <reg>est</reg>
+            </choice> miste <lb break="no"/>
+            <choice>
+                  <seg type="lucas">riu(m)</seg>
+                  <orig>riū</orig>
+                  <reg>rium</reg>
+            </choice> hoc <choice>
+                  <seg type="lucas">q(ui)d</seg>
+                  <orig>qḋ</orig>
+                  <reg>quid</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">c(er)nitis.</seg>
+                  <orig>ċnitis.</orig>
+                  <reg>cernitis.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Or(emus).</seg>
+                  <orig>Or̄.</orig> 
+                  <reg>Oremus.<!--  check expansion --></reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">D(eu)s</seg>
+                  <orig>Ḋs</orig>
+                  <reg>Deus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice> de <choice>
+                  <seg type="lucas">b(ea)te</seg>
+                  <orig>bt̄e</orig>
+                  <reg>beate</reg>
+            </choice> marie <choice>
+                  <seg type="lucas">v(ir)</seg>
+                  <orig>v̇</orig>
+                  <reg>vir</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">gi(ni)s</seg>
+                  <orig>gīs</orig>
+                  <reg>ginis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ut(er)o</seg>
+                  <orig>uṫo</orig>
+                  <reg>utero</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">v(er)bu(m)</seg>
+                  <orig>v̇bū</orig>
+                  <reg>verbum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">tuu(m)</seg>
+                  <orig>tuū</orig>
+                  <reg>tuum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">a(n)gelo</seg>
+                  <orig>āgelo</orig>
+                  <reg>angelo</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">nu(n)cia(n)te</seg>
+                  <orig>nūciātē</orig>
+                  <reg>nunciante</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">carne(m)</seg>
+                  <orig>carnē</orig>
+                  <reg>carnem</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">suscip(er)e</seg>
+                  <orig>susciꝑe</orig>
+                  <reg>suscipere</reg>
+            </choice> vo <lb break="no"/>luisti; <choice>
+                  <seg type="lucas">pr(est)a</seg>
+                  <orig>pr̄a</orig>
+                  <reg>presta</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">supplicib(us)</seg>
+                  <orig>supplicib⋮</orig>
+                  <reg>supplicibus</reg>
+            </choice> tuis: </ab>
+
+      <ab type="translation" xml:id="p0116_translation" corresp="#p0116_transcription"> grant to
+            Thy servants that
+            peace, which the
+            world cannot give;
+            that our hearts, being
+            intent upon Thy commandments, and the
+            fear of our enemies
+            taken away, the times,
+            through Thy protection, may be peaceful.
+            Through [our Lord
+            Jesus Christ Thy Son,
+            Who liveth and reigneth with Thee in the
+            unity of the Holy
+            Ghost, one God,
+            world without end]. Throughout Advent: Antiphon. O Virgin of
+            virgins, how shall
+            this be done? For thy
+            like hath not appeared before nor since.
+            Ye daughters of Jerusalem, why look ye
+            at me in wonder?
+            This Mystery which
+            ye see is all divine. Let us pray. O God, who wast
+            pleased, that Thy
+            Word should take
+            flesh of the womb of
+            the Blessed Virgin
+            Mary, and didst make it known unto her by
+            the message of an
+            Angel; grant that we
+            Thy suppliants, <!-- OBVM 182 cont. --> </ab>
+
+</div>

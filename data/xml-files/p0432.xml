@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="208v"
+     xml:id="p0432">
+
+   <ab type="transcription"
+       xml:id="p0432_transcription"
+       corresp="#p0432_translation">
+ FIRST LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Nicolae                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Dominice                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nice</seg>
+		       <orig>dn̄ice</orig>
+		       <reg>dominice</reg>
+	     </choice>                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> thoma                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> vincenti                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Francisce                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> ieronime                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicte</seg>
+		       <orig>bn̄dicte</orig>
+		       <reg>benedicte</reg>
+	     </choice>                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> anthoni                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> bernharde                                or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> heinrite                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> ludroice?    <!-- can't find anything about this saint -->                            or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Sebalde                                        or
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(piritu?)s</seg>
+		       <orig>Ss̄</orig>
+		       <reg>Spiritu?s<!--  check expansion, not sure this is spiritus --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fessores</seg>
+		       <orig>ɔfessores</orig>
+		       <reg>confessores</reg>
+	     </choice>                orate.
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Anna                                        or
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0432_translation"
+       corresp="#p0432_transcription">
+       S. Nicolas: pray for us.
+       S. Dominic: pray for us.
+       S. Dominic: pray for us.
+       S. Thomas: pray for us.
+       S. Vincent: pray for us. <!-- DM pg 401 --> 
+       S. Francis: pray for us. <!-- DM pg 402 --> 
+       S. Jerome: pray for us. <!-- sancte ieronime is Hieronyme? -->
+       S. Benedict: pray for us.
+       S. Anthony: pray for us.
+       S. Bernard: pray for us. <!-- DM pg 401 --> 
+       S. Henry: pray for us. <!-- DM pg 840, sancte heinrite is Henricum? --> 
+       S. Lewis: pray for us. <!-- DM pg 401, sancte ludroice is Ludovice? --> 
+       S. Sebald: pray for us.
+       All you holy Confessors: pray for us.
+       S. Anne: pray for us.
+       <!-- DM pg 402 --> 
+   </ab>
+
+</div>

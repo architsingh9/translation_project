@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="179v"
+     xml:id="p0374">
+
+   <ab type="transcription"
+       xml:id="p0374_transcription"
+       corresp="#p0374_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eu(m);</seg>
+		       <orig>eū;</orig>
+		       <reg>eum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)t(u)m</seg>
+		       <orig>bt̄m</orig>
+		       <reg>beatum</reg>
+	     </choice> faciat 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)</seg>
+		       <orig>t̄</orig>
+	         <!-- unsure if dot or macron but i see a little tail
+	         and dot is usually tibi so i'm saying macron-->
+		       <reg>ter</reg>
+	     </choice>
+      <lb break="no"/>ra: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ra)dat</seg>
+		       <orig>ẗdat</orig>
+		       <reg>tradat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)i</seg>
+		       <orig>īi</orig>
+		       <reg>ini</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">micor(um)</seg>
+		       <orig>micoꝝ</orig>
+		       <reg>micorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ope(m)</seg>
+		       <orig>opē</orig>
+		       <reg>opem</reg>
+	     </choice> fe
+<lb break="no"/>rat illi 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">l(e)c(tu)m</seg>
+		       <orig>lcm̄</orig>
+		       <reg>lectum</reg>
+	     </choice> doloris 
+	<choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">univ(er)su(m)</seg>
+		       <orig>univ̇sū</orig>
+		       <reg>universum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">stratu(m)</seg>
+		       <orig>stratū</orig>
+		       <reg>stratum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)sasti</seg>
+		       <orig>v̇sasti</orig>
+		       <reg>versasti</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)firmitate</seg>
+		       <orig>īfirmitate</orig>
+		       <reg>infirmitate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Ego di
+<lb break="no"/>xi 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice> mei: sana
+<lb/>
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> peccavi tibi.
+<lb/>Inimici mei 
+	<choice>
+		       <seg type="lucas">dixer(un)t</seg>
+		       <orig>dixer̄t</orig>
+		       <reg>dixerunt</reg>
+	     </choice> ma
+<lb break="no"/>la 
+	<choice>
+		       <seg type="lucas">m(ihi):</seg>
+		       <orig>ṁ:</orig>
+		       <reg>mihi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">qu(ando)</seg>
+		       <orig>qū</orig>
+		       <reg>quando</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">moriet(ur)</seg>
+		       <orig>moriet݃</orig>
+		       <reg>morietur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)ibit</seg>
+		       <orig>ꝑibit</orig>
+		       <reg>peribit</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">nome(n)</seg>
+		       <orig>nomē</orig>
+		       <reg>nomen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Et si 
+	<choice>
+		       <seg type="lucas">i(n)gredi</seg>
+		       <orig>īgredi</orig>
+		       <reg>ingredi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ebat(ur)</seg>
+		       <orig>ebat݃</orig>
+		       <reg>ebatur</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">vide(re)t</seg>
+		       <orig>vidėt</orig>
+		       <reg>videret</reg>
+	     </choice> vana 
+	<choice>
+		       <seg type="lucas">loq(ue)</seg>
+		       <orig>loq̄</orig>
+		       <reg>loque</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bat(ur):</seg>
+		       <orig>bat݃:</orig>
+		       <reg>batur:</reg>
+	     </choice> cor 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)gregavit</seg>
+		       <orig>ɔgregavit</orig>
+		       <reg>congregavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)i</seg>
+		       <orig>īi</orig>
+		       <reg>ini</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ui)tate(m)</seg>
+		       <orig>q̇tatē</orig>
+		       <reg>quitatem</reg>
+	     </choice> sibi. Egredie 
+	<choice>
+		       <seg type="lucas">bat(ur)</seg>
+		       <orig>bat݃</orig>
+		       <reg>batur</reg>
+	     </choice>
+      <lb/>foras: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">loq(ue)bat(ur)</seg>
+		       <orig>loq̄bat݃</orig>
+		       <reg>loquebatur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">id(i)p(su)m.</seg>
+		       <orig>idp̄m.</orig>
+		       <reg>idipsum.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0374_translation"
+       corresp="#p0374_transcription">
+       
+       The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies.
+       The Lord help him on his bed of sorrow: thou hast turned all his couch in his sickness.
+       I said: O Lord, be thou merciful to me: heal my soul, for I have sinned against thee.
+       My enemies have spoken evils against me: when shall he die and his name perish?
+       And if he came in to see me, he spoke vain things: his heart gathered together iniquity to itself. 
+       He went out and spoke to the same purpose.
+       All my enemies whispered together against me: they devised evils to me.
+       <!-- drb psalm 40 -->
+   </ab>
+
+</div>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="70v"
+     xml:id="p0156">
+
+   <ab type="transcription"
+       xml:id="p0156_transcription"
+       corresp="#p0156_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> iudicia tua iocunda.
+<lb/>Ecce 
+	<choice>
+		       <seg type="lucas">(con)cupivi</seg>
+	              <orig>ɔcupivi</orig>
+		       <reg>concupivi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+	             <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice>
+      <lb/>tua: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eq(ui)tate</seg>
+		       <orig>eq͘tate</orig>
+		       <reg>equitate</reg>
+	     </choice> tua vivifica
+<lb/>me. Et 
+	<choice>
+		       <seg type="lucas">ve(n)iat</seg>
+	             <orig>vēiat</orig>
+		       <reg>veniat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+	             <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice>
+      <lb/>tua 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice> salutare 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+	             <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+	             <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eloq(ui)u(m)</seg>
+	             <orig>eloq͘ū</orig>
+		       <reg>eloquium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m).</seg>
+	             <orig>tuū.</orig>
+		       <reg>tuum.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">r(espo)ndebo</seg>
+		       <orig>rn̄debo</orig>
+		       <reg>respondebo</reg>
+	     </choice> ex
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(ro)b(ra)ntib(us)</seg>
+	           <orig>ꝓb̈ntib⋮</orig> 
+		       <reg>probrantibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+	             <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)bu(m):</seg>
+	             <orig>v̇bū:</orig>
+		       <reg>verbum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avi</seg>
+	             <orig>sꝑavi</orig>
+		       <reg>speravi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(er)mo(n)ib(us)</seg>
+	             <orig>sṁōib⋮</orig>
+		       <reg>sermonibus</reg>
+	     </choice> tuis. Et ne aufe
+<lb break="no"/>ras de ore meo 
+	<choice>
+		       <seg type="lucas">v(er)bu(m)</seg>
+	             <orig>v̇bū</orig>
+		       <reg>verbum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ita</seg>
+	             <orig>v̇ita</orig>
+		       <reg>verita</reg>
+	     </choice>
+      <lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">usq(ue)q(ua)q(ue):</seg>
+	             <orig>usq⋮q̈q⋮:</orig>
+		       <reg>usquequaque:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> iudiciis
+<lb/>tuis 
+	<choice>
+		       <seg type="lucas">sup(er)sp(er)avi.</seg>
+	             <orig>suꝑsꝑavi.</orig>
+		       <reg>supersperavi.</reg>
+	     </choice> Et custo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">dia(m)</seg>
+	             <orig>diā</orig>
+		       <reg>diam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lege(m)</seg>
+	             <orig>legē</orig>
+		       <reg>legem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+	             <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er):</seg>
+	             <orig>sꝑ:</orig>
+		       <reg>semper:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+	             <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> in
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+	             <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li.</seg>
+		       <orig>scl͘i.</orig> 
+		       <reg>seculi.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">a(m)bulaba(m)</seg>
+	             <orig>ābulabā</orig>
+		       <reg>ambulabam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> la
+<lb break="no"/>ti 
+	<choice>
+		       <seg type="lucas">tudi(n)e:</seg>
+	             <orig>tudīe:</orig>
+		       <reg>tudine:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+	             <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua ex
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ue)sivi.</seg>
+		       <orig>q͘sivi.</orig>
+		       <reg>quesivi.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">loq(ue)bar</seg>
+		       <orig>loq̄bar</orig>
+		       <reg>loquebar</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> <supplied>
+	<choice>
+		       <seg type="lucas">testi(m)o⸗†</seg>
+	             <orig>testīo⸗</orig>
+		       <reg>testimo⸗</reg>
+	     </choice> </supplied>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0156_translation"
+       corresp="#p0156_transcription">for thy judgments are delightful.
+         Behold I have longed after thy precepts: quicken me in thy justice. 
+         Let thy mercy also come upon me, O Lord: thy salvation according to thy word. 
+         So shall I answer them that reproach me in any thing; that I have trusted in thy words. 
+         And take not thou the word of truth utterly out of my mouth: for in thy words have I hoped exceedingly. 
+         So shall I always keep thy law, for ever and ever. 
+         And I walked at large: because I have sought after thy commandments.
+         And I spoke of thy testimonies before kings: <!-- drb psalm 118 cont --> </ab>
+
+</div>

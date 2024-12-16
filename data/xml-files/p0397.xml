@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+  type="page"
+  n="191r"
+  xml:id="p0397">
+
+ <ab type="transcription"
+  xml:id="p0397_transcription"
+  corresp="#p0397_translation">
+
+  <lb/>
+	  <choice>
+		  <seg type="lucas">amaritudi(n)e</seg>
+	    <orig>amaritudīe</orig>
+		  <reg>amaritudine</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">a(n)i(m)e</seg>
+	    <orig>aīe</orig>
+		  <reg>anime</reg>
+	  </choice> mee. Do
+<lb break="no"/>
+	  <choice>
+		  <seg type="lucas">mi(n)e</seg>
+	    <orig>mīe</orig>
+		  <reg>mine</reg>
+	  </choice> si sic 
+	<choice>
+		  <seg type="lucas">vivit(ur)</seg>
+		  <orig>vivit݃</orig>
+		  <reg>vivitur</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig>+</orig>
+		  <reg>et </reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">i(n)</seg>
+	    <orig>ī</orig>
+		  <reg>in</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">talib(us)</seg>
+	    <orig>talib⋮</orig>
+		  <reg>talibus</reg>
+	  </choice>
+  <lb/>vita 
+	<choice>
+		  <seg type="lucas">sp(iritu)s</seg>
+		  <orig>sp̄s</orig>
+		  <reg>spiritus</reg>
+	  </choice> mei; 
+	<choice>
+		  <seg type="lucas">corripie(s)</seg>
+	    <orig>corripieˢ</orig>
+		  <reg>corripies</reg>
+	  </choice> me
+<lb/>
+	  <choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig>+ </orig>
+		  <reg>et </reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">vivificab(is)</seg>
+	    <orig>vivificaḃ</orig>
+		  <reg>vivificabis</reg>
+	  </choice> me: ecce 
+	<choice>
+		  <seg type="lucas">i(n)</seg>
+	    <orig>ī</orig>
+		  <reg>in</reg>
+	  </choice> pace
+<lb/>amaritudo mea amaris
+<lb break="no"/>
+	  <choice>
+		  <seg type="lucas">si(m)a.</seg>
+	    <orig>sīa.</orig>
+		  <reg>sima.</reg>
+	  </choice> Tu 
+	<choice>
+		  <seg type="lucas">a(u)t(em)</seg>
+		  <orig>at̄</orig>
+		  <reg>autem</reg>
+	  </choice> eruisti 
+	<choice>
+		  <seg type="lucas">a(n)i(m)a(m)</seg>
+	    <orig>aīa⋮</orig>
+		  <reg>animam</reg>
+	  </choice>
+  <lb/>
+	  <choice>
+		  <seg type="lucas">mea(m)</seg>
+	    <orig>meā</orig>
+		  <reg>meam</reg>
+	  </choice> ut 
+	<choice>
+		  <seg type="lucas">no(n)</seg>
+	    <orig>nō</orig>
+		  <reg>non</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">p(er)iret:</seg>
+	    <orig>ꝑiret:</orig>
+		  <reg>periret:</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">p(ro)iecisti</seg>
+	    <orig>ꝓiecisti</orig>
+		  <reg>proiecisti</reg>
+	  </choice>
+  <lb/>post 
+	<choice>
+		  <seg type="lucas">t(er)gu(m)</seg>
+	    <orig>ṫgū</orig>
+		  <reg>tergum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">tuu(m)</seg>
+	    <orig>tuū</orig>
+		  <reg>tuum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">o(mn)ia</seg>
+	    <orig>oīa</orig>
+		  <reg>omnia</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">p(ec)c(a)ta</seg>
+		  <orig>pct̄a</orig>
+		  <reg>peccata</reg>
+	  </choice>
+  <lb/>mea. 
+	<choice>
+		  <seg type="lucas">Q(ui)a</seg>
+		  <orig>Q̇a</orig>
+		  <reg>Quia</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">n(on)</seg>
+		  <orig>n̄</orig>
+		  <reg>non</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">i(n)fern(us)</seg>
+	    <orig>īfernꝰ</orig>
+		  <reg>infernus</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">(con)fite</seg>
+	    <orig>ɔfite</orig>
+		  <reg>confite</reg>
+	  </choice> 
+  <lb break="no"/>
+	  <choice>
+		  <seg type="lucas">bit(ur)</seg>
+		  <orig>bit݃</orig>
+		  <reg>bitur</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">t(ibi);</seg>
+	    <orig>ṫ;</orig>
+		  <reg>tibi;</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">neq(ue)</seg>
+	    <orig>neq⋮</orig>
+		  <reg>neque</reg>
+	  </choice> mors lauda
+<lb break="no"/>bit te: 
+	<choice>
+		  <seg type="lucas">n(on)</seg>
+		  <orig>n̄</orig>
+		  <reg>non</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">expectab(un)t</seg>
+		  <orig>expectab̄t</orig>
+		  <reg>expectabunt</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">q(ui)</seg>
+		  <orig>q̇</orig>
+		  <reg>qui</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">desce(n)</seg>
+	    <orig>descē</orig>
+		  <reg>descen</reg>
+	  </choice>
+  <lb break="no"/>
+	  <choice>
+		  <seg type="lucas">du(n)t</seg>
+	    <orig>dūt</orig>
+		  <reg>dunt</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">i(n)</seg>
+	    <orig>ī</orig>
+		  <reg>in</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">lacu(m)</seg>
+	    <orig>lacū</orig>
+		  <reg>lacum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">v(er)itate(m)</seg>
+	    <orig>v̇itatē</orig>
+		  <reg>veritatem</reg>
+	  </choice> tuam.
+<lb/>
+	  <choice>
+		  <seg type="lucas">Vive(n)s</seg>
+	    <orig>Vivēs</orig>
+		  <reg>Vivens</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">vive(n)s</seg>
+	    <orig>vivēs</orig>
+		  <reg>vivens</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">ip(s)e</seg>
+		  <orig>ip̄e</orig>
+		  <reg>ipse</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">(con)fitebi</seg>
+	    <orig>ɔfitebi</orig>
+		  <reg>confitebi</reg>
+	  </choice> 
+  <lb break="no"/>
+	  <choice>
+		  <seg type="lucas">t(ur)</seg>
+		  <orig>t݃</orig>
+		  <reg>tur</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">t(ibi)</seg>
+	    <orig>ṫ</orig>
+		  <reg>tibi</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">sic(ut)</seg>
+		  <orig>sic̄</orig>
+		  <reg>sicut</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig> + </orig>
+		  <reg>et </reg>
+	  </choice> ego hodie: 
+	<choice>
+		  <seg type="lucas">p(ate)r</seg>
+		  <orig>pr̄</orig>
+		  <reg>pater</reg>
+	  </choice> fi
+<lb break="no"/>liis 
+	<choice>
+		  <seg type="lucas">nota(m)</seg>
+	    <orig>notā</orig>
+		  <reg>notam</reg>
+	  </choice> faciet 
+	<choice>
+		  <seg type="lucas">v(er)itate(m)</seg>
+	    <orig>v̇itatē</orig>
+		  <reg>veritatem</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">tua(m).</seg>
+	    <orig>tuā.</orig>
+		  <reg>tuam.</reg>
+	  </choice>
+ </ab>
+
+ <ab type="translation"
+  xml:id="p0397_translation"
+  corresp="#p0397_transcription">
+   <!-- contineus from the previous page -->
+   in the bitterness of my soul.
+   O Lord, if such be man's life, 
+   and the life of my spirit be cast amid such things, 
+   Thou wilt chastise me and make me to live: 
+   behold, even in peace was my bitterness most bitter. <!-- OBDS page 451 -->
+   But Thou hast delivered my soul that it should not perish: 
+   Thou hast cast all my sins behind Thy back.
+   For hell shall not confess unto Thee, 
+   neither shall death praise Thee: 
+   nor shall they that go down into the pit look for Thy truth.
+   The man that liveth, yea, 
+   the man that liveth, he shall praise Thee, 
+   even as I do this day: 
+   the father shall make known Thy truth unto his children. <!-- OBDS page 452 -->
+ </ab>
+
+</div>

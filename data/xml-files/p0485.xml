@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="235r"
+     xml:id="p0485">
+
+   <ab type="transcription"
+       xml:id="p0485_transcription"
+       corresp="#p0485_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">bulat(i)o(n)ib(us)</seg>
+		       <orig>bulatōib⋮</orig>
+		       <reg>bulationibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)vener(un)t</seg>
+		       <orig>īvener̄t</orig>
+		       <reg>invenerunt</reg>
+	     </choice> nos
+<lb/>nimis. 
+	<choice>
+		       <seg type="lucas">Propt(er)ea</seg>
+		       <orig>Propṫea</orig>
+		       <reg>Propterea</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ti(m)ebi</seg>
+		       <orig>tīebi</orig>
+		       <reg>timebi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us)</seg>
+		       <orig>mꝰ</orig>
+		       <reg>mus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+		       <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">turbabit(ur)</seg>
+		       <orig>turbabit݃</orig>
+		       <reg>turbabitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra;</seg>
+		       <orig>ṫra;</orig>
+		       <reg>terra;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ra)ns</seg>
+		       <orig>ẗns</orig>
+		       <reg>trans</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">fere(n)t(ur)</seg>
+		       <orig>ferēt݃ </orig>
+		       <reg>ferentur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mo(n)tes</seg>
+		       <orig>mōtes</orig>
+		       <reg>montes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> cor maris.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Sonuer(un)t</seg>
+		       <orig>Sonuer̄t</orig>
+		       <reg>Sonuerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ur)bate</seg>
+		       <orig>ṫbate</orig>
+		       <reg>turbate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">aq(ue)</seg>
+		       <orig>aq̄</orig>
+		       <reg>aque</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eor(um):</seg>
+		       <orig>eoꝝ:</orig>
+		       <reg>eorum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ur)bati</seg>
+		       <orig>ɔt݃bati</orig>
+		       <reg>conturbati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mo(n)tes</seg>
+		       <orig>mōtes</orig>
+		       <reg>montes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> for
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">titudi(n)e</seg>
+		       <orig>titudīe</orig>
+		       <reg>titudine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Flu(min)is</seg>
+		       <orig>Flūis</orig>
+		       <reg>Fluminis</reg>
+	     </choice> 
+      <choice>
+		       <seg type="lucas">i(m)pet(us)</seg>
+		       <orig>īpetꝰ</orig>
+		       <reg>impetus</reg>
+	     </choice>
+      <lb/>letificat 
+	<choice>
+		       <seg type="lucas">civitate(m)</seg>
+		       <orig>civitatē</orig>
+		       <reg>civitatem</reg>
+	     </choice> dei: 
+	<choice>
+		       <seg type="lucas">s(an)c(t)ifi</seg>
+		       <orig>sc̄ifi</orig>
+		       <reg>sanctifi</reg>
+	     </choice>
+      <lb break="no"/>cavit 
+	<choice>
+		       <seg type="lucas">tab(er)nac(u)l(um)</seg>
+		       <orig>taḃnacl͘⋮</orig>
+		       <reg>tabernaculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suu(m)</seg>
+		       <orig>suū</orig>
+		       <reg>suum</reg>
+	     </choice> altis
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sim(us).</seg>
+		       <orig>simꝰ.</orig>
+		       <reg>simus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> medio 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(com)movebit(ur):</seg>
+		       <orig>ɔmovebit݃:</orig>
+		       <reg>commovebitur:</reg>
+	     </choice> adiuvabit
+<lb/>
+	     <choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)e</seg>
+		       <orig>māe</orig>
+		       <reg>mane</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">diluc(u)lo.</seg>
+		       <orig>dilucl͘o.</orig>
+		       <reg>diluculo.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(n)</seg>
+		       <orig>Cō</orig>
+		       <reg>Con</reg>
+	     </choice>
+      <lb break="no"/>turbate 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tes</seg>
+		       <orig>gētes</orig>
+		       <reg>gentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)cli(n)a</seg>
+		       <orig>īclīa</orig>
+		       <reg>inclina</reg>
+	     </choice>
+      <lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na):</seg>
+		       <orig>reg̈:</orig>
+		       <reg>regna:</reg>
+	     </choice> dedit 
+	<choice>
+		       <seg type="lucas">voce(m)</seg>
+		       <orig>vocē</orig>
+		       <reg>vocem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sua(m)</seg>
+		       <orig>suā</orig>
+		       <reg>suam</reg>
+	     </choice>
+      <lb/>mota 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra.</seg>
+		       <orig>ṫra.</orig>
+		       <reg>terra.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tu⸗</seg>
+		       <orig>v̇tu⸗</orig>
+		       <reg>virtu⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0485_translation"
+       corresp="#p0485_transcription">a helper in troubles, which have found us exceedingly.
+         Therefore we will not fear, when the earth shall be troubled; and the mountains shall be removed into the heart of the sea. 
+         Their waters roared and were troubled: the mountains were troubled with his strength. 
+         The stream of the river maketh the city of God joyful: the most High hath sanctified his own tabernacle. 
+         God is in the midst thereof, it shall not be moved: God will help it in the morning early. 
+         Nations were troubled, and kingdoms were bowed down: he uttered his voice, the earth trembled. 
+         The Lord of armies is with us: <!-- DRB psalm 45 continues -->
+   </ab>
+
+</div>

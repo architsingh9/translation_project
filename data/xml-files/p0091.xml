@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="38r"
+     xml:id="p0091">
+
+   <ab type="transcription"
+       xml:id="p0091_transcription"
+       corresp="#p0091_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cora(m)</seg>
+		       <orig>corā</orig>
+		       <reg>coram</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)o</seg>
+		       <orig>ip̄o</orig>
+		       <reg>ipso</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(n)stravi.</seg>
+		       <orig>mīstravi.</orig>
+		       <reg>minstravi.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> Post 
+	<choice>
+		       <seg type="lucas">p(ar)tu(m)</seg>
+		       <orig>ꝑtū</orig>
+		       <reg>partum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)viola</seg>
+		       <orig>īviola</orig>
+		       <reg>inviola</reg>
+	     </choice>
+      <lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">p(er)ma(n)sisti.</seg>
+		       <orig>ꝑmāsisti.</orig>
+		       <reg>permansisti.</reg>
+	     </choice> Dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+		       <orig>geniṫx</orig>
+		       <reg>genitrix</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)t(er)cede</seg>
+		       <orig>īṫcede</orig>
+		       <reg>intercede</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is).</seg>
+		       <orig>noḃ.</orig>
+		       <reg>nobis.</reg>
+	     </choice> inuio. 
+	<choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice>
+      <lb/>Post. 
+	<choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)d(i)c(t)a</seg>
+		       <orig>Bn̄dc̄a</orig>
+		       <reg>Benedicta</reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lie</seg>
+		       <orig>ml͘ie</orig>
+		       <reg>mulie</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rib(us).</seg>
+		       <orig>rib⋮.</orig>
+		       <reg>ribus.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">b(e)n(e)d(i)c(ti)s</seg>
+		       <orig>bn̄dc̄s</orig>
+		       <reg>benedictis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fruct(us)</seg>
+		       <orig>fructꝰ</orig>
+		       <reg>fructus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)</seg>
+		       <orig>vē</orig>
+		       <reg>ven</reg>
+	     </choice>
+      <lb break="no"/>tris tui. 
+	<choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> exau. 
+	<choice>
+		       <seg type="lucas">Or(emus?).</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Oratio.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">GRatia(m)</seg>
+		       <orig>GRatiā</orig>
+		       <reg>GRatiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">me(n)tib(us)</seg>
+		       <orig>mētib⋮</orig>
+		       <reg>mentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ris</seg>
+		       <orig>nr̄is</orig>
+		       <reg>nostris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)fu(n)de:</seg>
+		       <orig>īfūde:</orig>
+		       <reg>infunde:</reg>
+	     </choice> ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)g(e)lo</seg>
+		       <orig>āgl͘o</orig>
+		       <reg>angelo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nu(n)tia(n)te</seg>
+		       <orig>nūtiāte</orig>
+		       <reg>nuntiante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christ)i</seg>
+		       <orig>xp̄i</orig>
+		       <reg>christi</reg>
+	     </choice> filii
+<lb/>tui 
+	<choice>
+		       <seg type="lucas">i(n)carnat(i)o(nem)</seg>
+		       <orig>īcarnatō⋮</orig>
+		       <reg>incarnationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cognovim(us):</seg>
+		       <orig>cognovimꝰ:</orig>
+		       <reg>cognovimus:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">passio(nem)</seg>
+		       <orig>passiō⋮</orig>
+		       <reg>passionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cruce(m)</seg>
+		       <orig>crucē</orig>
+		       <reg>crucem</reg>
+	     </choice> ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">resurrect(i)o(n)is</seg>
+		       <orig>resurrectōis</orig>
+		       <reg>resurrectionis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a(m)</seg>
+		       <orig>gl͘a⋮</orig>
+		       <reg>gloriam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)duca</seg>
+		       <orig>ꝑduca</orig>
+		       <reg>perduca</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(ur).</seg>
+		       <orig>m݃.</orig>
+		       <reg>mur.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(n)de(m).</seg>
+		       <orig>eūdē.</orig>
+		       <reg>eundem.</reg>
+	     </choice> Ad 
+	<choice>
+		       <seg type="lucas">m(?).</seg>
+		       <orig>iii.</orig>
+		       <reg>tertiam.</reg>
+	     </choice> 
+ Ave
+<lb/>maria. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>D͘s</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ad. 
+
+	     <choice>
+		       <seg type="lucas">y(mnus).</seg>
+		       <orig>ȳpꝰ.</orig>
+		       <reg>ymnus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mem(en)t(o).</seg>
+		       <orig>mem̄ṫ.</orig>
+		       <reg>memento.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0091_translation"
+       corresp="#p0091_transcription">
+       in the holy dwelling-place
+       I ministered before Him.
+       
+       Response. Thanks be to God.
+       
+       Versicle. After childbirth thou still didst remain
+       a Virgin undefiled. Response. After childbirth thou still didst
+       remain a virgin undefiled. V. O Mother of God, intercede for us.
+       <!-- OBDS page 104. -->
+       
+       Versicle. Blessed art thou amongst women.
+       Response. And blessed is the fruit of they womb.
+       Versicle. O Lord, hear my prayer.
+       
+       Pour forth, we beseech You, 
+       O Lord, Your Grace into our hearts; 
+       that as we have known the incarnation of Christ, 
+       your Son by the message of an angel, 
+       so by His passion and cross we may be brought to the glory of His Resurrection. 
+       Through the same Christ, our Lord. Amen.
+       <!-- DM page 1247 -->
+	   
+	To the third: Hail Mary,
+	full of grace, 
+	the Lord is with thee. 
+	Blessed art thou amongst women, 
+	and blessed is the fruit of thy womb, Jesus. 
+	Holy Mary, Mother of God, pray for us sinners,
+	now and at the hour of our death. Amen.
+
+	Incline unto my aid, O God. 
+	O God, make haste to help me.
+
+	   <!-- OBDS pages 480-82 -->.
+
+
+   </ab>
+
+</div>

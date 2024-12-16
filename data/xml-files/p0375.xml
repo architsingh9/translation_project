@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="180r"
+     xml:id="p0375">
+
+   <ab type="transcription"
+       xml:id="p0375_transcription"
+       corresp="#p0375_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Adv(er)su(m)</seg>
+	           <orig>Adv̇sū</orig>
+		       <reg>Adversum</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">susurraba(n)t</seg>
+	           <orig>susurrabāt</orig>
+		       <reg>susurrabant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+	           <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imici</seg>
+	           <orig>īimici</orig>
+		       <reg>inimici</reg>
+	     </choice> mei: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adv(er)su(m)</seg>
+	           <orig>adv̇sū</orig>
+		       <reg>adversum</reg>
+	     </choice>
+      <lb/>me 
+	<choice>
+		       <seg type="lucas">cogitaba(n)t</seg>
+	           <orig>cogitabāt</orig>
+		       <reg>cogitabant</reg>
+	     </choice> mala 
+	<choice>
+		       <seg type="lucas">m(ihi).</seg>
+	           <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Verbu(m)</seg>
+	           <orig>Verbū</orig>
+		       <reg>Verbum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iquu(m)</seg>
+	           <orig>īiquū</orig>
+		       <reg>iniquum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">stitueru(n)t</seg>
+	           <orig>ɔstituerūt</orig>
+		       <reg>constituerunt</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">adv(er)su(m)</seg>
+	           <orig>adv̇sū</orig>
+		       <reg>adversum</reg>
+	     </choice> me: 
+	<choice>
+		       <seg type="lucas">nu(m)q(ui)d</seg>
+	           <orig>nūq̇d</orig>
+		       <reg>numquid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> dormit
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> adiciat ut resurgat. E
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(n)i(m)</seg>
+	           <orig>teī</orig>
+		       <reg>tenim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(mo)</seg>
+	           <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> patis mee 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	           <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)</seg>
+	           <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)a</seg>
+	           <orig>sꝑa</orig>
+		       <reg>spera</reg>
+	     </choice>
+      <lb break="no"/>vi 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> edebat panes meos:
+<lb/>
+	     <choice>
+		       <seg type="lucas">mag(ni)ficavit</seg>
+	           <orig>maġficavit</orig>
+		       <reg>magnificavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">suppla(n)</seg>
+	           <orig>supplā</orig>
+		       <reg>supplan</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tat(i)o(nem).</seg>
+	           <orig>tatō⋮.</orig>
+		       <reg>tationem.</reg>
+	     </choice> Tu 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+	           <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice>
+      <lb/>mei 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> resuscita me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ret(ri)</seg>
+	           <orig>reṫ</orig>
+		       <reg>retri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bua(m)</seg>
+	           <orig>buā</orig>
+		       <reg>buam</reg>
+	     </choice> eis. In hoc 
+	<choice>
+		       <seg type="lucas">(co)gno</seg>
+	           <orig>ɔgno</orig>
+		       <reg>cogno</reg>
+	     </choice> 
+      <lb break="no"/>vi 
+	<choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> volusti me: 
+	<choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> gaudebit 
+	<choice>
+		       <seg type="lucas">i(n)imic(us)</seg>
+	           <orig>īimicꝰ</orig>
+		       <reg>inimicus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>me. Me 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)pt(er)</seg>
+	           <orig>ꝓpṫ</orig>
+		       <reg>propter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)noce(n)tia(m)</seg>
+	           <orig>īnocētiā</orig>
+		       <reg>innocentiam</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0375_translation"
+       corresp="#p0375_transcription">
+       
+       All my enemies whispered together against me: they devised evils to me.
+       They determined against me an unjust word: shall he that sleepeth rise again no more?
+       For even the man of peace, in whom I trusted, who ate my bread, hath greatly supplanted me.
+       But thou, O Lord, have mercy on me, and raise me up again: and I will requite them.
+       By this I know, that thou hast had a good will for me: because my enemy shall not rejoice over me
+       But thou hast upheld me by reason of my innocence: and hast established me in thy sight for ever.
+       <!-- drb psalm 40 cont.  -->
+   </ab>
+
+</div>

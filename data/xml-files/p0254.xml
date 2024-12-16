@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="119v"
+     xml:id="p0254">
+
+   <ab type="transcription"
+       xml:id="p0254_transcription"
+       corresp="#p0254_translation">
+
+      <lb/>ti 
+	<choice>
+		       <seg type="lucas">leticia(m)</seg>
+		       <orig>leticiā</orig>
+		       <reg>leticiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> corde meo. A
+<lb/>fructu 
+	<choice>
+		       <seg type="lucas">frume(n)ti:</seg>
+		       <orig>frumēti:</orig>
+		       <reg>frumenti:</reg>
+	     </choice> vini 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> ole
+<lb break="no"/>i sui: 
+	<choice>
+		       <seg type="lucas">m(u)ltiplicati</seg>
+		       <orig>ml͘tiplicati</orig>
+		       <reg>multiplicati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(n)t.</seg>
+		       <orig>sūt.</orig>
+		       <reg>sunt.</reg>
+	     </choice> In
+<lb/>pace 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">idip(su)m:</seg>
+		       <orig>idip̄m:</orig>
+		       <reg>idipsum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dormia(m)</seg>
+		       <orig>dormiā</orig>
+		       <reg>dormiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> re
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ui)esca(m).</seg>
+		       <orig>q̇escā.</orig>
+		       <reg>quiescam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">si(n)g(u)la</seg>
+		       <orig>sīgl͘a</orig>
+		       <reg>singula</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rit(er)</seg>
+		       <orig>riṫ</orig>
+		       <reg>riter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> spe 
+	<choice>
+		       <seg type="lucas">(con)stituisti</seg>
+		       <orig>ɔstituisti</orig>
+		       <reg>constituisti</reg>
+	     </choice> me.
+<lb/>IN te 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avi</seg>
+		       <orig>sꝑavi</orig>
+		       <reg>speravi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fu(n)dar</seg>
+		       <orig>ɔfūdar</orig>
+		       <reg>confundar</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m):</seg>
+		       <orig>īeṫnū:</orig>
+		       <reg>ineternum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> iusticia tua 
+	<choice>
+		       <seg type="lucas">lib(er)a</seg>
+		       <orig>liḃa</orig>
+		       <reg>libera</reg>
+	     </choice>
+      <lb/>me. 
+	<choice>
+		       <seg type="lucas">Incli(n)a</seg>
+		       <orig>Inclīa</orig>
+		       <reg>Inclina</reg>
+	     </choice> ad me 
+	<choice>
+		       <seg type="lucas">aure(m)</seg>
+		       <orig>aurē</orig>
+		       <reg>aurem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tua(m):</seg>
+		       <orig>tuā:</orig>
+		       <reg>tuam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">accel(er)a</seg>
+		       <orig>accel͘a</orig>
+		       <reg>accelera</reg>
+	     </choice> ut eruas me.
+<lb/>Esto 
+	<choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tectore(m);</seg>
+		       <orig>ꝓtectore;</orig>
+		       <reg>protectorem;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">domu(m)</seg>
+		       <orig>domū</orig>
+		       <reg>domum</reg>
+	     </choice> refugii: ut 
+	<choice>
+		       <seg type="lucas">salvu(m)</seg>
+		       <orig>salvū</orig>
+		       <reg>salvum</reg>
+	     </choice>
+      <lb/> <supplied>me</supplied> facias. 
+	<choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> fortitudo
+<lb/><supplied>mea
+	<choice>
+		       <seg type="lucas">(et)†</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice></supplied>
+	     <choice>
+		       <seg type="lucas">refugiu(m)</seg>
+		       <orig>refugiū</orig>
+		       <reg>refugium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> es tu:
+<lb/><supplied>
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)pt(er)</seg>
+		       <orig>ꝓpṫ</orig>
+		       <reg>propter</reg> 
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nom(en)</seg>
+		       <orig>nom̄</orig>
+		       <reg>nomen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice></supplied> deduces
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0254_translation"
+       corresp="#p0254_transcription">thou hast given gladness in my heart. 
+   	By the fruit of their corn, their wine and oil, they are multiplied. 
+   	In peace in the selfsame I will sleep, and I will rest: 
+   	For thou, O Lord, singularly hast settled me in hope. <!-- drb psalm 4. -->
+   	In thee, O Lord, have I hoped, let me never be confounded: deliver me in thy justice. 
+   	Bow down thy ear to me: make haste to deliver me. Be thou unto me a God, a protector, and a house of refuge, to save me. 
+   	For thou art my strength and my refuge; and for thy name's sake thou wilt lead me, and nourish me. <!-- drb psalm 30 cont --> </ab>
+
+</div>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="138v"
+     xml:id="p0292">
+
+   <ab type="transcription"
+       xml:id="p0292_transcription"
+       corresp="#p0292_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sua(m)</seg>
+		       <orig>suā</orig>
+		       <reg>suam</reg>
+	     </choice> dicit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s.</seg>
+		       <orig>dn̄s.</orig>
+		       <reg>dominus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">M(agnificat).</seg>
+		       <orig>iii.</orig>
+		       <reg>tertia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ Dix
+<lb break="no"/>it 
+	<choice>
+		       <seg type="lucas">p(ate)rfa(m)ilias</seg>
+		       <orig>pr̄fāilias</orig>
+		       <reg>paterfamilias</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)ariis</seg>
+		       <orig>oꝑariis</orig>
+		       <reg>operariis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sui(s)</seg>
+		       <orig>suiˢ</orig>
+		       <reg>suis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)d</seg>
+		       <orig>q̇d</orig>
+		       <reg>quid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ic)</seg>
+		       <orig>ḣ</orig>
+		       <reg>hic</reg>
+	     </choice> statis tota die otio
+<lb break="no"/>si at illi 
+	<choice>
+		       <seg type="lucas">r(espo)nde(n)tes</seg>
+		       <orig>rn̄dētes</orig>
+		       <reg>respondentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dixer(un)t</seg>
+		       <orig>dixer̄t</orig>
+		       <reg>dixerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ne(m)o</seg>
+		       <orig>nēo</orig>
+		       <reg>nemo</reg>
+	     </choice> nos 
+	<choice>
+		       <seg type="lucas">(con)duxit</seg>
+		       <orig>ɔduxit</orig>
+		       <reg>conduxit</reg>
+	     </choice> ite 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vos 
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vinea(m)</seg>
+		       <orig>vineā</orig>
+		       <reg>vineam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)d</seg>
+		       <orig>qḋ</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iustu(m)</seg>
+		       <orig>iustū</orig>
+		       <reg>iustum</reg>
+	     </choice> fu
+<lb break="no"/>erit dabo 
+	<choice>
+		       <seg type="lucas">vob(is).</seg>
+		       <orig>voḃ.</orig>
+		       <reg>vobis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ebdo(na?)m</seg>
+		       <orig>ebdöm</orig>
+		       <reg>ebdona?m<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>ad 
+	<choice>
+		       <seg type="lucas">V(?)</seg>
+		       <orig>ḃ</orig>
+		       <reg>Benedictus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>Antiphon.</reg>
+	     </choice> 
+ Hii novissimi u
+<lb break="no"/>na 
+	<choice>
+		       <seg type="lucas">ho(ra)</seg>
+		       <orig>hö</orig>
+		       <reg>hora</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fecer(un)t</seg>
+		       <orig>fecer̄t</orig>
+		       <reg>fecerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> pares illos
+<lb/>
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> fecisti 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">portavim(us)</seg>
+		       <orig>portavimꝰ</orig>
+		       <reg>portavimus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">po(n)d(us)</seg>
+		       <orig>pōdꝰ</orig>
+		       <reg>pondus</reg>
+	     </choice> diei 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">est(us).</seg>
+		       <orig>estꝰ.</orig>
+		       <reg>estus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">M(agnificat).</seg>
+		       <orig>M̈.</orig>
+		       <reg>Magnificat.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Er(un)t</seg>
+		       <orig>Er̄t</orig>
+		       <reg>Erunt</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ri)mi</seg>
+		       <orig>ṗmi</orig>
+		       <reg>primi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">novissi(mi)</seg>
+		       <orig>novissī</orig>
+		       <reg>novissimi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">novissi(mi)</seg>
+		       <orig>novissī</orig>
+		       <reg>novissimi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ri)</seg>
+		       <orig>ṗ</orig>
+		       <reg>pri</reg>
+	     </choice>
+      <lb break="no"/>mi 
+	<choice>
+		       <seg type="lucas">m(u)lti</seg>
+		       <orig>ml͘ti</orig>
+		       <reg>multi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>ēi</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>st͘</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vo(ra)ti</seg>
+		       <orig>vöti</orig>
+		       <reg>vorati</reg>
+	     </choice> pauci
+<lb/>
+	     <choice>
+		       <seg type="lucas">v(er)o</seg>
+		       <orig>v̇o</orig>
+		       <reg>vero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">el(e)c(t)i.</seg>
+		       <orig>elc̄i.</orig>
+		       <reg>electi.</reg>
+	     </choice> dicit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s.</seg>
+		       <orig>dn̄s.</orig>
+		       <reg>dominus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Do(minica)</seg>
+		       <orig>Dö</orig>
+		       <reg>Dominica</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(tercia)</seg>
+		       <orig>iiii</orig>
+		       <reg>iiii</reg>
+	     </choice>
+      <lb/>lx. 
+	<choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)dice(n)s</seg>
+		       <orig>Bn̄dicēs</orig>
+		       <reg>Benedicens</reg>
+	     </choice> ergo 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0292_translation"
+       corresp="#p0292_transcription"> The kingdom of heaven
+         is like a householder who went out early in the morning to hire laborers for his vineyard, said the Lord. <!-- DM 79, cont from previous page -->
+         Magnificat. Antiphon. The householder said to his laborers, <!-- words that appear on DM 79 but not in that order --> 
+         'Why do you stand here all day idle?' <!-- DM 79 -->
+         And they answered and said <!-- DM 295 -->  
+         because no man has hired us. Go you also into the vineyard,
+         and I will give you whatever is just. <!-- DM 79 -->
+         Through the week. <!-- i believe referring to week of Sexagisimae/Septagisimae?? --> At Benedictus. Antiphon. 
+         These last have worked a single hour,
+         and you have put them on a level with us, who have
+         borne the burden of the day's heat. Magnificat. Antiphon. 
+         The first
+         shall be last, and the last first; for many are called, but
+         few are chosen. <!-- DM 80. manuscript flips the order of last/first in that sentence. --> 
+         Says the Lord. Third Sunday. Lx? <!-- this was on the last page as well --> 
+         Response. Therefore blessing Noah, God said, <!-- cont. to next page. put together from 
+              DRB Genesis 27:23-24 and Genesis 8. The DRB does not translate Noe (remains Noe) but 
+               I figure all contemporary readers recognize "Noah" --> 
+   </ab>
+
+</div>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="199r"
+     xml:id="p0413">
+
+   <ab type="transcription"
+       xml:id="p0413_transcription"
+       corresp="#p0413_translation">
+
+      <lb/>te 
+	<choice>
+		       <seg type="lucas">o(mn)e</seg>
+		       <orig>ōe</orig>
+		       <reg>omne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">desideriu(m)</seg>
+		       <orig>desideriū</orig>
+		       <reg>desiderium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m):</seg>
+		       <orig>meū:</orig>
+		       <reg>meum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> ge
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mit(us)</seg>
+		       <orig>mitꝰ</orig>
+		       <reg>mitus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> a te 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">absco(n)</seg>
+		       <orig>abscō</orig>
+		       <reg>abscon</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">dit(us).</seg>
+		       <orig>ditꝰ.</orig>
+		       <reg>ditus.</reg>
+	     </choice> Cor 
+	<choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)t(ur)batu(m)</seg>
+		       <orig>ɔt݃batū</orig>
+		       <reg>turbatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(er)eliq(ui)t</seg>
+		       <orig>ḋeliq̇t</orig>
+		       <reg>dereliquit</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">v(ir)t(us)</seg>
+		       <orig>v̇tꝰ</orig>
+		       <reg>virtus</reg>
+	     </choice> mea: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> lu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">me(n)</seg>
+		       <orig>mē</orig>
+		       <reg>men</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)lor(um)</seg>
+		       <orig>ocl͘oꝝ</orig>
+		       <reg>oculorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meor(um)</seg>
+		       <orig>meoꝝ</orig>
+		       <reg>meorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(su)m</seg>
+		       <orig>ip̄m</orig>
+		       <reg>ipsum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mecu(m).</seg>
+		       <orig>mecū.</orig>
+		       <reg>mecum.</reg>
+	     </choice> Amici mei 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice>
+      <lb break="no"/>ximi mei: 
+	<choice>
+		       <seg type="lucas">adv(er)su(m)</seg>
+		       <orig>adv̇sū</orig>
+		       <reg>adversum</reg>
+	     </choice> me ap
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(ro)pi(n)q(ua)ver(un)t</seg>
+		       <orig>ꝓpīq̈ver̄t</orig>
+		       <reg>propinquaverunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">steter(un)t.</seg>
+		       <orig>steter̄t.</orig>
+		       <reg>steterunt.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">iux(ta)</seg>
+		       <orig>iuẍ</orig>
+		       <reg>iuxta</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">era(n)t</seg>
+		       <orig>erāt</orig>
+		       <reg>erant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">delo(n)ge</seg>
+		       <orig>delōge</orig>
+		       <reg>delonge</reg>
+	     </choice> stete
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ru(n)t</seg>
+		       <orig>rūt</orig>
+		       <reg>runt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vi(m)</seg>
+		       <orig>vī</orig>
+		       <reg>vim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facieba(n)t</seg>
+		       <orig>faciebāt</orig>
+		       <reg>faciebant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)re</seg>
+		       <orig>q̄re</orig>
+		       <reg>quere</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ba(n)t</seg>
+		       <orig>bāt</orig>
+		       <reg>bant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ui)reba(n)t</seg>
+		       <orig>q̇rebāt</orig>
+		       <reg>quirebant</reg>
+	     </choice> mala 
+	<choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> locuti
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">va(n)itates:</seg>
+		       <orig>vāitates:</orig>
+		       <reg>vanitates:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> dolos 
+	<choice>
+		       <seg type="lucas">to(ta)</seg>
+		       <orig>tö</orig>
+		       <reg>tota</reg>
+	     </choice> 
+      <lb/>die 
+	<choice>
+		       <seg type="lucas">meditaba(n)t(ur).</seg>
+		       <orig>meditabāt݃.</orig>
+		       <reg>meditabantur.</reg>
+	     </choice> Ego
+<lb/>
+	     <choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄ </orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ta(m)q(uam)</seg>
+		       <orig>tāɋ̈</orig>
+	           <!-- we never settled on a diacritic for quam -->
+		       <reg>tamquam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">surd(us)</seg>
+		       <orig>surdꝰ</orig>
+		       <reg>surdus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">audieba(m):</seg>
+		       <orig>audiebā:</orig>
+		       <reg>audiebam:</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0413_translation"
+       corresp="#p0413_transcription">
+       Lord, thou knowest all my desire: and my groaning is not hid from thee.
+       My heart panteth, my strength hath failed me: and the sight of mine eyes is gone from me.
+       My lovers and my neighbours did stand looking upon my trouble: and my kinsmen stood afar off.
+       They also that sought after my life laid snares for me: 
+       and they that went about to do me evil talked of wickedness, and imagined deceit all the day long.
+       As for me, I was like a deaf man, and heard not: and as one that is dumb, who doth not open his mouth.
+       <!-- drb palsm 37 cont. -->
+         
+   </ab>
+
+</div>
