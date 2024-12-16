@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="88r"
+     xml:id="p0191">
+
+   <ab type="transcription"
+       xml:id="p0191_transcription"
+       corresp="#p0191_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fid(un)t</seg>
+		       <orig>ɔfid̄t</orig>
+		       <reg>confidunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis. 
+	<choice>
+		       <seg type="lucas">Dom(us)</seg>
+	             <orig>Domꝰ</orig>
+		       <reg>Domus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l</seg>
+		       <orig>isrl͘</orig>
+		       <reg>israel</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sp(er)avit</seg>
+	             <orig>sꝑavit</orig>
+		       <reg>speravit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adiuto(r)</seg>
+	             <orig>adiutȯ</orig>
+		       <reg>adiutor</reg>
+	     </choice> eo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+	             <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tector</seg>
+	           <orig>ꝓtector</orig>
+		       <reg>protector</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um)</seg>
+	             <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st).</seg>
+	             <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dom(us)</seg>
+	             <orig>Domꝰ</orig>
+		       <reg>Domus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">aaro(n)</seg>
+	             <orig>aarō</orig>
+		       <reg>aaron</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avit</seg>
+		       <orig>sꝑavit</orig>
+		       <reg>speravit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> adiu
+<lb break="no"/>tor 
+	<choice>
+		       <seg type="lucas">eor(um)</seg>
+	              <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tector</seg>
+	           <orig>ꝓtector</orig>
+		       <reg>protector</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um)</seg>
+	             <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> est.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Qⁱ</orig> 
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">time(n)t</seg>
+		       <orig>timet̄̄</orig> 
+	                <reg>timent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+	             <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)aver(un)t</seg>
+	             <orig>sꝑaver̄t</orig>
+		       <reg>speraverunt</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī </orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> adiutor 
+	<choice>
+		       <seg type="lucas">eor(um)</seg>
+	             <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)te</seg>
+	           <orig>ꝓte</orig>
+		       <reg>prote</reg>
+	     </choice>
+      <lb break="no"/>ctor 
+	<choice>
+		       <seg type="lucas">eor(um)</seg>
+	             <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st).</seg>
+	             <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(m)or</seg>
+	              <orig>mēor</orig> 
+		       <reg>memor</reg>
+	     </choice> fu
+<lb break="no"/>it 
+	<choice>
+		       <seg type="lucas">n(ost)ri:</seg>
+		       <orig>nr̄i:</orig>
+		       <reg>nostri:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dixit</seg>
+		       <orig>bn̄dixit</orig>
+		       <reg>benedixit</reg>
+	     </choice> nobis.
+<lb/>
+	     <choice>
+		       <seg type="lucas">B(e)n(e)dixit</seg>
+		       <orig>Bn̄dixit</orig>
+		       <reg>Benedixit</reg>
+	     </choice> domui 
+	<choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)</seg>
+		       <orig>bn̄</orig>
+		       <reg>bene</reg>
+	     </choice>
+      <lb break="no"/>dixit domini 
+	<choice>
+		       <seg type="lucas">aaro(n).</seg>
+	              <orig>aarō.</orig>
+		       <reg>aaron.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)</seg>
+		       <orig>Bn̄</orig>
+		       <reg>Bene</reg>
+	     </choice>
+      <lb break="no"/>dixit 
+	<choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+	             <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">time(n)t</seg>
+	             <orig>timēt</orig>
+		       <reg>timent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)m:</seg>
+		       <orig>dn̄m:</orig>
+		       <reg>dominum:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pusill(is)</seg>
+		       <orig>pusill̀͘</orig>
+		       <reg>pusillis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">maiorib(us).</seg>
+	             <orig>maiorib⋮.</orig>
+		       <reg>maioribus.</reg>
+	     </choice> Adi
+<lb break="no"/>ciat 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sup(er)</seg>
+	             <orig>suꝑ</orig>
+		       <reg>super</reg>
+	     </choice> vos: 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> vos:
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> filios 
+	<choice>
+		       <seg type="lucas">v(est)ros.</seg>
+	              <orig>vrōs.</orig>
+		       <reg>vestros.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)d(i)c(t)i</seg>
+		       <orig>Bn̄dc̄i</orig>
+		       <reg>Benedicti</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0191_translation"
+       corresp="#p0191_transcription">such as trust in them.
+         The house of Israel hath hoped in the Lord: he is their helper and their protector. 
+         The house of Aaron hath hoped in the Lord: he is their helper and their protector.
+         They that fear the Lord hath hoped in the Lord: he is their helper and their protector. 
+         The Lord hath been mindful of us, and hath blessed us. He hath blessed the house of Israel: he hath blessed the house of Aaron. 
+         He hath blessed all that fear the Lord, both little and great. 
+         May the Lord add blessings upon you: upon you, and upon your children. Blessed be <!-- drb psalm 113 cont --> </ab>
+
+</div>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="59v"
+     xml:id="p0134">
+
+   <ab type="transcription"
+       xml:id="p0134_transcription"
+       corresp="#p0134_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tecu(m).</seg>
+		       <orig>tecū.</orig>
+		       <reg>tecum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)d(i)c(t)a</seg>
+		       <orig>Bn̄dc̄a</orig>
+		       <reg>Benedicta</reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)li</seg>
+		       <orig>ml͘i</orig>
+		       <reg>muli</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">erib(us)</seg>
+		       <orig>erib⋮</orig>
+		       <reg>eribus</reg>
+	     </choice> 
+	     <choice>
+	     	
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)d(i)c(tu)s</seg>
+		       <orig>bn̄dc̄s</orig>
+		       <reg>benedictus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fruct(us)</seg>
+		       <orig>fructꝰ</orig>
+		       <reg>fructus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)t(ri)s</seg>
+		       <orig>vēṫs</orig>
+		       <reg>ventris</reg>
+	     </choice>
+      <lb/>O 
+	<choice>
+		       <seg type="lucas">B(ea)ta</seg>
+		       <orig>Bt̄a</orig>
+		       <reg>Beata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(r)i⸗</seg>
+		       <orig>mȧi⸗</orig>
+		       <reg>mari⸗</reg>
+	     </choice>  
+         <choice>
+               <seg type="lucas">l(ectio).</seg>
+               <orig>l͘.</orig>
+               <reg>lectio.</reg>
+         </choice>
+	<choice>
+		       <seg type="lucas">iii.</seg>
+		       <orig>iii.</orig>
+		       <reg>iii.</reg>
+	     </choice> 
+ tui. 
+	<choice>
+		       <seg type="lucas">D(eus).</seg>
+		       <orig>Dꝰ.</orig>
+		       <reg>Deus.</reg>
+	     </choice>
+      <lb/>a tu illa maria tu il
+<lb break="no"/>la maior 
+	<choice>
+		       <seg type="lucas">b(ea)tar(um)</seg>
+		       <orig>bt̄aꝝ</orig>
+		       <reg>beatarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mariar(um)</seg>
+		       <orig>mariaꝝ</orig>
+		       <reg>mariarum</reg>
+	     </choice> tu
+<lb/>illa 
+	<choice>
+		       <seg type="lucas">maxi(m)a</seg>
+		       <orig>maxīa</orig>
+		       <reg>maxima</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">femi(n)ar(um).</seg>
+		       <orig>femīaꝝ.</orig>
+		       <reg>feminarum.</reg>
+	     </choice> Tu illa
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(na)</seg>
+		       <orig>mag̈</orig>
+		       <reg>magna</reg>
+	     </choice> 
+	     <choice>
+	     		<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> valde 
+	<choice>
+		       <seg type="lucas">mag(na)</seg>
+		       <orig>mag̈</orig>
+		       <reg>magna</reg>
+	     </choice>
+      <lb/>tu illa 
+	<choice>
+		       <seg type="lucas">regi(n)a</seg>
+		       <orig>regīa</orig>
+		       <reg>regina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)g(e)lor(um).</seg>
+		       <orig>āgl͘oꝝ.</orig>
+		       <reg>angelorum.</reg>
+	     </choice> Tu il
+<lb break="no"/>la 
+	<choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)di.</seg>
+		       <orig>mūdi.</orig>
+		       <reg>mundi.</reg>
+	     </choice> Tu illa 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)dat</seg>
+		       <orig>mūdat</orig>
+		       <reg>mundat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)du(m)</seg>
+		       <orig>mūdū</orig>
+		       <reg>mundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ta(?)im</seg>
+		       <orig>tāim</orig>
+		       <reg>ta?im<!--  check expansion --></reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mu(n)du(m)</seg>
+		       <orig>mūdū</orig>
+		       <reg>mundum</reg>
+	     </choice> 
+	     <choice>
+	     	
+		       <seg type="lucas">q(uod)</seg>
+		       <orig>ȹ</orig>
+		       <reg>quod</reg>
+	     </choice> corda 
+	<choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> nimis
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(m)mu(n)da.</seg>
+		       <orig>īmūda.</orig>
+		       <reg>immunda.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Igit(ur)</seg>
+		       <orig>Igit݃</orig>
+		       <reg>Igitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)cam(ur)</seg>
+		       <orig>pcam݃</orig>
+		       <reg>precamur</reg>
+	     </choice> te 
+	<choice>
+		
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> fi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">liu(m)</seg>
+		       <orig>liū</orig>
+		       <reg>lium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> exaudite nos 
+	<choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ro)pt(er)</seg>
+		       <orig>ꝓpṫ</orig>
+		       <reg>propter</reg>
+	     </choice> nos 
+	<choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)pt(er)</seg>
+		       <orig>ꝓpṫ</orig>
+		       <reg>propter</reg>
+	     </choice> vos 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)ta</seg>
+		       <orig>pt̄a</orig>
+		       <reg>preta</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(m)</seg>
+		       <orig>tē</orig>
+		       <reg>tem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+	     	<!-- check trancription, looks incorrect -->
+		       <seg type="lucas">(ab)undatis?</seg>
+		       <orig>ūndatis?</orig>
+		       <reg>abundatis?</reg>
+	     </choice> Ut 
+	<choice>
+		       <seg type="lucas">evada(mus)</seg>
+		       <orig>evadāꝰ</orig>
+		       <reg>evadamus</reg>
+	     </choice> 
+   	
+   	
+   
+
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0134_translation"
+       corresp="#p0134_transcription"> Hail Mary, full of grace, the Lord is with thee. Versicle. Blessed art thou amongst women and blessed is the fruit of 
+         thy womb. [Incline unto my aid], O God, [O God, make haste to help me.] <!-- Standard prompts. --> Third lesson.
+         O Blessed Mary, you, that Mary, you are the greatest of the blessed Marys, you are the greatest of women. 
+         You are that great and very great lady, you are that queen of the angels.
+         You are that lady of the world. You are that mother who cleanses the world so impure because our hearts are too impure. <!-- Google translate.
+         I found this in the Anselm of Canterbury prayers that seems to be the source for some things in the surrounding pages: "Queen of angels, Lady of the world,
+Mother of Him who cleanses the world, [20]
+I confess that my heart is unclean,
+and I am rightly ashamed to turn towards such cleanness." I don't know if that's helpful, but it seems close.-->
+         So I ask you to hear me
+         by your own merits rather than mine,
+         so that by the goodness you pour forth
+         and the power in which you abound,
+         I may escape the sorrows of damnation which I deserve
+         and enter into the joy of the blessed
+         to praise you, God,
+         who are worthy to be praised and exalted for ever. Amen. <!-- continues. University of Dayton Anselm of Canterbury prayers, linked in Doc --> </ab>
+
+</div>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="95r"
+     xml:id="p0205">
+
+   <ab type="transcription"
+       xml:id="p0205_transcription"
+       corresp="#p0205_translation">
+
+      <lb/>IN 
+	     <choice>
+		       <seg type="lucas">v(er)te(n)do</seg>
+		       <orig>ɔv̇tēdo</orig>
+		       <reg>vertendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice>  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">captivitate(m)</seg>
+		       <orig>captivitatē</orig>
+		       <reg>captivitatem</reg>
+	     </choice> sy
+<lb break="no"/>on: 
+	<choice>
+		       <seg type="lucas">f(a)c(t)i</seg>
+		       <orig>fc̄i</orig>
+		       <reg>facti</reg>
+	     </choice> sumus                          Facti. i. 
+<lb/>
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)solati.</seg>
+		       <orig>ɔsolati.</orig>
+		       <reg>consolati.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Tu(n)c</seg>
+		       <orig>Tūc</orig>
+		       <reg>Tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">repletu(m)</seg>
+		       <orig>repletū</orig>
+		       <reg>repletum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> gaudio os 
+	<choice>
+		       <seg type="lucas">n(ost)r(u)m</seg>
+		       <orig>nr̄m</orig>
+		       <reg>nostrum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">li(n)g</seg>
+		       <orig>līg</orig>
+		       <reg>ling</reg>
+	     </choice>
+      <lb break="no"/>ua 
+	<choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exultat(i)o(n)e.</seg>
+		       <orig>exultatōe.</orig>
+		       <reg>exultatione.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Tu(n)c</seg>
+		       <orig>Tuc̄</orig>
+		       <reg>Tunc</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">dice(n)t</seg>
+		       <orig>dicēt</orig>
+		       <reg>dicent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">int(er)</seg>
+		       <orig>inṫ</orig>
+		       <reg>inter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tes:</seg>
+		       <orig>gētes:</orig>
+		       <reg>gentes:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(ni)fica</seg>
+		       <orig>maġfica</orig>
+		       <reg>magnifica</reg>
+	     </choice>
+      <lb break="no"/>vit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">face(re)</seg>
+		       <orig>facė</orig>
+		       <reg>facere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> eis. 
+	<choice>
+		       <seg type="lucas">Mag(ni)</seg>
+		       <orig>Maġ</orig>
+		       <reg>Magni</reg>
+	     </choice>
+      <lb break="no"/>ficavit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">face(re)</seg>
+		       <orig>facė</orig>
+		       <reg>facere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nobiscu(m):</seg>
+		       <orig>nobiscū:</orig>
+		       <reg>nobiscum:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">f(a)c(t)i</seg>
+		       <orig>fc̄i</orig>
+		       <reg>facti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sum(us)</seg>
+		       <orig>sumꝰ</orig>
+		       <reg>sumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">leta(n)tes.</seg>
+		       <orig>letātes.</orig>
+		       <reg>letantes.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(n)v(er)te</seg>
+		       <orig>Cōv̇te</orig>
+		       <reg>Converte</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">captivitate(m)</seg>
+		       <orig>captivitatē</orig>
+		       <reg>captivitatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra(m):</seg>
+		       <orig>nr̄a⋮:</orig>
+		       <reg>nostram:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">torre(n)s</seg>
+		       <orig>torrēs</orig>
+		       <reg>torrens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> austro. 
+	<choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> semi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">na(n)t</seg>
+		       <orig>nāt</orig>
+		       <reg>nant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lac(ri)mis:</seg>
+		       <orig>laċmis:</orig>
+		       <reg>lacrimis:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exultat(i)o</seg>
+		       <orig>exultatō</orig>
+		       <reg>exultatio</reg>
+	     </choice>
+      <lb break="no"/>ne 
+	<choice>
+		       <seg type="lucas">mete(n)t.</seg>
+		       <orig>metēt.</orig>
+		       <reg>metent.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Eu(n)tes</seg>
+		       <orig>Eūtes</orig>
+		       <reg>Euntes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iba(n)t</seg>
+		       <orig>ibāt</orig>
+		       <reg>ibant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fleba(n)t:</seg>
+		       <orig>flebāt:</orig>
+		       <reg>flebant:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mitte(n)tes</seg>
+		       <orig>mittētes</orig>
+		       <reg>mittentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">semi(n)a</seg>
+		       <orig>semīa</orig>
+		       <reg>semina</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0205_translation"
+       corresp="#p0205_transcription">
+       [Song] Facti. [Mode] i. 
+       When the Lord brought back the captivity of Sion, we became like men comforted. 
+       Then was our mouth filled with gladness; and our tongue with joy. Then shall they say among the Gentiles: The Lord hath done great things for them.
+       The Lord hath done great things for us: we are become joyful. 
+       Turn again our captivity, O Lord, as a stream in the south. 
+       They that sow in tears shall reap in joy. 
+       Going they went and wept, casting their seeds. <!-- psalm 125 cont --></ab>
+
+</div>

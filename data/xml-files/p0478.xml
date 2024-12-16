@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="231v"
+     xml:id="p0478">
+
+   <ab type="transcription"
+       xml:id="p0478_transcription"
+       corresp="#p0478_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">letabit(ur)</seg>
+		       <orig>letabit݃</orig>
+		       <reg>letabitur</reg>
+	     </choice> cor 
+	<choice>
+		       <seg type="lucas">n(ost)r(u)m:</seg>
+		       <orig>nr̄m:</orig>
+		       <reg>nostrum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(m)i(n)e</seg>
+		       <orig>noīe</orig>
+		       <reg>nomine</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>sc̄o</orig>
+		       <reg>sancto</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+	                <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avim(us).</seg>
+	                <orig>sꝑavimꝰ.</orig>
+		       <reg>speravimus.</reg>
+	     </choice> Fiat
+<lb/>
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+		       <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> nos: 
+	<choice>
+		       <seg type="lucas">que(m)</seg>
+		       <orig>quē</orig>
+		       <reg>quem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">abmodu(m)</seg>
+		       <orig>abmodū</orig>
+		       <reg>abmodum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avim(us)</seg>
+	                <orig>sꝑavimꝰ</orig>
+		       <reg>speravimus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te.
+<lb/>
+	     <choice>
+		       <seg type="lucas">BEnedica(m)</seg>
+		       <orig>BEnedicā</orig>
+		       <reg>BEnedicam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">om(n)i</seg>
+		       <orig>om̄i</orig>
+		       <reg>omni</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(em)p(or)e:</seg>
+	              <orig>tꝑe:</orig>
+		       <reg>tempore:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)</seg>
+	             <orig>sꝑ</orig>
+		       <reg>sper</reg>
+	     </choice> laus 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+	                <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ore
+<lb/>meo. In 
+	<choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laudabit(ur)</seg>
+		       <orig>laudabit݃</orig>
+		       <reg>laudabitur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> mea: 
+	<choice>
+		       <seg type="lucas">audia(n)t</seg>
+		       <orig>audiāt</orig>
+		       <reg>audiant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)sue</seg>
+		       <orig>māsue</orig>
+		       <reg>mansue</reg>
+	     </choice>
+      <lb break="no"/>ti 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	                <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lete(n)t(ur).</seg>
+		       <orig>letēt݃ .</orig>
+		       <reg>letentur.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Mag(ni)ficate</seg>
+		       <orig>Maġficate</orig>
+		       <reg>Magnificate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mecu(m):</seg>
+		       <orig>mecū:</orig>
+		       <reg>mecum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	              <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exaltem(us)</seg>
+	           <orig>exaltemꝰ</orig>
+		       <reg>exaltemus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nome(n)</seg>
+		       <orig>nomē</orig>
+		       <reg>nomen</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+	           <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">idip(su)m.</seg>
+		       <orig>idip̄m.</orig>
+		       <reg>idipsum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Exq(ui)sivi</seg>
+		       <orig>Exq̇sivi</orig>
+		       <reg>Exquisivi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	                <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> exaudivit me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	                <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(ri)bulat(i)o(n)ib(us)</seg>
+		       <orig>ṫbulatoīb⋮</orig>
+		       <reg>tribulationibus</reg>
+	     </choice> meis eripuit
+<lb/>me. Accedite ad 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	                <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> illu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mi(n)avu(m)?:</seg>
+		       <orig>mīamī:</orig> 
+		       <reg>minamīni:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	                <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> facies 
+	<choice>
+		       <seg type="lucas">v(est)re</seg>
+		       <orig>vr̄e</orig>
+		       <reg>vestre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">co(n)⸗</seg>
+		       <orig>cō⸗</orig>
+		       <reg>con⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0478_translation"
+       corresp="#p0478_transcription">our heart shall rejoice: and in his holy name we have trusted. Let thy mercy, O
+         Lord, be upon us, as we have hoped in thee. <!-- continued end of DRB Psalm 32 --> I will
+bless the Lord at all times, his praise shall be always in my mouth. In the
+Lord shall my soul be praised: let the meek hear and rejoice. O magnify the
+Lord with me; and let us extol his name together. I sought the Lord, and he
+heard me; and he delivered me from all my troubles. Come ye to him and be
+enlightened: and your faces shall not <!--Continues Psalms 33–->
+</ab>
+
+</div>

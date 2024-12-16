@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="75r"
+     xml:id="p0165">
+
+   <ab type="transcription"
+       xml:id="p0165_transcription"
+       corresp="#p0165_translation">
+
+      <lb/>cies de 
+	<choice>
+		       <seg type="lucas">p(er)seq(ue)ntib(us)</seg>
+		       <orig>ꝑseq̄ntib⋮</orig> 
+		       <reg>persequentibus</reg>
+	     </choice> me iudi
+<lb break="no"/>
+         <choice>
+               <seg type="lucas"> ciu(m)</seg>
+               <orig>ciū.</orig>
+               <reg>cium.</reg>
+         </choice>
+	<choice>
+		       <seg type="lucas">Narraver(un)t</seg>
+		       <orig>Narraver̄t</orig>
+		       <reg>Narraverunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)</seg>
+		       <orig>īiq̇</orig>
+		       <reg>iniqui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fab(u)lat(i)o(n)es:</seg>
+		       <orig>fabl͘atōes:</orig>
+		       <reg>fabulationes:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> ut lex tua.
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mn)ia</seg>
+		       <orig>Oīa</orig>
+		       <reg>Omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">v(er)itas:</seg>
+		       <orig>v̇itas:</orig>
+		       <reg>veritas:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)iq(ue)</seg>
+		       <orig>īiq̇</orig>
+		       <reg>inique</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)secuti</seg>
+		       <orig>ꝑsecuti</orig>
+		       <reg>persecuti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> me adiuva
+<lb/>me. 
+	<choice>
+		       <seg type="lucas">min(us)</seg>
+		       <orig>Paulominꝰ</orig>
+		       <reg>Paulominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(mm)a</seg>
+		       <orig>ɔsūa</orig>
+		       <reg>consumma</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ver(un)t</seg>
+		       <orig>ver̄t</orig>
+		       <reg>verunt</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra:</seg>
+		       <orig>ṫra:</orig>
+		       <reg>terra:</reg>
+	     </choice> ego 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">de(re)liq(ui)</seg>
+		       <orig>dēliq̇</orig>
+		       <reg>dereliqui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua. 
+	<choice>
+		       <seg type="lucas">S(e)c(un)d(um)</seg>
+		       <orig>Scḋ⋮</orig>
+		       <reg>Secundum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a(m)</seg>
+		       <orig>mīa⋮</orig>
+		       <reg>misericordiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> vivifica me: 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">custodia(m)</seg>
+		       <orig>custodiā</orig>
+		       <reg>custodiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">testi(m)o(n)ia</seg>
+		       <orig>testīoia</orig>
+		       <reg>testimonia</reg>
+	     </choice> oris tui.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Inet(er)nu(m)</seg>
+		       <orig>Ineṫnū</orig>
+		       <reg>Ineternum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)bu(m)</seg>
+		       <orig>v̇bū</orig>
+		       <reg>verbum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)ma(n)et</seg>
+		       <orig>ꝑmāet</orig> 
+		       <reg>permanet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> celo. In 
+	<choice>
+		       <seg type="lucas">g(e)n(er)a</seg>
+		       <orig>gṅa</orig>
+		       <reg>genera</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(i)o(n)e(m)</seg>
+		       <orig>tōe</orig>
+		       <reg>tionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(e)n(er)at(i)o(nem)</seg>
+		       <orig>gṅatō⋮</orig>
+		       <reg>generationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)itas</seg>
+		       <orig>v̇itas</orig>
+		       <reg>veritas</reg>
+	     </choice> tua:
+<lb/><supplied>
+	<choice>
+		       <seg type="lucas">fu(n)dasti†</seg>
+		       <orig>fūdasti</orig>
+		       <reg>fundasti</reg>
+	     </choice> 
+         <supplied>
+	     <choice>
+		       <seg type="lucas">t(er)ra(m)</seg>
+		       <orig>ṫrā</orig>
+		       <reg>terram</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+	           <seg type="lucas">p(er)ma(n)et.</seg>
+		       <orig>ꝑmāet.</orig>
+		       <reg>permanet.</reg>
+	     </choice> Or
+<lb break="no"/></supplied>
+	<choice>
+		       <seg type="lucas">dinat(i)o(n)e</seg>
+		       <orig>dinatōe</orig>
+		       <reg>dinatione</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">p(er)sev(er)at</seg>
+		       <orig>ꝑsev̇at</orig>
+		       <reg>perseverat</reg>
+	     </choice> dies</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0165_translation"
+       corresp="#p0165_transcription">when wilt thou execute judgment on them that persecute me?
+         The wicked have told me fables: but not as thy law. All thy statutes are truth: they have persecuted me unjustly, do thou help me. 
+         They had almost made an end of me upon earth: but I have not forsaken thy commandments. 
+         Quicken thou me according to thy mercy: and I shall keep the testimonies of thy mouth. 
+         For ever, O Lord, thy word standeth firm in heaven. 
+         Thy truth unto all generations: thou hast founded the earth, and it continueth. 
+         By thy ordinance the day goeth on: <!-- drb psalm 118 verse 91 cont --> </ab>
+
+</div>

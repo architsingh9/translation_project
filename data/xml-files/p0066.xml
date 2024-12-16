@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="25v"
+     xml:id="p0066">
+
+   <ab type="transcription"
+       xml:id="p0066_transcription"
+       corresp="#p0066_translation">
+
+      <lb/>pia 
+	<choice>
+		       <seg type="lucas">i(n)t(er)ve(n)tu</seg>
+		       <orig>īṫvētu</orig>
+		       <reg>interventu</reg>
+	     </choice> culpas 
+	<choice>
+		       <seg type="lucas">n(ost)ras</seg>
+		       <orig>nr̄as</orig>
+		       <reg>nostras</reg>
+	     </choice>
+      <lb/>ablue ut 
+	<choice>
+		       <seg type="lucas">p(er)he(n)nis</seg>
+		       <orig>ꝑhēnis</orig>
+		       <reg>perhennis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sede(m)</seg>
+		       <orig>sedē</orig>
+		       <reg>sedem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)e</seg>
+		       <orig>gl͘e</orig>
+		       <reg>glorie</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">rede(m)pti</seg>
+		       <orig>redēpti</orig>
+		       <reg>redempti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">valea(mus)</seg>
+		       <orig>valeāꝰ</orig> 
+		       <reg>valeamus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sca(n)de(re).</seg>
+		       <orig>scādė.</orig>
+		       <reg>scandere.</reg>
+	     </choice>
+      <lb/>ubi 
+	<choice>
+		       <seg type="lucas">reg(na)s</seg>
+		       <orig>reg̈s</orig>
+		       <reg>regnas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eode(m)</seg>
+		       <orig>eodē</orig>
+		       <reg>eodem</reg>
+	     </choice> filio tuo
+<lb/>sine 
+	<choice>
+		       <seg type="lucas">t(em)p(er)e.</seg>
+		       <orig>tꝑe.</orig>
+		       <reg>tempere.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">T(u?).</seg>
+		       <orig>T.</orig>
+		       <reg>Tu</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> Felix
+<lb/>
+	     <choice>
+		       <seg type="lucas">na(m)q(ue)</seg>
+		       <orig>nāq⋮</orig>
+		       <reg>namque</reg>
+	     </choice> es 
+	<choice>
+		       <seg type="lucas">sac(ra)</seg>
+		       <orig>sac̈</orig>
+		       <reg>sacra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> maria
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> laude 
+	<choice>
+		       <seg type="lucas">dignissi(m)a.</seg>
+		       <orig>dignissīa.</orig>
+		       <reg>dignissima.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q͘a</orig>
+		       <reg>Quia</reg>
+	     </choice>
+      <lb/>ex te 
+	<choice>
+		       <seg type="lucas">ort(us)</seg>
+		       <orig>ortꝰ</orig>
+		       <reg>ortus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> sol iusticie 
+<lb/>
+	     <choice>
+		       <seg type="lucas">(christus) </seg>
+		       <orig>xꝰ </orig>
+		       <reg>christus </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s.</seg>
+		       <orig>ḋs.</orig>
+		       <reg>deus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> Ora 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(o)p(u)lo</seg>
+		       <orig>ꝑpl͘o</orig>
+		       <reg>populo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">int(er)</seg>
+		       <orig>inṫ</orig>
+		       <reg>inter</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ve(n)i</seg>
+		       <orig>vēi</orig>
+		       <reg>veni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> clero 
+	<choice>
+		       <seg type="lucas">int(er)cede</seg>
+		       <orig>inṫcede</orig>
+		       <reg>intercede</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> de
+<lb break="no"/>voto 
+	<choice>
+		       <seg type="lucas">femi(n)eo</seg>
+		       <orig>femīeo</orig>
+		       <reg>femineo</reg>
+	     </choice> sexu 
+	<choice>
+		       <seg type="lucas">se(n)tia(n)t</seg>
+		       <orig>sētiāt</orig>
+		       <reg>sentiant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">levame(n)</seg>
+		       <orig>levamē</orig>
+		       <reg>levamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)cu(m)q(ue)</seg>
+		       <orig>q̇cūq⋮</orig>
+		       <reg>quicumque</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">celeb(ra)nt</seg>
+		       <orig>celebn̈t</orig>
+		       <reg>celebrant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     
+	     <choice>
+		       <seg type="lucas">me(m)orat(i)o(nem).</seg>
+		       <orig>ɔmēoratō⋮.</orig>
+		       <reg>commemorationem.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(ui)a.</seg>
+		       <orig>Q͘a.</orig>
+		       <reg>Quia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(Christus).</seg>
+		       <orig>xꝰ.</orig>
+		       <reg>Christus.</reg>
+	     </choice> 
+      <lb/>TE 
+	<choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lauda(mus):</seg>
+		       <orig>laudāꝰ:</orig>
+		       <reg>laudamus:</reg>
+	     </choice> te
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0066_translation"
+       corresp="#p0066_transcription">cleanse away our
+         sins by thy loving intercession, that we, who have been 
+         redeemed, may through thee be able to ascend to the seat 
+         of perpetual glory, where, with Him, thy Son, thou reignest 
+         unto everlasting glory. [But] Thou [O Lord, have mercy on us.] 
+         Responsorium. Yea, happy art thou, O holy Mother of God, and 
+         most worthy of all praise: for out of thee arose the Sun of 
+         Justice, Christ our God. Versiculus. Prayer for the people, 
+         plead for the clergy, make intercession for the devout female
+         sex: let all feel thy helping power who celebrate thy blessed
+         memory. Responsorium. For [out of thee arose the Sun of Justice, 
+         Christ our Lord.] Glory [be to the Father, and to 
+         the Son, and to the Holy Ghost!] Christ [our Lord]. We praise thee, 
+         O God: we acknowledge Thee to be the Lord. <!-- OBDS pg 36,38, 40 --></ab>
+
+</div>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="1v"
+     xml:id="p0016">
+
+   <ab type="transcription"
+       xml:id="p0016_transcription"
+       corresp="#p0016_translation">
+
+      <lb/>cias ni 
+	<choice>
+		       <seg type="lucas">n(ecess)itatib(us)</seg>
+			   <orig>nc̄citatib⋮</orig>
+		       <reg>necessitatibus</reg>
+	</choice> sed a 
+	<choice>
+		       <seg type="lucas">p(er)icu</seg>
+			   <orig>ꝑicu</orig>
+		       <reg>pericu</reg>
+	     </choice>
+      <lb break="no"/>lis 
+	<choice>
+		        <seg type="lucas">cu(n)ctis</seg>
+				<orig>cūctis</orig>
+		        <reg>cunctis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lib(er)a</seg>
+		       <orig>liḃa</orig>
+		       <reg>libera</reg>
+	     </choice> nos 
+	<choice>
+		       <seg type="lucas">semp(er)</seg>
+				<orig>semꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)</seg>
+		       <orig>v̇</orig>
+		       <reg>vir</reg>
+	     </choice>
+      <lb break="no"/>go 
+	<choice>
+		       <seg type="lucas">b(e)n(e)d(i)cta</seg>
+		       <orig>bn̄dct̄a</orig>
+		       <reg>benedicta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Post 
+	<choice>
+		       <seg type="lucas">p(ar)tum</seg>
+			   <orig>ꝑtum</orig>
+		       <reg>partum</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">v(ir)go</seg>
+	     	  <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)violata</seg>
+		       <orig>īviolata</orig>
+		       <reg>inviolata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)ma(n)sisti</seg>
+	     	   <orig>ꝑmāsisti</orig>
+		       <reg>permansisti</reg>
+	     </choice> 
+      <lb/>Dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+		       <orig>genit͘x</orig>
+		       <reg>genitrix</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tercede</seg>
+		       <orig>ītercede</orig>
+		       <reg>intercede</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+	     	  <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice>
+      <lb/>PRotege 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> <seg next = "seg1">famu⸗</seg> 
+	<choice>
+		       <seg type="lucas">or(emus)</seg>
+			   <orig>or̄</orig>
+		       <reg>oremus</reg>
+	     </choice>
+   	<lb/> <seg xml:id="seg1">los</seg>tuos subsidiis pa
+<lb break="no"/>cis : 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+			   <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)te</seg>
+		       <orig>bt̄e</orig>
+		       <reg>beate</reg>
+	     </choice> marie 
+	<choice>
+		       <seg type="lucas">semp(er)</seg>
+		       <orig>semꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> vir
+<lb break="no"/>ginis 
+	<choice>
+		       <seg type="lucas">p(at)rociniis</seg>
+		       <orig>pr̄ociniis</orig>
+		       <reg>patrociniis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">co(n)fide(n)tes</seg>
+		       <orig>cōfidētes</orig>
+		       <reg>confidentes</reg>
+	     </choice> 
+      <lb/>a 
+	<choice>
+		       <seg type="lucas">cu(n)ctis</seg>
+		       <orig>cūctis</orig>
+		       <reg>cunctis</reg>
+	     </choice> hostibus redde se
+<lb break="no"/>curos 
+	<choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphona)</seg>
+		       <orig>an̄</orig>
+		       <reg>antiphona</reg>
+	     </choice> Magne 
+	<choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>p̄r</orig>
+			<reg>pater</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)e</seg>
+		       <orig>sc̄e</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nice</seg>
+		       <orig>dn̄ice</orig>
+		       <reg>dominice</reg>
+	     </choice> mortis hora nos 
+
+<lb/>tecum suscipe 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> hic 
+	<choice>
+		       <seg type="lucas">semp(er)</seg>
+		       <orig>semꝑ</orig>
+		       <reg>semper</reg>
+	     </choice>
+      <lb/>nos pie respice 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vesper</reg>
+	     </choice> Os
+<lb/>iusti 
+	<choice>
+		       <seg type="lucas">meditabit(ur)</seg>
+		       <orig>meditabitʳ</orig>
+		       <reg>meditabitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sapi(enti)am</seg>
+		       <orig>sapīam</orig>
+		       <reg>sapientiam</reg>
+	     </choice> ; 
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0016_translation"
+       corresp="#p0016_transcription"> <!-- starts on previous page --> despise not our petitions in our necessities, 
+   	but deliver us always from all dangers, O blessed Virgin. <!-- the 'sub tuum praesidium' usually says 'o glorious and blessed' -->
+   	Versicle. After childbirth
+   	you remained a virgin; O mother of God, intercede for
+   	us. Let us pray. Defend Thy servants, O Lord, by granting them the 
+   	gift of peace, and as they have confidence in the patronage of 
+   	Blessed Mary, ever Virgin, so do Thou
+   	make them safe from all their enemies. Through Christ our Lord. Antiphon. Great Father, Saint Dominic, when our last hour arrives,
+   	welcome us above, and ever watch over
+   	us here below. Versicle. The mouth of
+   	the just man shall
+   	speak wisdom and his tongue shall utter judgement. <!-- continues to next page (Little Office BVM p 190) --> </ab>
+
+</div>

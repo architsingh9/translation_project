@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="135r"
+     xml:id="p0285">
+
+   <ab type="transcription"
+       xml:id="p0285_transcription"
+       corresp="#p0285_translation">
+
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">o(ste)nde</seg>
+		       <orig>ōnde</orig>
+		       <reg>ostende</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+		       <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> salvi
+<lb/>EXcita 
+	<choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Or(emus?).</seg>
+		       <orig>Or̠̄.</orig>
+		       <reg>Oremus.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">erm(us).</seg>
+		       <orig>ermꝰ.</orig>
+		       <reg>ermus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pote(n)tia(m)</seg>
+		       <orig>potētiā</orig>
+		       <reg>potentiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+      <lb/>veni: ut ab 
+	<choice>
+		       <seg type="lucas">i(m)mine(n)tib(us)</seg>
+		       <orig>īminētib⋮</orig>
+		       <reg>imminentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)to</seg>
+		       <orig>pct̄o</orig>
+		       <reg>peccato</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+		       <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ror(um)</seg>
+		       <orig>nr̄oꝝ</orig>
+		       <reg>nostrorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)icul(is)</seg>
+		       <orig>ꝑicul͘</orig>
+		       <reg>periculis</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">me(re)am(ur)</seg>
+		       <orig>mėam݃</orig>
+		       <reg>mereamur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ro)tege(n)te</seg>
+		       <orig>ꝓtegēte</orig>
+		       <reg>protegente</reg>
+	     </choice> eripi; te 
+	<choice>
+		       <seg type="lucas">lib(er)ante</seg>
+		       <orig>liḃante</orig>
+		       <reg>liberante</reg>
+	     </choice>
+      <lb/>salvari. 
+	<choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> vi. 
+	<choice>
+		       <seg type="lucas">Or(?).</seg>
+		       <orig>Or̄.</orig>
+		       <reg>Oremus.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(secunda).</seg>
+		       <orig>ii.</orig>
+		       <reg>secunda.</reg>
+
+	     </choice> 
+      <lb/>EXcita 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> corda 
+	<choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice>
+      <lb/>ad 
+	<choice>
+		       <seg type="lucas">p(re)p(ar)andas</seg>
+		       <orig>p̄ꝑandas</orig>
+		       <reg>preparandas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">u(n)ige(n)iti</seg>
+		       <orig>ūigēiti</orig>
+		       <reg>unigeniti</reg>
+	     </choice> tui vi
+<lb break="no"/>as; ut 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adve(n)tu(m)</seg>
+		       <orig>advētū</orig>
+		       <reg>adventum</reg>
+	     </choice> pu
+<lb break="no"/>rificatis 
+	<choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)tib(us)</seg>
+		       <orig>mētib⋮</orig>
+		       <reg>mentibus</reg>
+	     </choice> servire
+<lb/>
+	     <choice>
+		       <seg type="lucas">me(re)am(ur).</seg>
+		       <orig>mėam݃.</orig>
+		       <reg>mereamur.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q͘</orig>
+		       <reg>Qui</reg>
+	     </choice> te. 
+	<choice>
+		       <seg type="lucas">Or(?).</seg>
+		       <orig>Or̄.</orig>
+		       <reg>Oremus</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(tercia).</seg>
+		       <orig>iii.</orig>
+		       <reg>tertia.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">AUre(m)</seg>
+		       <orig>AUrē</orig>
+		       <reg>AUrem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)ci</seg>
+		       <orig>p̄ci</orig>
+		       <reg>preci</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ris</seg>
+		       <orig>nr̄is</orig>
+		       <reg>nostris</reg>
+	     </choice> accomoda; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)</seg>
+		       <orig>mē</orig>
+		       <reg>men</reg>
+	     </choice>
+      <lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nr̄e</orig>
+		       <reg>nostre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">teneb(ra)s</seg>
+		       <orig>teneb̈s</orig>
+		       <reg>tenebras</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gr(ati)a</seg>
+		       <orig>gr̄a</orig>
+		       <reg>gratia</reg>
+	     </choice> tue vi⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0285_translation"
+       corresp="#p0285_transcription"> And show us Your face and we shall be saved. <!-- DM 18 --> Let us pray. 
+         Stir, up Your might, we beseech You O Lord,
+         and come; that from the threatening dangers of our sins
+         we may be rescued by Your protection, and saved by
+         Your deliverance. Who live [and reign with God the
+         Father in the unity of the Holy Spirit, God, forever and
+         ever.]  <!-- DM 1--> Let us pray. ii. Stir up our hearts, O Lord, to make ready the
+         ways of Your Only-begotten Son, that through His coming we may be worthy to serve You with purified minds:
+         who lives and reigns with You. <!-- DM 4 --> 
+         Let us pray. iii. Hear our prayers, we beseech You, O Lord;
+         and by the grace of Your visitation, enlighten the darkness of our minds. <!-- DM 7 Continues to next page -->
+         
+         
+         
+         
+         
+   </ab>
+
+</div>

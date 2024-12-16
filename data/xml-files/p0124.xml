@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="54v"
+     xml:id="p0124">
+
+   <ab type="transcription"
+       xml:id="p0124_transcription"
+       corresp="#p0124_translation">
+
+      <lb/>gilitati 
+	<choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nr̄e</orig>
+		       <reg>nostre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)sidiu(m).</seg>
+		       <orig>p̄sidiū.</orig>
+		       <reg>presidium.</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)e</seg>
+		       <orig>sc̄e</orig>
+		       <reg>sancte</reg>
+	     </choice>
+      <lb/>dei 
+	<choice>
+		       <seg type="lucas">ge(n)it(ri)cis</seg>
+		       <orig>gēiṫcis</orig>
+		       <reg>genitricis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(m)oria(m)</seg>
+		       <orig>meōriā</orig>
+		       <reg>memoriam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">agim(us).</seg>
+		       <orig>agimꝰ.</orig>
+		       <reg>agimus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)t(er)cessio(n)is</seg>
+		       <orig>īṫcessiōis</orig>
+		       <reg>intercessionis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> auxilio a 
+	<choice>
+		       <seg type="lucas">n(ost)ris</seg>
+		       <orig>nr̄is</orig>
+		       <reg>nostris</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)tatib(us)</seg>
+		       <orig>īi̇qtatib⋮</orig>
+		       <reg>iniquitatibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">resurgam(us).</seg>
+		       <orig>resurgamꝰ.</orig>
+		       <reg>resurgamus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m).</seg>
+		       <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice>
+      <lb/>SAlve 
+	<choice>
+		       <seg type="lucas">regi(n)a</seg>
+		       <orig>regīa</orig>
+		       <reg>regina</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">D(omi)ne.</seg>
+		       <orig>Dn̄e.</orig>
+		       <reg>Domine.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mi(sericordi)e</seg>
+		       <orig>mīe</orig>
+		       <reg>misericordie</reg>
+	     </choice> vita dulcedo et
+<lb/>spes 
+	<choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> salve. Ad te 
+	<choice>
+		       <seg type="lucas">cla(ma)</seg>
+		       <orig>clä</orig>
+		       <reg>clama</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us)</seg>
+		       <orig>mꝰ</orig>
+		       <reg>mus</reg>
+	     </choice> exules filii eve. Ad te
+<lb/>
+	     <choice>
+		       <seg type="lucas">suspiram(us)</seg>
+		       <orig>suspiramꝰ</orig>
+		       <reg>suspiramus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gem(en)tes</seg>
+		       <orig>gem̄tes</orig>
+		       <reg>gementes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fle(n)</seg>
+		       <orig>flē</orig>
+		       <reg>flen</reg>
+	     </choice>
+      <lb break="no"/>tes 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> hac 
+	<choice>
+		       <seg type="lucas">lacri(m)ar(um)</seg>
+		       <orig>lacrīaꝝ</orig>
+		       <reg>lacrimarum</reg>
+	     </choice> valle.
+<lb/>Eya ergo 
+	<choice>
+		       <seg type="lucas">advo(ca)ta</seg>
+		       <orig>advöta</orig>
+		       <reg>advocata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice>
+      <lb/>illos tuos misericordes o
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">c(u)los</seg>
+		       <orig>clȯs</orig>
+		       <reg>culos</reg>
+	     </choice> ad nos 
+	     <choice>
+		       <seg type="lucas">v(er)te.</seg>
+		       <orig>ɔvte.</orig>
+		       <reg>converte.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">i(esu)m</seg>
+		       <orig>iḣm</orig>
+		       <reg>iesum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(e)n(e)d(i)c(tu)m</seg>
+		       <orig>bn̄dc̄m</orig>
+		       <reg>benedictum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fructu(m)</seg>
+		       <orig>fructū</orig>
+		       <reg>fructum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)t(ri)s</seg>
+		       <orig>vēṫs</orig>
+		       <reg>ventris</reg>
+	     </choice> tui no
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(is)</seg>
+		       <orig>ḃ</orig>
+		       <reg>bis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ost)</seg>
+		       <orig>pꝰ</orig>
+		       <reg>post</reg>
+	     </choice> hoc 
+	<choice>
+		       <seg type="lucas">exiliu(m)</seg>
+		       <orig>exiliū</orig>
+		       <reg>exilium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(ste)nde.</seg>
+		       <orig>on̄de.</orig>
+		       <reg>ostende.</reg>
+	     </choice> O
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0124_translation"
+       corresp="#p0124_transcription">Grant, O merciful
+         God, protection to
+         our frailty: that we,
+         who celebrate the
+         memory of the Holy Mother of God, may,
+         by the help of her intercession, arise from
+         our sins. Through
+         the same [Jesus Christ
+         our Lord Thy Son,
+         Who liveth and reigneth with Thee in the
+         unity of the Holy
+         Ghost, one God,
+         world without end.] O Lord, [hear my
+         prayer. And let my cry
+         come unto Thee.] Alleluia. Hail, holy Queen,
+         Mother of mercy;
+         hail our life, our
+         sweetness and our
+         hope. To thee do we
+         cry, poor banished
+         children of Eve. To
+         thee do we send up
+         our sighs, mourning
+         and weeping in this
+         valley of tears. Turn then,
+         most gracious advocate, thine eyes of
+         mercy towards us;
+         and, after this our
+         exile, show unto us
+         the blessed fruit of
+         thy womb, Jesus. O clement, <!-- obvm 218 cont --> </ab>
+
+</div>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="173v"
+     xml:id="p0362">
+
+   <ab type="transcription"
+       xml:id="p0362_transcription"
+       corresp="#p0362_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">absco(n)dito</seg>
+		       <orig>abscōdito</orig>
+		       <reg>abscondito</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)nac(u)li</seg>
+		       <orig>taḃnacl͘i</orig>
+		       <reg>tabernaculi</reg>
+	     </choice> sui.
+<lb/>In 
+	<choice>
+		       <seg type="lucas">pet(ra)</seg>
+		       <orig>peẗ</orig>
+		       <reg>petra</reg>
+	     </choice> exaltavit me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(un)c</seg>
+		       <orig>n̄c</orig>
+		       <reg>nunc</reg>
+	     </choice> exaltavit caput me
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+		       <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice> meos. Cir
+<lb break="no"/>cuivi 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)molavi</seg>
+		       <orig>īmolavi</orig>
+		       <reg>immolavi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)</seg>
+		       <orig>taḃ</orig>
+		       <reg>taber</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nac(u)lo</seg>
+		       <orig>nacl͘o</orig>
+		       <reg>naculo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hostia(m)</seg>
+		       <orig>hostiā</orig>
+		       <reg>hostiam</reg>
+	     </choice> vocife
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rat(i)o(n)is:</seg>
+		       <orig>ratōis:</orig>
+		       <reg>rationis:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(n)tabo</seg>
+		       <orig>cātabo</orig>
+		       <reg>cantabo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> psal
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mu(m)</seg>
+		       <orig>mū</orig>
+		       <reg>mum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dica(m)</seg>
+		       <orig>dicā</orig>
+		       <reg>dicam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">do(mino).</seg>
+		       <orig>doº.</orig>
+		       <reg>domino.</reg>
+	     </choice> Exaudi
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">voce(m)</seg>
+		       <orig>vocē</orig>
+		       <reg>vocem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ua)</seg>
+		       <orig>q̈</orig>
+		       <reg>qua</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cla(ma)vi</seg>
+		       <orig>clävi</orig>
+		       <reg>clamavi</reg>
+	     </choice> ad
+<lb/>te: 
+	<choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice> mei 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> exaudi
+<lb/>me. Tibi dixit cor me
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m);</seg>
+		       <orig>ū;</orig>
+		       <reg>um;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exq(ui)sivit</seg>
+		       <orig>exq̇sivit</orig>
+		       <reg>exquisivit</reg>
+	     </choice> te facies me
+<lb break="no"/>a: 
+	<choice>
+		       <seg type="lucas">facie(m)</seg>
+		       <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">req(ui)ra(m).</seg>
+		       <orig>req̇rā.</orig>
+		       <reg>requiram.</reg>
+	     </choice>
+      <lb/>Ne 
+	<choice>
+		       <seg type="lucas">av(er)tas</seg>
+		       <orig>av̇tas</orig>
+		       <reg>avertas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+		       <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> a
+<lb/>me: ne 
+	<choice>
+		       <seg type="lucas">decli(n)es</seg>
+		       <orig>declīes</orig>
+		       <reg>declines</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ira a 
+	<choice>
+		       <seg type="lucas">s(er)vo</seg>
+		       <orig>sv̇o</orig>
+		       <reg>servo</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0362_translation"
+       corresp="#p0362_transcription">
+         "he hath protected me in his tabernacle. 
+         He hath exalted me upon a rock: 
+         and now he hath lifted 
+         up my head above my enemies. I have gone round, 
+         and have offered up 
+         in his tabernacle a sacrifice of jubilation: 
+         I will sing, and 
+         recite a psalm to the Lord. 
+         Hear,
+         O Lord, my voice, with which I have cried 
+         to thee: have mercy on me and hear 
+         me. My heart hath 
+         said to thee: My face hath sought thee: 
+         thy face, O Lord, will I still seek. 
+         Turn not away thy face from me;
+         decline not in thy wrath from thy servant." <!-- DRB Psalm 26 Verses 5-9 -->
+         
+         
+         
+   </ab>
+      
+
+</div> 

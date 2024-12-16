@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="74v"
+     xml:id="p0164">
+
+   <ab type="transcription"
+       xml:id="p0164_transcription"
+       corresp="#p0164_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sple(n)dore</seg>
+		       <orig>splēdore</orig>
+		       <reg>splendore</reg>
+	     </choice> mane 
+	<choice>
+		       <seg type="lucas">i(n)struis</seg>
+		       <orig>īstruis</orig>
+		       <reg>instruis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+         <choice>
+               <seg type="lucas">ig(?=ni)</seg>
+               <orig>iġ⸗</orig>
+               <reg>igni</reg>
+         </choice>
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(er)idie(m).</seg>
+		       <orig>ṁidīe.</orig>
+		       <reg>meridiem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Exti(n)gue</seg>
+		       <orig>Extīgue</orig>
+		       <reg>Extingue</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fla(m)</seg>
+		       <orig>flā</orig>
+		       <reg>flam</reg>
+	     </choice>
+      <lb break="no"/>mas 
+	<choice>
+		       <seg type="lucas">litiu(m)</seg>
+		       <orig>litiū</orig>
+		       <reg>litium</reg>
+	     </choice> aufer 
+	<choice>
+		       <seg type="lucas">calore(m)</seg>
+		       <orig>calorē</orig>
+		       <reg>calorem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">noxiu(m)</seg>
+		       <orig>noxiū</orig>
+		       <reg>noxium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fer</seg>
+		       <orig>ɔfer</orig>
+		       <reg>confer</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">salute(m)</seg>
+		       <orig>salutē</orig>
+		       <reg>salutem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">corpor(um)</seg>
+		       <orig>corpoꝝ</orig>
+		       <reg>corporum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vera(m)q(ue)</seg>
+		       <orig>verāq⋮</orig>
+		       <reg>veramque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pace(m)</seg>
+		       <orig>pacē</orig>
+		       <reg>pacem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cordiu(m).</seg>
+		       <orig>cordiū.</orig>
+		       <reg>cordium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Pr(est)a.</seg>
+		       <orig>Pr̄a.</orig>
+		       <reg>Presta.</reg>
+	     </choice>  
+      <lb/>DEfe
+<lb break="no"/>cit                viii.
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> <seg next="#segment">saluta⸗</seg>        
+	<choice>
+		       <seg type="lucas">Gl(or)ia.</seg>
+		       <orig>Gl͘ia.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ater?).</seg>
+		       <orig>mⁱ.</orig>
+		       <reg>mater?.<!--  check expansion --></reg>
+	     </choice> 
+ Adiviname.
+<lb/><seg xml:id="segment">re</seg>
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> mea: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)bu(m)</seg>
+		       <orig>v̇bū</orig>
+		       <reg>verbum</reg>
+	     </choice> tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)rsp(er)avi.</seg>
+		       <orig>sr̄sꝑavi.</orig> 
+		       <reg>supersperavi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Defecer(un)t</seg>
+		       <orig>Defecer̄t</orig>
+		       <reg>Defecerunt</reg>
+	     </choice> o
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">c(u)li</seg>
+		       <orig>cl͘i</orig>
+		       <reg>culi</reg>
+	     </choice> mei 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eloq(ui)u(m)</seg>
+		       <orig>eloq̇ū</orig>
+		       <reg>eloquium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m):</seg>
+		       <orig>tuū:</orig>
+		       <reg>tuum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dice(n)</seg>
+		       <orig>dicē</orig>
+		       <reg>dicen</reg>
+	     </choice>
+      <lb break="no"/>tes 
+	<choice>
+		       <seg type="lucas">qu(ando)</seg>
+		       <orig>qū</orig>
+		       <reg>quando</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">solab(er)is</seg>
+		       <orig>ɔsolaḃis</orig>
+		       <reg>solaberis</reg>
+	     </choice> me. 
+	<choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">f(a)c(tu)s</seg>
+		       <orig>fc̄s</orig>
+		       <reg>factus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ut(er)</seg>
+		       <orig>ut̄</orig>
+		       <reg>uter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">prui(n)a:</seg>
+		       <orig>pruīa:</orig>
+		       <reg>pruina:</reg>
+	     </choice> iusti
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ficat(i)o(n)es</seg>
+		       <orig>ficatōes</orig>
+		       <reg>ficationes</reg>
+	     </choice> tuas 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oblit(us).</seg>
+		       <orig>oblitꝰ.</orig>
+		       <reg>oblitus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(uo)t</seg>
+		       <orig>Qºt</orig>
+		       <reg>Quot</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> dies <supplied>
+	<choice>
+		       <seg type="lucas">s(er)vi</seg>
+		       <orig>sv̇i</orig>
+		       <reg>servi</reg>
+	     </choice> tui: 
+	<choice>
+		       <seg type="lucas">qu(ando)</seg>
+		       <orig>qū</orig>
+		       <reg>quando</reg>
+	     </choice> fa⸗</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0164_translation"
+       corresp="#p0164_transcription"> and sendest the early morning ray,
+         and lightest the glow of perfect day. <!-- cont from p0164 source linked in doc --> 
+         Extinguish Thou each sinful fire,
+         and banish every ill desire:
+         and while Thou keepest the body whole
+         shed forth Thy peace upon the soul. Grant. [Song] Gloria. Mater. Adiviname. [Mode] viii. <!-- i don't think adiviname is correct in the transcription but I also don't know what it is. music caption -->
+         My soul hath fainted after thy salvation: and in thy word I have very much hoped. 
+         My eyes have failed for thy word, saying: When wilt thou comfort me? 
+         For I am become like a bottle in the frost: I have not forgotten thy justifications. 
+         How many are the days of thy servant: when wilt thou  <!-- drb ps 118 verse 84 cont -->
+   </ab>
+
+</div>

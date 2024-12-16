@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="107r"
+     xml:id="p0229">
+
+   <ab type="transcription"
+       xml:id="p0229_transcription"
+       corresp="#p0229_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">eor(um).</seg>
+		       <orig>eoꝝ.</orig>
+		       <reg>eorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dinu(mer)abo</seg>
+		       <orig>Dinu̇abo</orig>
+		       <reg>Dinumerabo</reg>
+	     </choice> eos 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">arena(m)</seg>
+		       <orig>arenā</orig>
+		       <reg>arenam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltiplicabu(n)t(ur):</seg>
+		       <orig>ml͘tiplicabūt݃:</orig>
+		       <reg>multiplicabuntur:</reg> 
+	     </choice> ex
+<lb break="no"/>urrexi 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> adhuc 
+	<choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tecu(m).</seg>
+		       <orig>tecū.</orig>
+		       <reg>tecum.</reg>
+	     </choice>
+      <lb/>Si 
+	<choice>
+		       <seg type="lucas">occid(er)is</seg>
+		       <orig>occiḋis</orig>
+		       <reg>occideris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tores:</seg>
+		       <orig>pct̄ores:</orig>
+		       <reg>peccatores:</reg>
+	     </choice> vi
+<lb break="no"/>ri 
+	<choice>
+		       <seg type="lucas">sa(n)g(ui)nu(m)</seg>
+		       <orig>sāġnū</orig>
+		       <reg>sanguinum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">decli(n)ate</seg>
+		       <orig>declīate</orig>
+		       <reg>declinate</reg>
+	     </choice> a me.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice> dicitis 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cogitat(i)o(n)e:</seg>
+		       <orig>cogitatōe:</orig>
+		       <reg>cogitatione:</reg>
+	     </choice> ac
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cipia(n)t</seg>
+		       <orig>cipiāt</orig>
+		       <reg>cipiant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">va(n)itate</seg>
+		       <orig>vāitate</orig>
+		       <reg>vanitate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">civitate(s)</seg>
+		       <orig>civitateˢ</orig>
+		       <reg>civitates</reg>
+	     </choice>
+      <lb/>suas. 
+	<choice>
+		       <seg type="lucas">No(n)ne</seg>
+		       <orig>Nōne</orig>
+		       <reg>Nonne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oder(un)t</seg>
+		       <orig>oder̄t</orig>
+		       <reg>oderunt</reg>
+	     </choice> te
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">odera(m):</seg>
+		       <orig>oderā:</orig>
+		       <reg>oderam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+		       <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice>
+      <lb/>tuos 
+	<choice>
+		       <seg type="lucas">tabesceba(m).</seg>
+		       <orig>tabescebā.</orig>
+		       <reg>tabescebam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Perf(e)c(t)o</seg>
+		       <orig>Perfc̄o</orig>
+		       <reg>Perfecto</reg>
+	     </choice>
+      <lb/>odio 
+	<choice>
+		       <seg type="lucas">odera(m)</seg>
+		       <orig>oderā</orig>
+		       <reg>oderam</reg>
+	     </choice> illos: 
+	<choice>
+		       <seg type="lucas">i(n)imici</seg>
+		       <orig>īimici</orig>
+		       <reg>inimici</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">f(a)c(t)i</seg>
+		       <orig>fc̄i</orig>
+		       <reg>facti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> Proba me 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> scito cor 
+	<choice>
+		       <seg type="lucas">meu(m):</seg>
+		       <orig>meū:</orig>
+		       <reg>meum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)t(er)roga</seg>
+		       <orig>īṫroga</orig>
+		       <reg>interroga</reg>
+	     </choice>
+      <lb/>me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(co)gnosce</seg>
+		       <orig>ɔgnosce</orig>
+		       <reg>cognosce</reg>
+	     </choice> semitas
+<lb/>meas. Et vide si via 
+	<choice>
+		       <seg type="lucas">i(n)i⸗</seg>
+		       <orig>īi⸗</orig>
+		       <reg>ini⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0229_translation"
+       corresp="#p0229_transcription">their principality is exceedingly strengthened. 
+         I will number them, and they shall be multiplied above the sand: I rose up and am still with thee. 
+         If thou wilt kill the wicked, O God: ye men of blood, depart from me: 
+         Because you say in thought: They shall receive thy cities in vain. 
+         Have I not hated them, O Lord, that hated thee: and pine away because of thy enemies? 
+         I have hated them with a perfect hatred: and they are become enemies to me. 
+         Prove me, O God, and know my heart: examine me, and know my paths. 
+         And see if there be in me the way of iniquity: <!-- drb psalm 138 cont --> </ab>
+
+</div>

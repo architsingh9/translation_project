@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="141v"
+     xml:id="p0298">
+
+   <ab type="transcription"
+       xml:id="p0298_transcription"
+       corresp="#p0298_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">amabil(is)</seg>
+		       <orig>amabil͘</orig>
+		       <reg>amabilis</reg>
+	     </choice> valde 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">amore(m)</seg>
+		       <orig>amorē</orig>
+		       <reg>amorem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(u)lier(um)</seg>
+	                  <orig>ml͘ieꝝ</orig> 
+		       <reg>mulierum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">unicu(m)</seg>
+		       <orig>unicū</orig>
+		       <reg>unicum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(m)at</seg>
+		       <orig>aāt</orig>
+		       <reg>amat</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">filiu(m)</seg>
+		       <orig>filiū</orig>
+		       <reg>filium</reg>
+	     </choice> ita te 
+	<choice>
+		       <seg type="lucas">diligeba(m)</seg>
+		       <orig>diligebā</orig>
+		       <reg>diligebam</reg>
+	     </choice> sa
+<lb break="no"/>gitta ionathe 
+	<choice>
+		       <seg type="lucas">nu(m)q(uam)</seg>
+		       <orig>nūq̈</orig>
+	      <!-- pls quam -->
+		       <reg>numquam</reg>
+	     </choice> abiit
+<lb/>
+	     <choice>
+		       <seg type="lucas">retrorsu(m)</seg>
+		       <orig>retrorsū</orig>
+		       <reg>retrorsum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(e)c</seg>
+		       <orig>nᶜ</orig>
+		       <reg>nec</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">decli(n)avit</seg>
+		       <orig>declīavit</orig>
+		       <reg>declinavit</reg>
+	     </choice> cly
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">pe(us)</seg>
+		       <orig>peꝰ</orig>
+		       <reg>peus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> bello 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> hasta
+<lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">av(er)sa.</seg>
+		       <orig>av̇sa.</orig>
+		       <reg>aversa.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dixitq(ue)</seg>
+		       <orig>Dixitq⋮</orig>
+		       <reg>Dixitque</reg>
+	     </choice>
+      <lb/>david ad 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vidiss(et)</seg>
+		       <orig>vidiss⋮</orig>
+		       <reg>vidisset</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(n)gelu(m)</seg>
+	              <orig>āgelū</orig>
+		       <reg>angelum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cede(n)te(m)</seg>
+		       <orig>cedētē</orig>
+		       <reg>cedentem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(o)p(u)l(um)</seg>
+		       <orig>ppl͘⋮</orig>
+		       <reg>populum</reg>
+	     </choice> ego 
+	<choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> peccavi ego 
+	<choice>
+		       <seg type="lucas">iniq(ue)</seg>
+		       <orig>iniq̄</orig>
+		       <reg>inique</reg>
+	     </choice> egi
+<lb/>isti 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> oves 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)d</seg>
+		       <orig>q̇d</orig>
+		       <reg>quid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">feceru(n)t.</seg>
+		       <orig>fecerūt.</orig>
+		       <reg>fecerunt.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Mo(n)tes</seg>
+		       <orig>Mōtes</orig>
+		       <reg>Montes</reg>
+	     </choice> gelboe 
+	<choice>
+		       <seg type="lucas">n(ec)</seg>
+		       <orig>nᶜ</orig>
+		       <reg>nec</reg>
+	     </choice> ros
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ec)</seg>
+		       <orig>nᶜ</orig>
+		       <reg>nec</reg>
+	     </choice> pluvia 
+	<choice>
+		       <seg type="lucas">venia(n)t</seg>
+		       <orig>veniāt</orig>
+		       <reg>veniant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sup(er)</seg>
+		       <orig>suꝑ</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>vos 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> ibi 
+	<choice>
+		       <seg type="lucas">abiect(us)</seg>
+		       <orig>abiectꝰ</orig>
+		       <reg>abiectus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> cly
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">pe(us)</seg>
+		       <orig>peꝰ</orig>
+		       <reg>peus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fortiu(m)</seg>
+		       <orig>fortiū</orig>
+		       <reg>fortium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">clype(us)</seg>
+		       <orig>clypeꝰ</orig>
+		       <reg>clypeus</reg>
+	     </choice> saul
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0298_translation"
+       corresp="#p0298_transcription">my brother Jonathan: very amiable to me above the love of women. As the mother loveth her only son, so did I love thee.
+         <!-- 2 kings (2 samuel) 1:26, continued from previous page. some words are missing --> The arrow of Jonathan never turned back. <!-- 2 kings (2 samuel) 1:22 -->
+         Nor did his shield decline in battle, and his spear was not turned away. <!-- google translate --> Antiphon.  And David said to the Lord, 
+         when he saw the angel striking the people: It is I; I am he that have sinned,
+         I have done wickedly: these that are the sheep, what have they done? <!-- drb 2 Kings (2 Samuel) 24:17 --> 
+         Antihpon. Ye mountains of Gelboe, let neither dew, nor rain come upon you, for there was cast away the shield of the valiant,
+         the shield of Saul as though he had not been anointed with oil. <!-- DRB 2 kings (2 samuel) 1:21 continues --> </ab>
+
+</div>

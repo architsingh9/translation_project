@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="63r"
+     xml:id="p0141">
+
+   <ab type="transcription"
+       xml:id="p0141_transcription"
+       corresp="#p0141_translation">
+
+      <lb/>mee: ad 
+	<choice>
+		       <seg type="lucas">custodie(n)das</seg>
+		       <orig>custodiēdas</orig>
+		       <reg>custodiendas</reg>
+	     </choice> ius
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tificat(i)o(ne)s</seg>
+		       <orig>tificatōs</orig>
+		       <reg>tificationes</reg>
+	     </choice> tuas. 
+	<choice>
+		       <seg type="lucas">Tu(n)c</seg>
+		       <orig>Tūc</orig>
+		       <reg>Tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fu(n)dar:</seg>
+		       <orig>ɔfudar:</orig>
+		       <reg>confundar:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)spex(er)o</seg>
+		       <orig>ꝑspex̄o</orig>
+		       <reg>perspexero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> tuis. 
+	<choice>
+		       <seg type="lucas">Co(n)fitebo(r)</seg>
+		       <orig>Cōfitebȯ</orig>
+		       <reg>Confitebor</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">direct(i)o(n)e</seg>
+		       <orig>directōe</orig>
+		       <reg>directione</reg>
+	     </choice> cordis: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eo 
+	<choice>
+		       <seg type="lucas">q(uod)</seg>
+		       <orig>ȹ</orig>
+		       <reg>quod</reg>
+	     </choice>
+      <lb/>didici iudicia iusticie tue.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Iustificat(i)o(n)es</seg>
+		       <orig>Iustificatōes</orig>
+		       <reg>Iustificationes</reg>
+	     </choice> tuas custo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">dia(m):</seg>
+		       <orig>diā:</orig>
+		       <reg>diam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">de(re)li(n)q(ua)s</seg>
+		       <orig>dėliq̈s</orig>
+		       <reg>derelinquas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">usq(ue)q(ua)</seg>
+		       <orig>usq⋮q̈q⋮</orig> 
+		       <reg>usquequaque</reg>
+	     </choice> 
+      <lb/>In quo corrigit adoles
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ce(n)tior</seg>
+		       <orig>cētior</orig>
+		       <reg>centior</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">via(m)</seg>
+		       <orig>viā</orig>
+		       <reg>viam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sua(m):</seg>
+		       <orig>suā:</orig>
+		       <reg>suam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">custodie(n)</seg>
+		       <orig>custodiē</orig>
+		       <reg>custodien</reg>
+	     </choice>
+      <lb break="no"/>do 
+	<choice>
+		       <seg type="lucas">s(er)mo(n)es</seg>
+		       <orig>sṁōes</orig>
+		       <reg>sermones</reg>
+	     </choice> tuos. In toto
+<lb/>corde meo 
+	<choice>
+		       <seg type="lucas">exq(ui)sivi</seg>
+		       <orig>exq̇sivi</orig>
+		       <reg>exquisivi</reg>
+	     </choice> te: ne
+<lb/>repellas me a 
+	<choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice>
+      <lb/>tuis. In corde meo ab
+<lb break="no"/>
+         <supplied>
+	<choice>
+		       <seg type="lucas">sco(n)di</seg>
+		       <orig>scȯdi</orig>
+		       <reg>scondi</reg>
+	     </choice> elo 
+	<choice>
+		       <seg type="lucas">q(ui)a</seg>
+		       <orig>q̇a</orig>
+		       <reg>quia</reg>
+	     </choice> tua: ut 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pe(c)⸗</seg>
+		       <orig>pe⸗</orig>
+		       <reg>pec⸗</reg>
+	     </choice>
+         </supplied>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0141_translation"
+       corresp="#p0141_transcription">O! that my ways may be directed to keep thy justifications. 
+         Then shall I not be confounded, when I shall look into all thy commandments. 
+         I will praise thee with uprightness of heart, when I shall have learned the judgments of thy justice. 
+         I will keep thy justifications: O! do not thou utterly forsake me. 
+         By what doth a young man correct his way? by observing thy words. 
+         With my whole heart have I sought after thee: let me not stray from thy commandments. 
+         Thy words have I hidden in my heart, that I may not sin against thee. <!-- ps 118 drb cont --> </ab>
+
+</div>

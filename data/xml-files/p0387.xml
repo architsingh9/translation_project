@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="186r"
+     xml:id="p0387">
+
+   <ab type="transcription"
+       xml:id="p0387_transcription"
+       corresp="#p0387_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mo(n)ib(us)</seg>
+	             <orig>mōib⋮</orig>
+		       <reg>monibus</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vi(n)cas</seg>
+	             <orig>vīcas</orig>
+		       <reg>vincas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> iu
+<lb break="no"/>dicaris. Ecce 
+	<choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+	             <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)ta</seg>
+	             <orig>īiq̇ta</orig>
+		       <reg>iniquita</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tib(us)</seg>
+	             <orig>tib⋮</orig>
+		       <reg>tibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cept(us)</seg>
+	             <orig>ɔceptꝰ</orig>
+		       <reg>conceptus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m):</seg>
+	             <orig>sū:</orig>
+		       <reg>sum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tis</seg>
+		       <orig>pct̄is</orig>
+		       <reg>peccatis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">co(n)</seg>
+	             <orig>cō</orig>
+		       <reg>con</reg>
+	     </choice>
+      <lb break="no"/>cepit me 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice> mea. Ecce
+<lb/>
+	     <choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+	             <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)itate(m)</seg>
+	             <orig>v̇itatē</orig>
+		       <reg>veritatem</reg>
+	     </choice> dilexisti: 
+	<choice>
+		       <seg type="lucas">i(n)c(er)ta</seg>
+	             <orig>īċta</orig>
+		       <reg>incerta</reg>
+	     </choice> et
+<lb/>occulta 
+	<choice>
+		       <seg type="lucas">sapi(enti)e</seg>
+	             <orig>sapīe</orig>
+		       <reg>sapientie</reg>
+	     </choice> tue mani
+<lb break="no"/>festasti 
+	<choice>
+		       <seg type="lucas">m(ihi).</seg>
+	             <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Asp(er)ges</seg>
+	             <orig>Asꝑges</orig>
+		       <reg>Asperges</reg>
+	     </choice> me
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> ysopo 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(un)dabor:</seg>
+		       <orig>m̄dabor:</orig>
+		       <reg>mundabor:</reg>
+	     </choice> la
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">vab(is)</seg>
+	             <orig>vaḃ</orig>
+		       <reg>vabis</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nive(m)</seg>
+	             <orig>nivē</orig>
+		       <reg>nivem</reg>
+	     </choice> dealba
+<lb break="no"/>bor. Auditui meo 
+	<choice>
+		       <seg type="lucas">dab(is)</seg>
+	             <orig>daḃ</orig>
+		       <reg>dabis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">gaudiu(m)</seg>
+	             <orig>gaudiū</orig>
+		       <reg>gaudium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">leticia(m):</seg>
+	             <orig>leticiā:</orig>
+		       <reg>leticiam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ex(u)lta</seg>
+		       <orig>exl͘ta</orig>
+		       <reg>exulta</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(un)t</seg>
+		       <orig>bt̄</orig>
+		       <reg>bunt</reg>
+	     </choice> ossa 
+	<choice>
+		       <seg type="lucas">hu(m)iliata.</seg>
+	             <orig>hūiliata.</orig>
+		       <reg>humiliata.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Av(er)te</seg>
+	             <orig>Av̇te</orig>
+		       <reg>Averte</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+	             <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+	             <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)tis</seg>
+		       <orig>pc̄tis</orig>
+		       <reg>peccatis</reg>
+	     </choice> meis: 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+	             <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)tates</seg>
+	             <orig>īiq̇tates</orig>
+		       <reg>iniquitates</reg>
+	     </choice> meas dele.
+<lb/>Cor 
+	<choice>
+		       <seg type="lucas">mu(n)du(m)</seg>
+	             <orig>mūdū</orig>
+		       <reg>mundum</reg>
+	     </choice> crea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	              <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> me
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0387_translation"
+       corresp="#p0387_transcription">
+         thy words and mayst overcome when thou art judged. 
+         For behold I was conceived in iniquities; 
+         and in sins did my mother conceive me. 
+         For 
+         behold thou hast loved truth: the uncertain and hidden things 
+         of thy wisdom thou hast 
+         made manifest to me. Thou shalt sprinkle me 
+         with hyssop, and I shall be cleansed: thou shalt wash me, 
+         and I shall be made whiter than 
+         snow. To my hearing 
+         thou shalt give joy and gladness: and the bones 
+         that have been humbled shall rejoice. Turn away thy face 
+         from my sins, and 
+         blot out all my iniquities. 
+         Create a clean heart in me      <!-- DRB Psalm 50 verses 6-12 -->                        
+   </ab>
+
+</div>

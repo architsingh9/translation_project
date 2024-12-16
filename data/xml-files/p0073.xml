@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="29r"
+     xml:id="p0073">
+
+   <ab type="transcription"
+       xml:id="p0073_transcription"
+       corresp="#p0073_translation">
+
+      <lb/>biis 
+	<choice>
+		       <seg type="lucas">exulatat(i)o(n)is</seg>
+		       <orig>exulatatōis</orig>
+		       <reg>exulatationis</reg>
+	     </choice> lauda
+<lb break="no"/>bit os 
+	<choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Si(c)</seg>
+		       <orig>Si</orig>
+		       <reg>Si</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(m)or</seg>
+		       <orig>mēor</orig>
+		       <reg>memor</reg>
+	     </choice>
+      <lb/>fui tui 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">stratu(m)</seg>
+		       <orig>stratū</orig>
+		       <reg>stratum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> ; 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">matuti(n)s</seg>
+		       <orig>matutīs</orig>
+		       <reg>matutins</reg>
+	     </choice> meditabor 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te:
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> fuisti adiutor 
+	<choice>
+		       <seg type="lucas">m(eu)s.</seg>
+		       <orig>m̄s.</orig>
+		       <reg>meus.</reg>
+	     </choice> Et
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">velam(en)to</seg>
+		       <orig>velam̄to</orig>
+		       <reg>velamento</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ala(rum)</seg>
+		       <orig>alaꝝ</orig>
+		       <reg>alarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(rum)</seg>
+		       <orig>tuaꝝ</orig>
+		       <reg>tuarum</reg>
+	     </choice> ex
+<lb break="no"/>ultabo; adhesit 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> me
+<lb break="no"/>a 
+	<choice>
+		       <seg type="lucas">p(ost)</seg>
+		       <orig>pꝰ</orig>
+		       <reg>post</reg>
+	     </choice> te: me suscepit dex
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(er)a</seg>
+		       <orig>ṫa</orig>
+		       <reg>tera</reg>
+	     </choice> tua. 
+	<choice>
+		       <seg type="lucas">Ip(s)i</seg>
+		       <orig>Ip̄i</orig>
+		       <reg>Ipsi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)o</seg>
+		       <orig>v̇o</orig>
+		       <reg>vero</reg>
+	     </choice> 
+
+	     <choice>
+		       <seg type="lucas">i(n)vanu(m)</seg>
+		       <orig>īvanū</orig>
+		       <reg>invanum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ue)sier(un)t</seg>
+		       <orig>q̄sier̄t</orig>
+		       <reg>quesierunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m);</seg>
+		       <orig>meā;</orig>
+		       <reg>meam;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)troi</seg>
+		       <orig>ītroi</orig>
+		       <reg>introi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bu(n)t</seg>
+		       <orig>būt</orig>
+		       <reg>bunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)feriora</seg>
+		       <orig>īferiora</orig>
+		       <reg>inferiora</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)re:</seg>
+		       <orig>ṫre:</orig>
+		       <reg>terre:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ra)de(n)t(ur)</seg>
+		       <orig>ẗdēt݃</orig>
+		       <reg>tradentur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">man(us)</seg>
+		       <orig>manꝰ</orig>
+		       <reg>manus</reg>
+	     </choice> gladii 
+	<choice>
+		       <seg type="lucas">p(ar)tes</seg>
+		       <orig>ꝑtes</orig>
+		       <reg>partes</reg>
+	     </choice> vul
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">piu(m)</seg>
+		       <orig>piū</orig>
+		       <reg>pium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">er(un)t.</seg>
+		       <orig>er̄t.</orig>
+		       <reg>erunt.</reg>
+	     </choice> Rex 
+	<choice>
+		       <seg type="lucas">v(er)o</seg>
+		       <orig>v̇o</orig>
+		       <reg>vero</reg>
+	     </choice> lauda
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bit(ur)</seg>
+		       <orig>bit݃</orig>
+		       <reg>bitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> deo; 
+	<choice>
+		       <seg type="lucas">laudabu(n)t(ur)</seg>
+		       <orig>laudabūt݃</orig>
+		       <reg>laudabuntur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iura(n)t</seg>
+		       <orig>iurāt</orig>
+		       <reg>iurant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eo: 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> obstruc⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0073_translation"
+       corresp="#p0073_transcription"> and my mouth shall praise thee with joyful lips. 
+         If I have remembered thee upon my bed, I will meditate on thee in the morning: 
+         Because thou hast been my helper. And I will rejoice under the covert of thy wings: 
+         My soul hath stuck close to thee: thy right hand hath received me.
+         But they have sought my soul in vain, they shall go into the lower parts of the earth: 
+         They shall be delivered into the hands of the sword, they shall be the portions of foxes. 
+         But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things. 
+        
+         <!-- DRBO 62 --></ab>
+
+</div>

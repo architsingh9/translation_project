@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="201v"
+     xml:id="p0418">
+
+   <ab type="transcription"
+       xml:id="p0418_transcription"
+       corresp="#p0418_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> labia mea 
+	<choice>
+		       <seg type="lucas">ap(er)ies:</seg>
+		       <orig>aꝑies:</orig>
+		       <reg>aperies:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> os 
+	<choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)nu(n)ciabit</seg>
+		       <orig>ānūciabit</orig>
+		       <reg>annunciabit</reg>
+	     </choice> lau
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">de(m)</seg>
+		       <orig>dē</orig>
+		       <reg>dem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m).</seg>
+		       <orig>tuā.</orig>
+		       <reg>tuam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> si voluisses
+<lb/>
+	     <choice>
+		       <seg type="lucas">sac(ri)ficiu(m)</seg>
+		       <orig>saċficiū</orig>
+		       <reg>sacrificium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dedisse(m)</seg>
+		       <orig>dedissē</orig>
+		       <reg>dedissem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">utiq(ue):</seg>
+		       <orig>utiq⋮:</orig>
+		       <reg>utique:</reg>
+	     </choice> ho
+<lb break="no"/>locaustis 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> delectaberis.
+<lb/>
+      <choice>
+		       <seg type="lucas">Sac(ri)ficiu(m)</seg>
+		       <orig>Saċficiū</orig>
+		       <reg>Sacrificium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(e)o</seg>
+		       <orig>ḋo</orig>
+		       <reg>deo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)t(ri)bula</seg>
+		       <orig>ɔṫbula</orig>
+		       <reg>contribula</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(us):</seg>
+		       <orig>tꝰ:</orig>
+		       <reg>tus:</reg>
+	     </choice> cor 
+	     <choice>
+		       <seg type="lucas">(con)t(ri)tu(m)</seg>
+		       <orig>ɔt̄tū</orig>
+		       <reg>contritum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)iliatu(m)</seg>
+		       <orig>hūiliatū</orig>
+		       <reg>humiliatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> despicies. 
+	<choice>
+		       <seg type="lucas">Benig(ne)</seg>
+		       <orig>Benigᶜ</orig>
+		       <reg>Benigne</reg>
+	     </choice> fac
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bo(n)a</seg>
+		       <orig>bōa</orig>
+		       <reg>bona</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">volu(n)tate</seg>
+		       <orig>volūtate</orig>
+		       <reg>voluntate</reg>
+	     </choice> tua
+<lb/>
+	     <choice>
+		       <seg type="lucas">syo(n):</seg>
+		       <orig>syō:</orig>
+		       <reg>syon:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">edifice(n)t(ur)</seg>
+		       <orig>edificēt݃</orig> 
+		       <reg>edificentur</reg>
+	     </choice> muri
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(e)r(usa)l(em).</seg>
+		       <orig>irl͘⋮.</orig>
+		       <reg>ierusalem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Tu(n)c</seg>
+		       <orig>Tūc</orig>
+		       <reg>Tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">acceptab(is)</seg>
+		       <orig>acceptaḃ</orig>
+		       <reg>acceptabis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sac(ri)</seg>
+		       <orig>saċ</orig>
+		       <reg>sacri</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ficiu(m)</seg>
+		       <orig>ficiū</orig>
+		       <reg>ficium</reg>
+	     </choice> iusticie 
+	<choice>
+		       <seg type="lucas">oblat(i)o(ni)s</seg>
+		       <orig>oblatōs</orig>
+		       <reg>oblationis</reg>
+	     </choice> et
+<lb/>holocausta: 
+	<choice>
+		       <seg type="lucas">t(un)c</seg>
+		       <orig>tc̄</orig>
+		       <reg>tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)pone(n)t</seg>
+		       <orig>īponēt</orig>
+		       <reg>imponent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>altare 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vit(u)los.</seg>
+		       <orig>vitl͘os.</orig>
+		       <reg>vitulos.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> exaudi 
+	<choice>
+		       <seg type="lucas">or(ati)o(n)em</seg>
+		       <orig>or̄oem</orig>
+		       <reg>orationem</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0418_translation"
+       corresp="#p0418_transcription">
+       Thou shalt open my lips, O Lord: and my mouth shall shew thy praise.
+       For thou desirest no sacrifice, else would I give it thee: but thou delightest not in burnt-offerings.
+       The sacrifice of God is a troubled spirit: a broken and contrite heart, O God, shalt thou not despise.
+       O be favourable and gracious unto Sion: build thou the walls of Jerusalem.
+       Then shalt thou be pleased with the sacrifice of righteousness, with the burnt-offerings and oblations: 
+       then shall they offer young bullocks upon thine altar.  <!-- drb palsm 50 -->
+       Hear my prayer, O Lord: and let my crying come unto thee.
+       <!-- drb palsm 101 cont. -->
+   </ab>
+
+</div>

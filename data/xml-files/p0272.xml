@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="128v"
+     xml:id="p0272">
+
+   <ab type="transcription"
+       xml:id="p0272_transcription"
+       corresp="#p0272_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">resera(n)s</seg>
+	             <orig>reserās</orig>
+		       <reg>reserans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)adisu(m).</seg>
+	             <orig>ꝑadisū.</orig>
+		       <reg>paradisum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uesu)m(u)s</seg>
+		       <orig>Qm̄s</orig>
+		       <reg>Quesumus</reg>
+	     </choice>
+      <lb/>auctor 
+	<choice>
+		       <seg type="lucas">o(mn)i(um)</seg>
+	             <orig>oī⋮</orig>
+		       <reg>omnium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> hoc paschali
+<lb/>gaudio ab 
+	<choice>
+		       <seg type="lucas">o(mn)i</seg>
+	             <orig>oī</orig>
+		       <reg>omni</reg>
+	     </choice> mortis 
+	<choice>
+		       <seg type="lucas">i(m)</seg>
+	             <orig>ī</orig>
+		       <reg>im</reg>
+	     </choice>
+      <lb break="no"/>petu 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+	             <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">defe(n)d[/e]</seg>
+	             <orig>defēde</orig>
+		       <reg>defende</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(o)p(u)l(um)</seg>
+	             <orig>ppl͘⋮</orig>
+		       <reg>populum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+		       <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+	             <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> surrexisti a mor
+<lb break="no"/>tuis. 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(atre).</seg>
+		       <orig>p.</orig>
+		       <reg>patre.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ancto)s(piritu).</seg>
+		       <orig>ss.</orig>
+		       <reg>sanctospiritu.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">se(mpiterna)</seg>
+	             <orig>sē</orig>
+		       <reg>sempiterna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)la.</seg>
+		       <orig>scl͘a.</orig>
+		       <reg>secula.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Am(en).</seg>
+		       <orig>Am̄.</orig>
+		       <reg>Amen.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+	             <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Mane 
+	<choice>
+		       <seg type="lucas">nobiscu(m)</seg>
+	             <orig>nobiscū</orig>
+		       <reg>nobiscum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">al(leluia).</seg>
+		       <orig>al͘.</orig>
+		       <reg>alleluia.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">advesp(er)ascit</seg>
+	             <orig>advesꝑascit</orig>
+		       <reg>advesperascit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">al(leluia).</seg>
+		       <orig>al͘.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Or(emus?).</seg>
+		       <orig>Or̄.</orig>
+		       <reg>Oremus</reg>
+	     </choice> 
+ 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">PR(est)a</seg>
+	             <orig>PRā</orig>
+		       <reg>PResta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+	             <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s:</seg>
+	             <orig>ḋs:</orig>
+		       <reg>deus:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>paschalia festa 
+	<choice>
+		       <seg type="lucas">p(er)e</seg>
+	             <orig>ꝑe</orig>
+		       <reg>pere</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">gim(us);</seg>
+	             <orig>gimꝰ;</orig>
+		       <reg>gimus;</reg>
+	     </choice> hec te 
+	<choice>
+		       <seg type="lucas">largie(n)te</seg>
+	             <orig>largiēte</orig>
+		       <reg>largiente</reg>
+	     </choice> mo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rib(us)</seg>
+	             <orig>rib⋮</orig>
+		       <reg>ribus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vita 
+	<choice>
+		       <seg type="lucas">teneam(us):</seg>
+	             <orig>teneamꝰ:</orig>
+		       <reg>teneamus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+	             <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice>
+      <lb/>Ad. 
+	<choice>
+		       <seg type="lucas">i(?).</seg>
+		       <orig>ï.</orig>
+		       <reg>prima </reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">an(tiphon?).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Cognover(un)t</seg>
+		       <orig>Cognovert̄</orig>
+		       <reg>Cognoverunt</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+	             <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">al(leluia)</seg>
+		       <orig>al͘</orig>
+		       <reg>alleluia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">frac(t)io(n)e</seg>
+	             <orig>fraciōe</orig>
+		       <reg>fractione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pa(n)is</seg>
+	             <orig>pāis</orig>
+		       <reg>panis</reg>
+	     </choice> a.
+<lb/>Ad 
+	<choice>
+		       <seg type="lucas">m(?)</seg>
+		       <orig>m̈</orig>
+		       <reg>tertia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+	             <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ Pax 
+	<choice>
+		       <seg type="lucas">vob(is)</seg>
+	             <orig>voḃ</orig>
+		       <reg>vobis</reg>
+	     </choice> ego
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0272_translation"
+       corresp="#p0272_transcription">and Paradise for man regains. <!-- CPDL, linked in doc. the following is from the same hymn but the source doesn't have an English 
+             translation for it --> We ask the author of all
+                              in this joy of Eastertime,
+                              from every attack of death
+                              protect your people. <!-- Google translate :( --> All glory be to Thee,
+         O Lord,
+         who rose from the dead,
+         And equal praise for
+         ever greet
+         The Father and the
+         Paraclete. Amen. <!-- OBDS 16 except for "who rose from the dead" is Google translate --> Versicle. 
+         Stay with us, alleluia, because it is towards evening, alleluia. Let us pray. Grant, we beseech You, almighty God, that
+         as we have fulfilled the solemn Easter feasts, so we
+         may, through Your merciful bounty, keep them in our
+         deeds and life: through our Lord. <!-- DM 437 --> Ad i. Antiphon. They knew the Lord alleluia in the breaking of the bread alleluia. <!-- DRB luke 24:35 --> 
+   Ad iii. Peace be to you. I am.<!-- DRB Tobias 12:17 cont --> </ab>
+
+</div>

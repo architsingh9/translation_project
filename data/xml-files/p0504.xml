@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="244v"
+     xml:id="p0504">
+
+   <ab type="transcription"
+       xml:id="p0504_transcription"
+       corresp="#p0504_translation">
+
+      <lb/>Trino deo 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice>  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Flore(m)</seg>
+		       <orig>Florē</orig>
+		       <reg>Florem</reg>
+	     </choice> pudicicie
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(er)va(n)s</seg>
+		       <orig>s͘vās</orig>
+		       <reg>servans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illibatu(m)</seg>
+		       <orig>illibatū</orig>
+		       <reg>illibatum</reg>
+	     </choice> at⸗        
+	<choice>
+		       <seg type="lucas">Flore(m).</seg>
+		       <orig>Florē.</orig>
+		       <reg>Florem.</reg>
+	     </choice> 
+      <lb/>tigit eximie vite celiba
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tu(m).</seg>
+		       <orig>tū.</orig>
+		       <reg>tum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iustu(m)</seg>
+		       <orig>Iustū</orig>
+		       <reg>Iustum</reg>
+	     </choice> de. 
+	<choice>
+		       <seg type="lucas">l(?).</seg>
+		       <orig>l͘.</orig>
+		       <reg>lectio.</reg>
+	     </choice> 
+ i.
+<lb/>O 
+	<choice>
+		       <seg type="lucas">B(ea)te</seg>
+		       <orig>Bt̄e</orig>
+		       <reg>Beate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nice</seg>
+		       <orig>dn̄ice</orig>
+		       <reg>dominice</reg>
+	     </choice> dux 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(oste)r</seg>
+		       <orig>nr̄</orig>
+		       <reg>noster</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)clite</seg>
+		       <orig>īclite</orig>
+		       <reg>inclite</reg>
+	     </choice> noli nos 
+	<choice>
+		       <seg type="lucas">op(us)</seg>
+		       <orig>opꝰ</orig>
+		       <reg>opus</reg>
+	     </choice> tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">despice(re)</seg>
+		       <orig>despicė</orig>
+		       <reg>despicere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> exaudi nos
+<lb/>ea 
+	<choice>
+		       <seg type="lucas">q(ua)</seg>
+		       <orig>q̈</orig>
+		       <reg>qua</reg>
+	     </choice> polles pietate 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> eru
+<lb break="no"/>e nos ab 
+	<choice>
+		       <seg type="lucas">hostiu(m)</seg>
+		       <orig>hostiū</orig>
+		       <reg>hostium</reg>
+	     </choice> visibili
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)visibiliu(m)</seg>
+		       <orig>īvisibiliū</orig>
+		       <reg>invisibilium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ie)tate.</seg>
+		       <orig>pt̄ate.</orig>
+		       <reg>pietate.</reg>
+	     </choice> Tu,
+<lb/>
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> Felix vitis de cuius
+<lb/>
+	     <choice>
+		       <seg type="lucas">surc(u)lo</seg>
+		       <orig>surcl͘o</orig>
+		       <reg>surculo</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">ta(n)tu(m)</seg>
+		       <orig>tātū</orig>
+		       <reg>tantum</reg>
+	     </choice> 
+	      
+      <choice>
+		       <seg type="lucas">g(er)me(n)</seg>
+		       <orig>ġmē</orig>
+		       <reg>germen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">redu(n)dat</seg>
+		       <orig>redūdat</orig>
+		       <reg>redundat</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(u)lo.</seg>
+		       <orig>scl͘o.</orig>
+		       <reg>seculo.</reg>
+	     </choice> Celi 
+	<choice>
+		       <seg type="lucas">vinu(m)</seg>
+		       <orig>vinū</orig>
+		       <reg>vinum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)pina(n)s</seg>
+		       <orig>ꝓpinās</orig>
+		       <reg>propinans</reg>
+	     </choice> po
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(u)lo</seg>
+		       <orig>pl͘o</orig>
+		       <reg>pulo</reg>
+	     </choice> vitali 
+	<choice>
+		       <seg type="lucas">poc(u)lo.</seg>
+		       <orig>pocl͘o.</orig>
+		       <reg>poculo.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Ex
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0504_translation"
+       corresp="#p0504_transcription"/>
+
+</div>

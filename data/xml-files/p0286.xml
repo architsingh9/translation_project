@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="135v"
+     xml:id="p0286">
+
+   <ab type="transcription"
+       xml:id="p0286_transcription"
+       corresp="#p0286_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sitat(i)o(n)is</seg>
+	           <orig>sitatȯis</orig>
+		       <reg>sitationis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illust(ra).</seg>
+		       <orig>illusẗ.</orig>
+		       <reg>illustra.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+	           <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+         <choice>
+               <seg type="lucas">vi(vis).</seg>
+               <orig>vi.</orig>
+               <reg>vivis.</reg>
+         </choice> 
+	<choice>
+		       <seg type="lucas">Or(?).</seg>
+	             <orig>Or̄.</orig>
+		       <reg>Oremus.</reg>
+	     </choice> iiii.    
+      <lb/>EXcita 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pote(n)cia(m)</seg>
+	           <orig>potēciā</orig>
+		       <reg>potenciam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+	           <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)i:</seg>
+	           <orig>vēi:</orig>
+		       <reg>veni:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(na)</seg>
+	           <orig>mag̈</orig>
+		       <reg>magna</reg>
+	     </choice> no
+<lb break="no"/>bis 
+	<choice>
+		       <seg type="lucas">v(ir)tute</seg>
+	           <orig>v̇̇̇tute</orig>
+		       <reg>virtute</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">succ(ur)re;</seg>
+	           <orig>succ݃re;</orig>
+		       <reg>succurre;</reg> 
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+	               <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> au
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">xiliu(m)</seg>
+	           <orig>xiliū</orig>
+		       <reg>xilium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gr(ati)e</seg>
+	           <orig>gr̄e</orig>
+		       <reg>gratie</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">q(uo)d</seg>
+	              <orig>qḋ</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+	           <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)ta</seg>
+		       <orig>pct̄a</orig>
+		       <reg>peccata</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(re)p(e)diu(n)t</seg>
+	           <orig>p̄pdiūt</orig>
+		       <reg>prepediunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)dulge(n)cia</seg>
+	           <orig>īdulgēcia</orig>
+		       <reg>indulgencia</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">p(ro)pi</seg>
+	      <orig>ꝓpi</orig>
+		       <reg>propi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+	           <seg type="lucas">ciat(i)o(n)is</seg>
+	           <orig>ciatōis</orig>
+		       <reg>ciationis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">accel(er)et.</seg>
+	           <orig>accel͘et.</orig>
+		       <reg>acceleret.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+	           <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vi(vis).</seg>
+		       <orig>vi.</orig>
+	           <reg>vivis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Do(minica)</seg>
+		       <orig>Dö</orig>
+		       <reg>Dominica</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(prima).</seg>
+	           <orig>ï.</orig>
+		       <reg>prima.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ost)</seg>
+	           <orig>pꝰ</orig>
+	           <reg>post<!--postus? seems unlikely. postquam? what's that abbrev. doing there? --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">octa(vam?)</seg>
+	           <orig>octä⋮</orig>
+		       <reg>octavam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(pi)ph(an)ye</seg>
+		       <orig>epḣye</orig>
+		       <reg>epiphanye</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+	           <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> sedes 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+	      <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">thronu(m)</seg>
+	           <orig>thronū</orig>
+		       <reg>thronum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> iudi
+<lb break="no"/>cas 
+	<choice>
+		       <seg type="lucas">eq(ui)tate(m)</seg>
+	      <orig>eq̇tatē</orig>
+		       <reg>equitatem</reg>
+	     </choice> esto 
+	<choice>
+		       <seg type="lucas">regufiu(m)</seg>
+	      <orig>refugiū</orig>
+		       <reg>refugium</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pauper(um)</seg>
+	           <orig>paupeꝝ</orig>
+		       <reg>pauperum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	           <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)bulat(i)o(n)e.</seg>
+	           <orig>ṫbulatōe.</orig>
+		       <reg>tribulatione.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice>
+         <lb/><supplied>tu solus l</supplied>
+	<choice>
+		       <seg type="lucas">abore(m)</seg>
+	      <orig>aborē</orig>
+		       <reg>aborem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	           <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dolore(m)</seg>
+	           <orig>dolorē</orig>
+		       <reg>dolorem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sid(er)as.</seg>
+	           <orig>ɔsiḋas.</orig>
+		       <reg>consideras.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+	           <reg>Versiculus.</reg>
+	     </choice> Tibi 
+	<choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+	      <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">de(re)lict(us)</seg>
+	           <orig>ḋelictꝰ</orig>
+		       <reg>derelictus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	           <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paup(er)</seg>
+	           <orig>pauꝑ</orig>
+		       <reg>pauper</reg>
+	     </choice> pupillo tu eris
+<lb/>adiutor. 
+	<choice>
+		       <seg type="lucas">Q(ui)a.</seg>
+		       <orig>Q̇a.</orig>
+		       <reg>Quia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+	           <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a.</seg>
+		       <orig>Q̇a.</orig>
+		       <reg>Quia.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0286_translation"
+       corresp="#p0286_transcription">  O Lord; and by the grace of Your visitation, enlighten the darkness of our minds: who live and reign. <!-- DM 17 --> Let us pray. 
+         iiii. <!-- this is probably about fourth sunday of advent? --> Stir up Your power, we beseech You, O Lord,
+         and come, and with great might succour us; that by the
+         help of Your grace, what is hindered by our sins may
+         be hastened by Your merciful indulgence: who live and
+         reign. <!-- DM 24 --> 
+         First Sunday after Octave of the Epiphany.
+         Response. God, who sittest upon the throne and judgest in equity, 
+         be a stronghold of the poor in time of trouble,
+         thou alone that beholdest mischief and spite. <!-- CPDL linked in Google Doc ("Deus qui seder super thronum Orlando di Lasso ) --> 
+         Versicle. To You, O Lord, is the
+         poor man left. You will be a help to the orphan. <!-- DM 243 --> 
+         Thou alone that beholdest mischief and spite. Glory 
+         [be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+         Thou alone that beholdest mischief and spite. <!-- It's unusually for the same thing to be repeated before and after the Gloria but I am not sure what else Quia could be 
+               referring to. --> 
+   </ab>
+
+</div>

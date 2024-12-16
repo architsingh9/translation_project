@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="173r"
+     xml:id="p0361">
+
+   <ab type="transcription"
+       xml:id="p0361_transcription"
+       corresp="#p0361_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uo)</seg>
+	             <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice> trepidabo. 
+	<choice>
+		       <seg type="lucas">Du(m)</seg>
+	             <orig>Dū</orig>
+		       <reg>Dum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ap(ro)pia(n)t</seg>
+	             <orig>aꝓpiāt</orig>
+		       <reg>appropiant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+	             <orig>sṙ</orig>
+		       <reg>super</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">noce(n)tes:</seg>
+	             <orig>nocētes:</orig>
+		       <reg>nocentes:</reg>
+	     </choice> ut edant
+<lb/>carnes meas. 
+	<choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig> 
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)bula(n)t</seg>
+	             <orig>ṫbulāt</orig>
+		       <reg>tribulant</reg>
+	     </choice>
+      <lb/>me 
+	<choice>
+		       <seg type="lucas">i(n)imici</seg>
+	             <orig>īimici</orig>
+		       <reg>inimici</reg>
+	     </choice> mei: 
+	<choice>
+		       <seg type="lucas">ip(s)i</seg>
+		       <orig>ip̄i</orig>
+		       <reg>ipsi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)firma</seg>
+	             <orig>īfirma</orig>
+		       <reg>infirma</reg>
+	     </choice>
+      <lb break="no"/>ti 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+	             <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cecider(un)t.</seg>
+		       <orig>cecider̄t.</orig>
+		       <reg>ceciderunt.</reg>
+	     </choice> Si 
+	     <choice>
+		       <seg type="lucas">sista(n)t</seg>
+	             <orig>ɔsistāt</orig>
+		       <reg>consistant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">adv(er)su(m)</seg>
+	             <orig>adv̇sū</orig>
+		       <reg>adversum</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">cast(ra):</seg>
+		       <orig>casẗ:</orig>
+		       <reg>castra:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ti(m)ebit</seg>
+	             <orig>tīebit</orig>
+		       <reg>timebit</reg>
+	     </choice>
+      <lb/>cor 
+	<choice>
+		       <seg type="lucas">meu(m).</seg>
+	             <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> Si exurgat ad
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">v(er)su(m)</seg>
+	             <orig>v̇sū</orig>
+		       <reg>versum</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">p(re)liu(m):</seg>
+	             <orig>p̄liū:</orig>
+		       <reg>prelium:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> hoc ego 
+	<choice>
+		       <seg type="lucas">sp(er)a</seg>
+	             <orig>sꝑa</orig>
+		       <reg>spera</reg>
+	     </choice>
+      <lb break="no"/>bo. 
+	<choice>
+		       <seg type="lucas">Una(m)</seg>
+	             <orig>Unā</orig>
+		       <reg>Unam</reg>
+	     </choice> pecii a 
+	<choice>
+		       <seg type="lucas">do(mino)</seg>
+	             <orig>doº</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ha(n)c</seg>
+	             <orig>hāc</orig>
+		       <reg>hanc</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">req(ui)ra(m):</seg>
+	             <orig>req̇rā:</orig>
+		       <reg>requiram:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">i(n)h(ab)ite(m)</seg>
+	             <orig>īhīt̄e</orig>
+		       <reg>inhabitem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> domo 
+	<choice>
+		       <seg type="lucas">do(mini)</seg>
+		       <orig>doⁱ</orig>
+		       <reg>domini</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+	             <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dieb(us)</seg>
+	             <orig>dieb⋮</orig>
+		       <reg>diebus</reg>
+	     </choice> vite mee. Ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">videa(m)</seg>
+	             <orig>videā</orig>
+		       <reg>videam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">volu(n)tate(m)</seg>
+	             <orig>volūtatē</orig>
+		       <reg>voluntatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">do(mini):</seg>
+		       <orig>doⁱ:</orig>
+		       <reg>domini:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> visi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(m)</seg>
+	             <orig>tē</orig>
+		       <reg>tem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">te(m)plu(m)</seg>
+	             <orig>tēplū</orig>
+		       <reg>templum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+	             <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">absco(n)</seg>
+	             <orig>abscō</orig>
+		       <reg>abscon</reg>
+	     </choice>
+      <lb break="no"/>dit me 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)nac(u)lo</seg>
+	             <orig>taḃnacl͘o</orig>
+		       <reg>tabernaculo</reg>
+	     </choice> suo
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> die 
+	<choice>
+		       <seg type="lucas">malor(um):</seg>
+	             <orig>maloꝝ:</orig>
+		       <reg>malorum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)texit</seg>
+	             <orig>ꝓtexit</orig>
+		       <reg>protexit</reg>
+	     </choice> me
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0361_translation"
+       corresp="#p0361_transcription">
+         continued from DPB pg 360: of whom shall I be afraid? Whilst the wicked 
+         draw near against me, to eat 
+         my flesh. My enemies 
+         that trouble me, have 
+         themselves been weakened, and have fallen. If armies in camp 
+         should stand together against me, 
+         my heart shall not fear. If a battle should rise up 
+         against me, in this will I be confident.
+         One thing I have asked of the Lord, 
+         this will I seek after; that I may dwell in the house 
+         of the Lord all the days of my life. That 
+         I may see the delight of the Lord, 
+         and may visit his temple. For he hath hidden me 
+         in his tabernacle; 
+         in the day of evils, he hath protected me <!-- DRB Psalm 26 Verses 1-5 -->
+         
+   </ab>
+
+</div>

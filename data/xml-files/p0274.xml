@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="129v" xml:id="p0274">
+
+      <ab type="transcription" xml:id="p0274_transcription" corresp="#p0274_translation">
+            <lb/>
+            <choice>
+                  <seg type="lucas">ru(er)it</seg>
+                  <orig>ru̇it</orig>
+                  <reg>ruerit</reg>
+            </choice> vita <choice>
+                  <seg type="lucas">v(est)ra:</seg>
+                  <orig>vr̄a:</orig>
+                  <reg>vestra:</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">tu(n)c</seg>
+                  <orig>tūc</orig>
+                  <reg>tunc</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice> vos <lb/>
+            <choice>
+                  <seg type="lucas">app(er)ebitis</seg>
+                  <orig>apꝑebitis</orig>
+                  <reg>apperebitis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">cu(m)</seg>
+                  <orig>cu</orig>
+                  <reg>cum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ip(s)o</seg>
+                  <orig>ip̄o</orig>
+                  <reg>ipso</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">gl(ori)a;</seg>
+                  <orig>gl͘a;</orig>
+                  <reg>gloria;</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">D(e)o.</seg>
+                  <orig>Ḋ.</orig>
+                  <reg>Deo.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">R(esponsorium).</seg>
+                  <orig>℞.</orig>
+                  <reg>Responsorium.</reg>
+            </choice> Surrexit <choice>
+                  <seg type="lucas">d(omi)n(u)s</seg>
+                  <orig>dn̄s</orig>
+                  <reg>dominus</reg>
+            </choice> de sepul <lb break="no"/>chro. <choice>
+                  <seg type="lucas">Al(leluia).</seg>
+                  <orig>Al͘.</orig>
+                  <reg>Alleluia.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">V(espers)</seg>
+                  <orig>V̇</orig>
+                  <reg>Versiculus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Q(ui)</seg>
+                  <orig>Q̆</orig>
+                  <reg>Qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ro)</seg>
+                  <orig>ꝓ</orig>
+                  <reg>pro</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">nob(is)</seg>
+                  <orig>noḃ</orig>
+                  <reg>nobis</reg>
+            </choice> pe <lb break="no"/>pedit <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice> ligno. <choice>
+                  <seg type="lucas">A(lleluia).</seg>
+                  <orig>A.</orig>
+                  <reg>Alleluia.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Gl(oria).</seg>
+                  <orig>Gl͘.</orig>
+                  <reg>Gloria.</reg>
+            </choice> Sur. <lb/>
+            <choice>
+                  <seg type="lucas">V(espers).</seg>
+                  <orig>V̇.</orig>
+                  <reg>Versiculus.</reg>
+            </choice> Gavisi <choice>
+                  <seg type="lucas">s(un)t</seg>
+                  <orig>sṫ</orig>
+                  <reg>sunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">discip(u)li</seg>
+                  <orig>discipl͘i</orig>
+                  <reg>discipuli</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">al(leluia).</seg>
+                  <orig>al͘.</orig>
+                  <reg>alleluia.</reg>
+            </choice>
+            <lb/>Viso <choice>
+                  <seg type="lucas">d(omi)no</seg>
+                  <orig>dn̄o</orig>
+                  <reg>domino</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">al(leluia).</seg>
+                  <orig>al͘.</orig>
+                  <reg>alleluia.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Do(minica)</seg>
+                  <orig>Dö</orig>
+                  <reg>Dominica</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(prima) </seg>
+                  <orig>ï </orig>
+                  <reg>prima </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">oct(avam).</seg>
+                  <orig>ocṫ.</orig>
+                  <reg>octavam.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">DE(us)</seg>
+                  <orig>DEꝰ</orig>
+                  <reg>DEus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice> filii pasce <choice>
+                  <seg type="lucas">or(emus?).</seg>
+                  <orig>or̄.</orig>
+                  <reg>oremus.</reg>
+            </choice>
+            <lb/>tui <choice>
+                  <seg type="lucas">hu(m)ilitate</seg>
+                  <orig>hūilitate</orig>
+                  <reg>humilitate</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">iace(n)te(m)</seg>
+                  <orig>iacētē</orig>
+                  <reg>iacentem</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">mu(n)du(m)</seg>
+                  <orig>mūdū</orig>
+                  <reg>mundum</reg>
+            </choice> erexisti; <choice>
+                  <seg type="lucas">fidelib(us)</seg>
+                  <orig>fidelib⋮</orig>
+                  <reg>fidelibus</reg>
+            </choice> tu <lb break="no"/>is <choice>
+                  <seg type="lucas">p(er)petua(m)</seg>
+                  <orig>ꝑpetuā</orig> 
+                  <reg>perpetuam</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(con)cede</seg>
+                  <orig>ɔcede</orig>
+                  <reg>concede</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">letitia(m):</seg>
+                  <orig>letitiā:</orig>
+                  <reg>letitiam:</reg>
+            </choice> ut <lb/>quos <choice>
+                  <seg type="lucas">p(er)petue</seg>
+                  <orig>ꝑpetue</orig>
+                  <reg>perpetue</reg>
+            </choice> mortis eripu <lb break="no"/>isti <choice>
+                  <seg type="lucas">casib(us);</seg>
+                  <orig>casib⋮;</orig>
+                  <reg>casibus;</reg>
+            </choice> gaudiis facias <lb/>
+            <choice>
+                  <seg type="lucas">se(m)pit(er)nis</seg>
+                  <orig>sēpiṫnis</orig>
+                  <reg>sempiternis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(er)frui:</seg>
+                  <orig>ꝑfrui:</orig>
+                  <reg>perfrui:</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">P(er).</seg>
+                  <orig>Ꝑ.</orig>
+                  <reg>Per.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Do(minica)</seg>
+                  <orig>Dö</orig>
+                  <reg>Dominica</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">DE(us)</seg>
+                  <orig>DEꝰ</orig>
+                  <reg>DEus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">erra(n)tib(us)</seg>
+                  <orig>errātib⋮</orig>
+                  <reg>errantibus</reg>
+            </choice> ut <choice>
+                  <seg type="lucas">(secunda) </seg>
+                  <orig>ii</orig>
+                  <reg>secunda </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">or(emus?). </seg>
+                  <orig>or̄. </orig>
+                  <reg>oremus.</reg>
+            </choice>
+      </ab>
+
+      <ab type="translation" xml:id="p0274_translation" corresp="#p0274_transcription">
+            When Christ, your life, shall appear, then you too will
+            appear with Him in glory. <!-- continued, DM 406 / DRB Col. 3 --> [Thanks be to] God. 
+            Response. The Lord has risen from the sepulchre. Alleluia. Versicle. Who for
+            us hung upon a tree. Alleluia. Glory [be to the Father, and to the Son, and to the Holy
+Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.] 
+[The Lord has] risen [from the sepulchre.] Versicle. The disciples rejoiced alleluia. At the sight of
+the Lord alleluia. <!-- DM 439 / DRB John 20 --> The First Sunday of the Easter Octave. Let us pray.
+            O God, who by the humility of Your Son
+            raised up the fallen world, grant to Your faithful never-failing joy; that those whom You have snatched from
+            the chances of everlasting death may enjoy eternal gladness: through the same Lord. <!-- DM 441 --> Second Sunday. Let us pray. 
+            O God, who show to the erring the light of
+            Your truth that they may be able to return to the path
+            of righteousness; <!-- cont. DM 444 -->   </ab>
+
+</div>

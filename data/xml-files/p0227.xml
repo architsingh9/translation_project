@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="106r"
+     xml:id="p0227">
+
+   <ab type="transcription"
+       xml:id="p0227_transcription"
+       corresp="#p0227_translation">
+
+      <lb/>tuo: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> quo a facie tua fu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">gia(m).</seg>
+		       <orig>giā.</orig>
+		       <reg>giam.</reg>
+	     </choice> Si 
+	<choice>
+		       <seg type="lucas">asce(n)d(er)o</seg>
+		       <orig>asc̄eḋo</orig>
+		       <reg>ascendero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">celu(m)</seg>
+		       <orig>celū</orig>
+		       <reg>celum</reg>
+	     </choice> tu
+<lb/>illic es: si 
+	<choice>
+		       <seg type="lucas">desce(n)d(er)o</seg>
+		       <orig>descēḋo</orig>
+		       <reg>descendero</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">i(n)fer</seg>
+		       <orig>īfer</orig>
+		       <reg>infer</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nu(m)</seg>
+		       <orig>nū</orig>
+		       <reg>num</reg>
+	     </choice> ades. Si 
+	<choice>
+		       <seg type="lucas">su(m)psero</seg>
+		       <orig>sūpsero</orig>
+		       <reg>sumpsero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pe(n)</seg>
+		       <orig>pē</orig>
+		       <reg>pen</reg>
+	     </choice>
+      <lb break="no"/>nas meas 
+	<choice>
+		       <seg type="lucas">diluc(u)lo:</seg>
+		       <orig>dilucl͘o:</orig>
+		       <reg>diluculo:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)i</seg>
+		       <orig>hī</orig>
+		       <reg>habi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tav(er)o</seg>
+		       <orig>tav̇o</orig>
+		       <reg>tavero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">extre(m)is</seg>
+		       <orig>extrēis</orig>
+		       <reg>extremis</reg>
+	     </choice> maris. E
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(n)i(m)</seg>
+		       <orig>teī</orig>
+		       <reg>tenim</reg>
+	     </choice> illuc 
+	<choice>
+		       <seg type="lucas">man(us)</seg>
+		       <orig>manꝰ</orig>
+		       <reg>manus</reg>
+	     </choice> tua dedu
+<lb break="no"/>cet me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> tenebit me 
+	<choice>
+		       <seg type="lucas">dext(er)a</seg>
+		       <orig>dexṫa</orig>
+		       <reg>dextera</reg>
+	     </choice>
+      <lb/>tua. Et dixi 
+	<choice>
+		       <seg type="lucas">forsita(n)</seg>
+		       <orig>forsitā</orig>
+		       <reg>forsitan</reg>
+	     </choice> tene
+<lb break="no"/>bre 
+	     <choice>
+		       <seg type="lucas">culcab(un)t</seg>
+		       <orig>ɔculcab̄t</orig>
+		       <reg>conculcabunt</reg>
+	     </choice> me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> nox
+<lb/>
+	     <choice>
+		       <seg type="lucas">illu(m)i(n)at(i)o</seg>
+		       <orig>illuīatō</orig>
+		       <reg>illuminatio</reg>
+	     </choice> mea 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> deliciis me
+<lb break="no"/>is. 
+	<choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice> tenebre 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> obscu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rabu(n)t(ur)</seg>
+		       <orig>rabūt݃</orig>
+		       <reg>rabuntur</reg> 
+	     </choice> a te<supplied>r</supplied>
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> nox 
+	<choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> dies
+<lb/>
+	     <choice>
+		       <seg type="lucas">illu(m)i(n)abit(ur):</seg>
+		       <orig>illuīabit݃:</orig> 
+		       <reg>illuminabitur:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> tenebre 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice>
+      <lb/>ita 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lume(n)</seg>
+		       <orig>lumē</orig>
+		       <reg>lumen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice> tu pos⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0227_translation"
+       corresp="#p0227_transcription">thy spirit? or whither shall I flee from thy face? 
+   	If I ascend into heaven, thou art there: if I descend into hell, thou art present. 
+   	If I take my wings early in the morning, and dwell in the uttermost parts of the sea: 
+   	Even there also shall thy hand lead me: and thy right hand shall hold me.
+   	And I said: Perhaps darkness shall cover me: and night shall be my light in my pleasures.
+   	But darkness shall not be dark to thee, and night shall be light as day: the darkness thereof, and the light thereof are alike to thee.
+   	For thou hast possessed my reins: <!-- drb psalm 138 cont --></ab>
+
+</div>

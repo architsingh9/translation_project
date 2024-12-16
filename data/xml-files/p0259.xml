@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="122r"
+     xml:id="p0259">
+
+   <ab type="transcription"
+       xml:id="p0259_transcription"
+       corresp="#p0259_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">me(n)do</seg>
+	             <orig>mēdo</orig>
+		       <reg>mendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)m</seg>
+		       <orig>spm̄</orig>
+		       <reg>spiritum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m).</seg>
+	             <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+	             <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> Rede
+<lb break="no"/>misti me 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+	             <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)itatis.</seg>
+	             <orig>v̇itatis.</orig>
+		       <reg>veritatis.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Co(mmendo).</seg>
+	             <orig>Cō.</orig>
+		       <reg>Commendo.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> In. 
+	     <choice>
+		       <seg type="lucas">y(m)n(us).</seg>
+	             <orig>ȳpnꝰ.</orig>
+		       <reg>hymnus.</reg>
+	     </choice>
+      <lb/>TE lucis 
+	<choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)minu(m)</seg>
+	             <orig>ṫminū</orig>
+		       <reg>terminum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">rer(um)</seg>
+	             <orig>reꝝ</orig>
+		       <reg>rerum</reg>
+	     </choice> creator 
+	<choice>
+		       <seg type="lucas">poscim(us)</seg>
+	             <orig>poscimꝰ</orig>
+		       <reg>poscimus</reg>
+	     </choice> ut so
+<lb break="no"/>lita 
+	<choice>
+		       <seg type="lucas">clem(en)tia</seg>
+		       <orig>clem̄tia</orig>
+		       <reg>clementia</reg>
+	     </choice> sis 
+	<choice>
+		       <seg type="lucas">p(re)sul</seg>
+		       <orig>p̄sul</orig>
+		       <reg>presul</reg>
+	     </choice> a cu
+<lb break="no"/>stodia. 
+	<choice>
+		       <seg type="lucas">Proc(u)l</seg>
+		       <orig>Procl͘</orig>
+		       <reg>Procul</reg>
+	     </choice> recedant
+<lb/>
+	     <choice>
+		       <seg type="lucas">so(m)nia</seg> 
+	             <orig>sōpnia</orig> 
+		       <reg>somnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">noctiu(m)</seg>
+	             <orig>noctiū</orig>
+		       <reg>noctium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fa(n)tasma</seg>
+	             <orig>fātasma</orig>
+		       <reg>fantasma</reg>
+	     </choice>
+      <lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">hoste(m)q(ue)</seg>
+	             <orig>hostēq⋮</orig>
+		       <reg>hostemque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)r(um)</seg>
+	             <orig>nr̄⋮</orig>
+		       <reg>nostrum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ri)me</seg>
+	             <orig>ɔṗme</orig>
+		       <reg>comprime</reg>
+	     </choice> ne
+<lb/>
+	     <choice>
+		       <seg type="lucas">pollua(n)t(ur)</seg>
+	             <orig>polluāt݃</orig>
+		       <reg>polluantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">corp(or)a.</seg>
+	             <orig>corꝑa.</orig>
+		       <reg>corpora.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Pr(est)a</seg>
+		       <orig>Pr̄a</orig>
+		       <reg>Presta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+	             <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ih(eseu)m</seg> 
+	             <orig>iḣ⋮</orig>
+		       <reg>iheseum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christum) </seg>
+	             <orig>xp̄⋮</orig>
+		       <reg>christum </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+	             <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tecu(m)</seg>
+	             <orig>tecū</orig>
+		       <reg>tecum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)p(er)petuu(m)</seg>
+	             <orig>īpꝑetuū</orig>
+		       <reg>inperpetuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na)t</seg>
+		       <orig>reg̈t</orig>
+		       <reg>regnat</reg>
+	     </choice> <supplied>
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)o</seg>
+		       <orig>sc̄o</orig>
+		       <reg>sancto</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)u</seg>
+		       <orig>sp̄u</orig>
+		       <reg>spiritu</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+	             <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+	             <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> Custodi nos 
+	<choice>
+		       <seg type="lucas">d(omi)ne†</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice>
+      <lb/>ut 
+	<choice>
+		       <seg type="lucas">pupilla(m)</seg>
+	             <orig>pupillā</orig>
+		       <reg>pupillam</reg>
+	</choice> 
+	<choice>
+		       <seg type="lucas">oc(u)li.</seg>
+		       <orig>ocl͘i.</orig>
+		       <reg>oculi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(u)b</seg>
+	           <orig>Sḃ</orig> 
+		       <reg>Sub</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">umb(ra)</seg>
+	             <orig>umb̈</orig>
+		       <reg>umbra</reg>
+	     </choice>
+      <lb/>
+	<choice>
+		       <seg type="lucas">alar(um)</seg>
+	             <orig>alaꝝ</orig>
+		       <reg>alarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuar(um)</seg>
+	             <orig>tuaꝝ</orig>
+		       <reg>tuarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tege</seg>
+	             <orig>ꝓtege</orig>
+		       <reg>protege</reg>
+	     </choice> nos.</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0259_translation"
+       corresp="#p0259_transcription"> Into thy hands, O Lord, I commend my spirit. Versicle. 
+         Thou hast redeemed me, O Lord, the God of truth. <!-- drb psalm 30. --> 
+         I commend my spirit.  Glory [be to the Father, and to the Son, and to the Holy Spirit. 
+         As it was in the beginning, is now, and ever shall be, world without end. Amen.] Into thy hands, O Lord. 
+      Hymn.
+      O Thee, before the close of day
+      Creator of the world, we pray
+      that with Thy wonted favor, Thou
+      wouldst be our Guard and Keeper now.
+      	From all ill dreams defend our eyes,
+      from nightly fears and fantasies:
+      tread under foot our ghostly foe,
+      that no pollution we may know.
+      	<!-- Preces Latinae hymn "te lucis ante terminum" -->
+         Grant all of this, Father Almighty,
+         through Jesus Christ the Lord,
+         who with you in perpetuity
+         reigns with the Holy Spirit. Amen. <!-- Liturgies.net Compline hymns, same hymn -->
+         Versicle. Keep us as the apple of thy eye. Protect us under the shadow of thy wings. <!-- DRB psalm 16. -->
+   </ab>
+
+</div>

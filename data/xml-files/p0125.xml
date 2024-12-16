@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="55r"
+     xml:id="p0125">
+
+   <ab type="transcription"
+       xml:id="p0125_transcription"
+       corresp="#p0125_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cleme(n)s.</seg>
+		       <orig>clemēs.</orig>
+		       <reg>clemens.</reg>
+	     </choice> O pia. O dulcis
+<lb/>maria. 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dig(na)re</seg>
+		       <orig>Dig̈re</orig>
+		       <reg>Dignare</reg>
+	     </choice> me. lau
+<lb break="no"/>dare te. 
+	<choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sac(ra)ta;</seg>
+		       <orig>sac̈ta;</orig>
+		       <reg>sacrata;</reg>
+	     </choice> Da 
+	<choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">v(ir)tute(m)</seg>
+		       <orig>v̇tutē</orig>
+		       <reg>virtutem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(contra) </seg>
+		       <orig>ɔ̈</orig>
+		       <reg>contra </reg>
+	     </choice> hostes tuos; 
+	<choice>
+		       <seg type="lucas">Or(ati)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Oratio.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Co(n)cede</seg>
+		       <orig>Cōcede</orig>
+		       <reg>Concede</reg>
+	     </choice> nos. 
+	<choice>
+		       <seg type="lucas">An(tiphon).</seg>
+		       <orig>An̈.</orig>
+		       <reg>Antiphon.</reg>
+	     </choice> Ave
+<lb/>
+	     <choice>
+		       <seg type="lucas">regi(n)a</seg>
+		       <orig>regīa</orig>
+		       <reg>regina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">celor(um)</seg>
+		       <orig>celoꝝ</orig>
+		       <reg>celorum</reg>
+	     </choice> ave 
+	<choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)g(e)lo</seg>
+		       <orig>āgl̇o</orig>
+		       <reg>angelo</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+		       <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> salve radix 
+	<choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">q(ua)</seg>
+		       <orig>q̈</orig>
+		       <reg>qua</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)</seg>
+		       <orig>mū</orig>
+		       <reg>mun</reg>
+	     </choice>
+      <lb break="no"/>do lux 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> orta gaude 
+	<choice>
+		       <seg type="lucas">glo(rio)sa</seg>
+		       <orig>gl͘osa</orig>
+		       <reg>gloriosa</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> speciosa vale valde
+<lb/>decora 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+		       <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christum) </seg>
+		       <orig>xp̄⋮</orig>
+		       <reg>christum </reg>
+	     </choice> exo
+<lb break="no"/>ra. 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Ora 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+	          <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sc̄a</orig>
+		       <reg>sancta</reg>
+	     </choice> dei ge
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nit(ri)x;</seg>
+		       <orig>niṫx;</orig>
+		       <reg>nitrix;</reg>
+	     </choice> Ut 
+	<choice>
+		       <seg type="lucas">dig(ni).</seg>
+		       <orig>ḋiġ.</orig>
+		       <reg>digni.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Or(ati)o</seg>
+		       <orig>Or̄o</orig>
+		       <reg>Oratio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(ro)tege.</seg>
+		       <orig>Ꝓtege.</orig>
+		       <reg>Protege.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">S(ancte?)</seg>
+		       <orig>Ṡ</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nici</seg>
+		       <orig>dn̄ici</orig>
+		       <reg>dominici</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> O 
+	<choice>
+		       <seg type="lucas">lume(n)</seg>
+		       <orig>lumē</orig>
+		       <reg>lumen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)e</seg>
+		       <orig>eccl͘e</orig>
+		       <reg>ecclesie</reg>
+	     </choice>
+      <lb/>doctor 
+	<choice>
+		       <seg type="lucas">v(er)itatis</seg>
+		       <orig>v̇itatis</orig>
+		       <reg>veritatis</reg>
+	     </choice> rosa 
+	<choice>
+		       <seg type="lucas">pati(enti)e</seg>
+		       <orig>patīe</orig>
+		       <reg>patientie</reg>
+	     </choice>
+      <lb/>ebur castitatis 
+	<choice>
+		       <seg type="lucas">aq(uam)</seg>
+		       <orig>aq̈</orig>
+		       <reg>aquam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sapi(enti)e</seg>
+		       <orig>sapīe</orig>
+		       <reg>sapientie</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0125_translation"
+       corresp="#p0125_transcription"> <!-- obvm pg 218 --> O clement, o loving, o sweet Virgin Mary. Versicle. Make me worthy
+         to praise thee, holy
+         Virgin. Give me strength
+         against thine enemies. Collect.  Grant, we beseech Thee, [O Lord God,
+         that we Thy servants
+         may enjoy continual
+         health of mind and
+         body; and that,
+         through the glorious
+         intercession of
+         Blessed Mary, ever
+         Virgin, we may be delivered from present
+         sorrow and hereafter
+         enjoy eternal happiness. Through Christ
+         our Lord.] Antiphon. Hail, O Queen of Heaven enthroned,
+         Hail, by angels Mistress owned
+         Root of Jesse, Gate of morn,
+         Whence the world's true light was born.
+       Glorious Virgin, joy to thee,
+         Loveliest whom in Heaven they see,
+         Fairest thou where all are fair!
+         Plead with Christ our sins to spare. Versicle. Pray for us, O holy Mother of God, that we may be made worthy [of the promises of Christ.] Collect.
+         Defend
+         [Thy servants, O Lord,
+         by granting them the
+         gift of peace, and as
+         they have confidence
+         in the patronage of
+         Blessed Mary, ever
+         Virgin, so do Thou
+         make them safe from
+         all their enemies.
+         Through Christ our
+         Lord.] Saint Dominic. Antiphon. <!-- unsure if saint dominic is the right translation or if there is an expansion! -->
+         O Light of the
+         Church, doctor of truth, rose of patience, ivory of chastity, freely hast thou
+         dispensed the water
+         of wisdom: <!-- obvm 222 cont --> </ab>
+
+</div>

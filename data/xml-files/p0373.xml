@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="179r"
+     xml:id="p0373">
+
+   <ab type="transcription"
+       xml:id="p0373_transcription"
+       corresp="#p0373_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ulte(n)t</seg>
+		       <orig>ultēt</orig>
+		       <reg>ultent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lete(n)t(ur)</seg>
+		       <orig>letēt݃</orig>
+		       <reg>letentur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)re(n)</seg>
+		       <orig>q̄rē</orig>
+		       <reg>queren</reg>
+	     </choice>
+      <lb break="no"/>tes te: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dica(n)t</seg>
+		       <orig>dicāt</orig>
+		       <reg>dicant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+		       <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(ni)fi</seg>
+		       <orig>maġfi</orig>
+		       <reg>magnifi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cet(ur)</seg>
+		       <orig>cet݃</orig>
+		       <reg>cetur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(us)</seg>
+		       <orig>dn̄s</orig>
+	           <!-- page says dns, is this still dominus? -->
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">diligu(n)t</seg>
+		       <orig>diligūt</orig>
+		       <reg>diligunt</reg>
+	     </choice> saluta
+<lb break="no"/>re 
+	<choice>
+		       <seg type="lucas">tuu(m).</seg>
+		       <orig>tuū.</orig>
+		       <reg>tuum.</reg>
+	     </choice> Ego 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>āt</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)dic(us)</seg>
+		       <orig>mēdicꝰ</orig>
+		       <reg>mendicus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paup(er):</seg>
+		       <orig>pauꝑ:</orig>
+		       <reg>pauper:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">solicit(us)</seg>
+		       <orig>solicitꝰ</orig>
+		       <reg>solicitus</reg>
+	     </choice> es
+<lb/>mei. Adiutor 
+	<choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tec</seg>
+		       <orig>ꝓtec</orig>
+		       <reg>protec</reg>
+	     </choice>
+      <lb break="no"/>tor 
+	<choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> tu es: 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> ne tar
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">dav(er)is.</seg>
+		       <orig>dav̇is.</orig>
+		       <reg>daveris.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(m)placeat</seg>
+		       <orig>Cōplaceat</orig>
+		       <reg>Complaceat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">do(mine)</seg>
+		       <orig>doᵉ</orig>
+	           <!-- very well might be an e -->
+		       <reg>domine</reg>
+	     </choice>
+      <lb/>ut eripias me ad 
+	<choice>
+		       <seg type="lucas">adiuva(n)</seg>
+		       <orig>adiuvā</orig>
+		       <reg>adiuvan</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+		       <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">r(e)spice.</seg>
+		       <orig>r̄spice.</orig>
+		       <reg>respice.</reg>
+	     </choice>  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">B(ea)t(u)s</seg>
+		       <orig>Bt̄s</orig>
+		       <reg>Beatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(e)lligit</seg>
+		       <orig>tll͘igit</orig>
+		       <reg>telligit</reg>
+	     </choice>                        Sana 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> ii.
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">egenu(m)</seg>
+		       <orig>egenū</orig>
+		       <reg>egenum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">paupere(m):</seg>
+		       <orig>pauperē:</orig>
+		       <reg>pauperem:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> die
+<lb/>mala 
+	<choice>
+		       <seg type="lucas">lib(er)avit</seg>
+		       <orig>liḃavit</orig>
+		       <reg>liberavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">domin(us).</seg>
+		       <orig>dominꝰ.</orig>
+		       <reg>dominus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dn̄s</orig>
+		       <reg>Dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)s(er)vet</seg>
+		       <orig>ɔsv̇et</orig>
+		       <reg>conservet</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vivificet
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0373_translation"
+       corresp="#p0373_transcription">
+         
+         Let all that seek thee rejoice and be glad in thee: and let such as love thy salvation say always: 
+         The Lord be magnified.
+         But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector: O my God, be not slack.
+         <!-- drb psalm 39 cont. -->
+         Alleluia.
+         Be  pleased,  0 Lord,  to  deliver  me: look  down,  0  Lord,  to help  me.
+         <!-- office book for dom sisters, 429 -->
+         Blessed is he that understandeth concerning the needy and the poor: the Lord will deliver him in the evil day.
+         The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies.
+         <!-- drb psalm 40 cont. -->
+   </ab>
+
+</div>

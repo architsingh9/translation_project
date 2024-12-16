@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="93r"
+     xml:id="p0201">
+
+   <ab type="transcription"
+       xml:id="p0201_transcription"
+       corresp="#p0201_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ge(n)tib(us)</seg>
+		       <orig>gētib⋮</orig>
+		       <reg>gentibus</reg>
+	     </choice> te. Fiat pax 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)</seg>
+		       <orig>v̇</orig>
+		       <reg>vir</reg>
+	     </choice>
+      <lb break="no"/>tute tua: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">unda(n)tia</seg>
+		       <orig>hūndātia</orig>
+		       <reg>abundantia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ur)</seg>
+		       <orig>t݃</orig>
+		       <reg>tur</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rib(us)</seg>
+		       <orig>rib⋮</orig>
+		       <reg>ribus</reg>
+	     </choice> tuis. 
+	<choice>
+		       <seg type="lucas">Propt(er)</seg>
+		       <orig>Propṫ</orig>
+		       <reg>Propter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fr(at)res</seg>
+		       <orig>frēs</orig>
+		       <reg>fratres</reg>
+	     </choice> me
+<lb break="no"/>os 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)xi(m)os</seg>
+		       <orig>ꝓxīos</orig>
+		       <reg>proximos</reg>
+	     </choice> meos: 
+	<choice>
+		       <seg type="lucas">loq(ue)bar</seg>
+		       <orig>loq̄bar</orig>
+		       <reg>loquebar</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pace(m)</seg>
+		       <orig>pace⋮</orig>
+		       <reg>pacem</reg>
+	     </choice> de te. 
+	<choice>
+		       <seg type="lucas">Propt(er)</seg>
+		       <orig>Propṫ</orig>
+		       <reg>Propter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">domu(m)</seg>
+		       <orig>domū</orig>
+		       <reg>domum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">n(ost)ri:</seg>
+		       <orig>nr̄i:</orig>
+		       <reg>nostri:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)sivi</seg>
+		       <orig>q̄sivi</orig>
+		       <reg>quesivi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bo(n)a</seg>
+		       <orig>bōa</orig>
+		       <reg>bona</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi).</seg>
+		       <orig>ṫ.</orig>
+		       <reg>tibi.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> In 
+	<choice>
+		       <seg type="lucas">domu(m)</seg>
+		       <orig>domū</orig>
+		       <reg>domum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">leta(n)tes</seg>
+		       <orig>letātes</orig>
+		       <reg>letantes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ibim(us).</seg>
+		       <orig>ibimꝰ.</orig>
+		       <reg>ibimus.</reg>
+	     </choice>  
+      <lb/>AD te le
+<lb break="no"/>vavi 
+	<choice>
+	    <seg type="lucas">oc(u)lo(s)</seg>
+		       <orig>ocl͘oˢ</orig>
+		       <reg>oculos</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)itas.</seg>
+		       <orig>hītas.</orig>
+		       <reg>habitas.</reg>
+	     </choice> viii;
+<lb/>meos: 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)itas</seg>
+		       <orig>hītas</orig>
+		       <reg>habitas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cel(is).</seg>
+		       <orig>cel͘.</orig>
+		       <reg>celis.</reg>
+	     </choice> Ec
+<lb break="no"/>ce 
+	<choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)li</seg>
+		       <orig>ocl͘i</orig>
+		       <reg>oculi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vor(um):</seg>
+		       <orig>sv̇oꝝ:</orig> 
+		       <reg>servorum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)ib(us)</seg>
+		       <orig>māib⋮</orig>
+		       <reg>manibus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)nor(um)</seg>
+		       <orig>dn̄oꝝ</orig> 
+		       <reg>dominorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suor(um).</seg>
+		       <orig>suoꝝ.</orig>
+		       <reg>suorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)li</seg>
+		       <orig>ocl͘i</orig>
+		       <reg>oculi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)</seg>
+		       <orig>ā</orig>
+		       <reg>an</reg>
+	     </choice>
+      <lb break="no"/>cille 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)ib(us)</seg>
+		       <orig>māib⋮</orig>
+		       <reg>manibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> sue: 
+      <supplied>i</supplied>
+<lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">oc(u)li</seg>
+		       <orig>ocl͘i</orig>
+		       <reg>oculi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri</seg>
+		       <orig>nr̄i</orig>
+		       <reg>nostri</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)m</seg>
+		       <orig>dn̄m</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0201_translation"
+       corresp="#p0201_transcription">for them that love thee. 
+       Let peace be in thy strength: and abundance in thy towers. 
+       For the sake of my brethren, and of my neighbours, I spoke peace of thee.
+       Because of the house of the Lord our God, I have sought good things for thee. 
+       Antiphon. We shall go flying into the house of the Lord. <!-- psalm 121 plus the word 'flying' which needs checking -->
+       [Song] Qui habitas [Mode] viii;
+       To thee have I lifted up my eyes, who dwellest in heaven. 
+       Behold as the eyes of servants are on the hands of their masters, As the eyes of the handmaid are on the hands of her mistress: 
+       so are our eyes unto the Lord our God, <!-- psalm 122 cont --> </ab>
+
+</div>

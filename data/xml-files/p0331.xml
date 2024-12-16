@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="158r"
+     xml:id="p0331">
+
+   <ab type="transcription"
+       xml:id="p0331_transcription"
+       corresp="#p0331_translation">
+
+      <lb/>delicta 
+	<choice>
+		       <seg type="lucas">p(o)p(u)lor(um):</seg>
+	             <orig>ppl͘oꝝ:</orig> 
+		       <reg>populorum:</reg>
+	     </choice> ut a 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+	             <orig>pct̄oꝝ</orig>
+		       <reg>peccatorum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ror(um)</seg>
+	             <orig>nr̄oꝝ</orig>
+		       <reg>nostrorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nexib(us)</seg>
+	             <orig>nexib⋮</orig>
+		       <reg>nexibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+	             <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> fra
+<lb break="no"/>gilitate 
+	     <choice>
+		       <seg type="lucas">t(ra)ximus;</seg>
+	           <orig>ɔẗximu̇s;</orig>
+		       <reg>contraximus;</reg>
+	     </choice> tua be
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nig(ni)tate</seg>
+	             <orig>niġtate</orig>
+		       <reg>nignitate</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">libe(re)m(ur).</seg>
+	             <orig>libėm݃.</orig>
+		       <reg>liberemur.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+	             <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(?).</seg>
+	             <orig>ḃ.</orig>
+		       <reg>b?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">an(tiphon?).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon?.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">loq(ue)nte</seg>
+		       <orig>loq̄nte</orig>
+		       <reg>loquente</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ih(es)u</seg>
+	             <orig>iḣu</orig>
+		       <reg>ihesu</reg>
+	     </choice> ad turbas ec
+<lb break="no"/>ce 
+	<choice>
+		       <seg type="lucas">p(ri)nceps</seg>
+	             <orig>ṗnceps</orig>
+		       <reg>princeps</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+	             <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> accessit 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+ </orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>adoravit 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+	             <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dice(n)s</seg>
+	             <orig>dicēs</orig>
+		       <reg>dicens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+	             <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> fi
+<lb break="no"/>lia mea 
+	<choice>
+		       <seg type="lucas">mo(do)</seg>
+	             <orig>mō</orig>
+		       <reg>modo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">defu(n)cta</seg>
+		       <orig>defūcta</orig>
+		       <reg>defuncta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+	             <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ve(n)i</seg>
+	             <orig>vēi</orig>
+		       <reg>veni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)pone</seg>
+	             <orig>īpone</orig>
+		       <reg>impone</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">manu(m)</seg>
+	             <orig>manū</orig>
+		       <reg>manum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+	             <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ea(m)</seg>
+	             <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> vivet. 
+	<choice>
+		       <seg type="lucas">al(leluia).</seg>
+		       <orig>al͘.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">M(?)</seg>
+		       <orig>M̈</orig>
+		       <reg>M?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+	             <orig>ä.</orig>
+		       <reg>alleluia?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Co(n)fi</seg>
+	             <orig>Cōfi</orig>
+		       <reg>Confi</reg>
+	     </choice>
+      <lb break="no"/>de filia fides tua te 
+	<choice>
+		       <seg type="lucas">salva(m)</seg>
+	             <orig>salvā</orig>
+		       <reg>salvam</reg>
+	     </choice>
+      <lb/>fecit 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> sanata 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lier</seg>
+		       <orig>ml͘ier</orig>
+		       <reg>mulier</reg>
+	     </choice> ex
+<lb/>illa hora 
+	<choice>
+		       <seg type="lucas">al(leluia).</seg>
+		       <orig>al͘.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Do(minica?)</seg>
+	             <orig>Dö</orig>
+		       <reg>Dominica?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">xxv(?).</seg>
+		       <orig>xxv̈.</orig>
+		       <reg>xxv?.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>EXcita 
+	<choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati?)o.</seg>
+		       <orig>or̄o.</orig>
+		       <reg>orati?o.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tuor(um)</seg>
+	             <orig>tuoꝝ</orig>
+		       <reg>tuorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fideliu(m)</seg>
+	             <orig>fideliū</orig>
+		       <reg>fidelium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">volu(n)tates:</seg>
+	             <orig>volūtates:</orig>
+		       <reg>voluntates:</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0331_translation"
+       corresp="#p0331_transcription">and in your goodness set us free from the bonds of the sins we have committed in our weakness. Through our Lord jesus Christ,
+         your son, who lives and reigns with you in the unity of the Holy Spirit, god, for ever and ever. (Per. b(?). antiphon?)While Jesus was speaking to the crowds,
+         behold, a ruler came and worshiped him, saying, "Lord, my daughter has just died, but come, lay your hand on her and she will live." Alleulia. (M? Alleluia)
+   Be confident, daughter, because your faith has saved you and the woman has been saved since that hour. Alleluia. (Dominica? xxv(?)) Stir up the will of your faithful,
+   we pray, O Lord, that, striving more eagerly</ab>
+
+</div>

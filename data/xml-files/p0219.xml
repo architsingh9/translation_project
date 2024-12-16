@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="102r"
+     xml:id="p0219">
+
+   <ab type="transcription"
+       xml:id="p0219_transcription"
+       corresp="#p0219_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fid(en)t</seg>
+		       <orig>ɔfid̄t</orig>
+		       <reg>confident</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis. 
+	<choice>
+		       <seg type="lucas">Dom(us)</seg>
+		       <orig>Domꝰ</orig>
+		       <reg>Domus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">isr(ae)l</seg>
+		       <orig>isrl͘</orig>
+		       <reg>israel</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicite</seg>
+		       <orig>bn̄dicite</orig>
+		       <reg>benedicite</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dom(us)</seg>
+		       <orig>domꝰ</orig>
+		       <reg>domus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">aaro(n)</seg>
+		       <orig>aarō</orig>
+		       <reg>aaron</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicite</seg>
+		       <orig>bn̄dicite</orig>
+		       <reg>benedicite</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no.</seg>
+		       <orig>dn̄o.</orig>
+		       <reg>domino.</reg>
+	     </choice> Do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us)</seg>
+		       <orig>mꝰ</orig>
+		       <reg>mus</reg>
+	     </choice> levi 
+	<choice>
+		       <seg type="lucas">b(e)n(e)dicite</seg>
+		       <orig>bn̄dicite</orig>
+		       <reg>benedicite</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> ti
+<lb break="no"/>metis 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicite</seg>
+		       <orig>bn̄dicite</orig>
+		       <reg>benedicite</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no.</seg>
+		       <orig>dn̄o.</orig>
+		       <reg>domino.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">B(e)n(e)d(i)c(tu)s</seg>
+		       <orig>Bn̄dc̄s</orig>
+		       <reg>Benedictus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">syo(n):</seg>
+		       <orig>syō:</orig>
+		       <reg>syon:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)i</seg>
+		       <orig>hī</orig>
+		       <reg>habi</reg>
+	     </choice>
+      <lb break="no"/>tat 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(e)r(usa)l(um).</seg>
+		       <orig>irl͘⋮.</orig>
+		       <reg>ierusalum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">O(mn)ia</seg>
+		       <orig>Oīa</orig>
+		       <reg>Omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)cu(m)q(ue)</seg>
+		       <orig>q̄cūq⋮</orig>
+		       <reg>quecumque</reg>
+	     </choice> vo
+<lb break="no"/>luit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> fecit  
+<lb/>
+	     <choice>
+		       <seg type="lucas">COnfitemi(ni)</seg>
+		       <orig>COnfitemī</orig>
+		       <reg>COnfitemini</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	<choice>
+		       <seg type="lucas">Quonia(m).</seg>
+		       <orig>Quoniā.</orig>
+		       <reg>Quoniam.</reg>
+	     </choice> iii.
+<lb/>
+	     <choice>
+		       <seg type="lucas">bon(us):</seg>
+		       <orig>bonꝰ:</orig>
+		       <reg>bonus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+		       <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Co(n)fitemi(ni)</seg>
+		       <orig>Cōfitemī</orig>
+		       <reg>Confitemini</reg>
+	     </choice> deo 
+	<choice>
+		       <seg type="lucas">deor(um).</seg>
+		       <orig>deoꝝ.</orig>
+		       <reg>deorum.</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">fitemi(ni)</seg>
+		       <orig>Cōfitemī</orig>
+		       <reg>Confitemini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nor(um).</seg>
+		       <orig>dn̄oꝝ.</orig> 
+		       <reg>dominorum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> fa
+<lb break="no"/>cit mirabilia 
+	<choice>
+		       <seg type="lucas">mag(na)</seg>
+		       <orig>mag̈</orig>
+		       <reg>magna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sol(us).</seg>
+		       <orig>solꝰ.</orig>
+		       <reg>solus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> fecit celos 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tellc(t)u.</seg>
+		       <orig>ītellcū.</orig>
+		       <reg>intellctu.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0219_translation"
+       corresp="#p0219_transcription">and every one that trusteth in them. 
+         Bless the Lord, O house of Israel: bless the Lord, O house of Aaron. 
+         Bless the Lord, O house of Levi: you that fear the Lord, bless the Lord.
+         Blessed be the Lord out of Sion, who dwelleth in Jerusalem. Alleluia. 
+         Whatsoever the Lord hath pleased he hath done. <!-- psalm 134 -->[Song] Quoniam [Mode] iii. 
+         Praise the Lord, for he is good: for his mercy endureth for ever. 
+         Praise ye the God of gods.
+         Praise ye the Lord of lords.
+         Who alone doth great wonders.
+         Who made the heavens in understanding. Who <!-- psalm 135 cont -->
+   </ab>
+
+</div>

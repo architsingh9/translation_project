@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="63v"
+     xml:id="p0142">
+
+   <ab type="transcription"
+       xml:id="p0142_transcription"
+       corresp="#p0142_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ce(m)</seg>
+	             <orig>cē</orig>
+		       <reg>cem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi).</seg>
+	             <orig>ṫ.</orig>
+		       <reg>tibi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(e)n(e)d(i)c(tu)s</seg>
+		       <orig>Bn̄dc̄s</orig>
+		       <reg>Benedictus</reg>
+	     </choice> es 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice> doce
+<lb/>me 
+	<choice>
+		       <seg type="lucas">iustificat(i)o(n)es</seg>
+	             <orig>iustificatōes</orig>
+		       <reg>iustificationes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(s).</seg>
+		       <orig>tuaˢ.</orig> 
+		       <reg>tuas.</reg>
+	     </choice> In
+<lb/>labiis meis: 
+	<choice>
+		       <seg type="lucas">p(ro)nu(n)tiavi</seg>
+	             <orig>ꝓnūtiavi</orig>
+		       <reg>pronuntiavi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+	             <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice>
+      <lb/>iudicia oris tui. In via
+<lb/>
+	     <choice>
+		       <seg type="lucas">testi(m)onior(um)</seg>
+	             <orig>testīoniorꝝ</orig>
+		       <reg>testimoniorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuor(um)</seg>
+	             <orig>tuorꝝ</orig>
+		       <reg>tuorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">delca(n)tus</seg>
+		       <orig>delc̄atus</orig>
+		       <reg>delcantus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">su(m):</seg>
+	             <orig>sū:</orig>
+		       <reg>sum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī </orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+	              <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> divitiis. In
+<lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)datis</seg>
+	             <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">ex(er)cebor:</seg>
+		       <orig>eẋcebor:</orig>
+		       <reg>exercebor:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">co(n)</seg>
+	             <orig>cō</orig>
+		       <reg>con</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sid(er)abo</seg>
+	               <orig>siḋabo</orig>
+		       <reg>siderabo</reg>
+	     </choice> vias tuas. In ius
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tificat(i)o(n)ib(us)</seg>
+	             <orig>tificatōib⋮</orig>
+		       <reg>tificationibus</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">meditabo(r):</seg>
+	             <orig>meditabȯ:</orig>
+		       <reg>meditabor:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> obliviscar 
+	<choice>
+		       <seg type="lucas">s(er)mo(n)es</seg>
+	             <orig>sṁōes</orig>
+		       <reg>sermones</reg>
+	     </choice> tuos.
+<lb/>
+	     <choice>
+		       <seg type="lucas">REt(ri)bue</seg>
+	             <orig>REṫbue</orig>
+		       <reg>REtribue</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vo</seg>
+	             <orig>sv̇o</orig>
+		       <reg>servo</reg>
+	     </choice> tuo: vivi
+<lb break="no"/>fica me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">custodia(n)</seg>
+	             <orig>custodiā</orig>
+		       <reg>custodian</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)</seg>
+		       <orig>ṡ</orig>
+		       <reg>ser</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mo(n)es</seg>
+	             <orig>mōes</orig>
+		       <reg>mones</reg>
+	     </choice> tuos. Revela ocu
+<lb break="no"/>los meos: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	              <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sid(er)abo</seg>
+	             <orig>ɔsiḋabo</orig>
+		       <reg>considerabo</reg>
+	     </choice> mira
+<lb break="no"/>bilia de lege tua. Incola
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0142_translation"
+       corresp="#p0142_transcription">  that I may not sin against thee. Blessed art thou, O Lord: teach me thy justifications. 
+         With my lips I have pronounced all the judgments of thy mouth.
+         I have been delighted in the way of thy testimonies, as in all riches. I will meditate on thy commandments: and I will consider thy ways. 
+         I will think of thy justifications: I will not forget thy words. 
+         Give bountifully to thy servant, enliven me: and I shall keep thy words. 
+         Open thou my eyes: and I will consider the wondrous things of thy law. I am a sojourner on the earth: <!-- ps 118 cont --> </ab>
+
+</div>

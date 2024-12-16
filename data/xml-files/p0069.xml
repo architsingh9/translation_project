@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="27r"
+     xml:id="p0069">
+
+   <ab type="transcription"
+       xml:id="p0069_transcription"
+       corresp="#p0069_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)is</seg>
+		       <orig>sc̄is</orig>
+		       <reg>sanctis</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)erari.</seg>
+		       <orig>mūerari.</orig>
+		       <reg>munerari.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Salvu(m)</seg>
+		       <orig>Salvū</orig>
+		       <reg>Salvum</reg>
+	     </choice> fac 
+	<choice>
+		       <seg type="lucas">p(o)p(u)l(u)m</seg>
+		       <orig>ppl͘m</orig>
+		       <reg>populum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mi(n)e</seg>
+		       <orig>mīe</orig>
+		       <reg>mine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dic</seg>
+		       <orig>bn̄dic</orig>
+		       <reg>benedic</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">he(re)ditati</seg>
+		       <orig>hėditati</orig>
+		       <reg>hereditati</reg>
+	     </choice>
+      <lb/>tue. Et rege eos 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> extol
+<lb break="no"/>le illos 
+	<choice>
+		       <seg type="lucas">usq(ue)</seg>
+		       <orig>usq⋮</orig>
+		       <reg>usque</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m).</seg>
+		       <orig>īeṫnū.</orig>
+		       <reg>ineternum.</reg>
+	     </choice> Per
+<lb/>
+	     <choice>
+		       <seg type="lucas">sing(u)los</seg>
+		       <orig>singl͘os</orig>
+		       <reg>singulos</reg>
+	     </choice> dies : 
+	<choice>
+		       <seg type="lucas">b(e)n(e)dicim(us)</seg>
+		       <orig>bn̄dicimꝰ</orig>
+		       <reg>benedicimus</reg>
+	     </choice>
+      <lb/>te. Et 
+	<choice>
+		       <seg type="lucas">lauda(mus)</seg>
+		       <orig>laudāꝰ</orig>
+		       <reg>laudamus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nom(en)</seg>
+		       <orig>nom̄</orig>
+		       <reg>nomen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(u)m</seg>
+		       <orig>scl͘m</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li.</seg>
+		       <orig>scl͘i.</orig>
+		       <reg>seculi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dig(na)re</seg>
+		       <orig>Dig̈re</orig>
+		       <reg>Dignare</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> die isto : sine 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)to</seg>
+		       <orig>pct̄o</orig>
+		       <reg>peccato</reg>
+	     </choice>
+      <lb/>nos custodire. 
+	<choice>
+		       <seg type="lucas">Misere(re)</seg>
+		       <orig>Miserė</orig>
+		       <reg>Miserere</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ri</seg>
+		       <orig>nr̄i</orig>
+		       <reg>nostri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> : 
+	<choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri.</seg>
+		       <orig>nr̄i.</orig>
+		       <reg>nostri.</reg>
+	     </choice> Fi
+<lb break="no"/>at 
+	<choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+		       <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> nos :
+<lb/>
+	     <choice>
+		       <seg type="lucas">que(m)admodu(m)</seg>
+		       <orig>quēadmodū</orig>
+		       <reg>quemadmodum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avi(mus)</seg>
+		       <orig>sꝑavīꝰ</orig>
+		       <reg>speravimus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>te. In te 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)avi</seg>
+		       <orig>sꝑavi</orig>
+		       <reg>speravi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fu(n)dar</seg>
+		       <orig>ɔfūdar</orig>
+		       <reg>confundar</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m).</seg>
+		       <orig>īeṫnū.</orig>
+		       <reg>ineternum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Versicle.</reg>
+	     </choice> Ora 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0069_translation"
+       corresp="#p0069_transcription"> Make them to be numbered with Thy saints:
+         in glory everlasting. O Lord, Save Thy people: and bless Thine inheritance. 
+         And govern them: and lift them up for ever. Day by day: we magnify Thee. 
+         And we praise Thy Name for ever: yea, for ever and ever. Vouchsafe, O Lord, this 
+         day: to keep us without sin. O Lord, have mercy upon us; have mercy upon us. 
+         O Lord, let Thy mercy be upon us: as we have hoped in Thee. O Lord, in Thee have I 
+         hoped: let me not be confounded for ever. Versicle. Pray for us
+       
+         <!-- OBDS pg 44, 46 -->
+         
+   </ab>
+
+</div>

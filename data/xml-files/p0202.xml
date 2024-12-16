@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="93v"
+     xml:id="p0202">
+
+   <ab type="transcription"
+       xml:id="p0202_transcription"
+       corresp="#p0202_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)r(u)m</seg>
+		       <orig>nr̄m</orig>
+		       <reg>nostrum</reg>
+	     </choice> donec 
+	<choice>
+		       <seg type="lucas">mise(re)at(ur)</seg>
+		       <orig>misėat݃</orig>
+		       <reg>misereatur</reg> 
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri.</seg>
+		       <orig>nr̄i.</orig>
+		       <reg>nostri.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Misere(re)</seg>
+		       <orig>Miserė</orig>
+		       <reg>Miserere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri</seg>
+		       <orig>nr̄i</orig>
+		       <reg>nostri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ri:</seg>
+		       <orig>nr̄i:</orig>
+		       <reg>nostri:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltu(m)</seg>
+		       <orig>ml͘tū</orig>
+		       <reg>multum</reg>
+	     </choice> repleti 
+	<choice>
+		       <seg type="lucas">sum(us)</seg>
+		       <orig>sumꝰ</orig>
+		       <reg>sumus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">despect(i)o(n)e.</seg>
+		       <orig>despectōe.</orig>
+		       <reg>despectione.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig> 
+		       <reg>Quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltu(m)</seg>
+		       <orig>ml͘tū</orig>
+		       <reg>multum</reg>
+	     </choice> re
+<lb break="no"/>pleta 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra:</seg>
+		       <orig>nr̄a:</orig>
+		       <reg>nostra:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">obp(ro)b(i)</seg>
+		       <orig>obpḃ</orig>
+		       <reg>obprobi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>ū</orig>
+		       <reg>um</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">unda(n)tib(us)</seg>
+		       <orig>hūndātib⋮</orig>
+		       <reg>abundantibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">despect(i)o</seg>
+		       <orig>despėctō</orig>
+		       <reg>despectio</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sup(er)b(is).</seg>
+		       <orig>suꝑḃ.</orig> 
+		       <reg>superbis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Q̇</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(ab)itas</seg>
+		       <orig>hītas</orig>
+		       <reg>habitas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cel(is)</seg>
+		       <orig>cel͘</orig>
+		       <reg>celis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is).</seg>
+		       <orig>noḃ.</orig>
+		       <reg>nobis.</reg>
+	     </choice>  
+      <lb/>NIsi 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> do
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">min(us)</seg>
+		       <orig>minꝰ</orig>
+		       <reg>minus</reg>
+	     </choice> <seg next="#seg">e⸗</seg>            
+	<choice>
+		       <seg type="lucas">Adiutoriu(m).</seg>
+		       <orig>Adiutoriū.</orig>
+		       <reg>Adiutorium.</reg>
+	     </choice> I.
+<lb/><seg xml:id="seg">rat</seg> 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> dicat 
+	<choice>
+		       <seg type="lucas">n(un)c</seg>
+		       <orig>n̄c</orig>
+		       <reg>nunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(isi)</seg>
+		       <orig>ṅ</orig>
+		       <reg>nisi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> erat 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> nobis.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Cu(m)</seg>
+		       <orig>Cū</orig>
+		       <reg>Cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exurgere(n)t</seg>
+		       <orig>exurgerēt</orig>
+		       <reg>exurgerent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(m)i(n)es</seg>
+		       <orig>hoīes</orig>
+		       <reg>homines</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+         <lb/>nos: forte vivos <supplied>deglu⸗</supplied>
+<lb/><supplied>
+	<choice>
+		       <seg type="lucas">tisse(n)t</seg>
+		       <orig>tissēt</orig>
+		       <reg>tissent</reg>
+	     </choice> nos. 
+	<choice>
+		       <seg type="lucas">Cu(m)</seg>
+		       <orig>Cū</orig>
+		       <reg>Cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">irasce(re)t(ur)</seg>
+		       <orig>irascėt̄</orig>
+		       <reg>irasceretur</reg>
+	     </choice>
+</supplied>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0202_translation"
+       corresp="#p0202_transcription">unto the Lord our God, until he have mercy on us. 
+         Have mercy on us, O Lord, have mercy on us: for we are greatly filled with contempt. 
+         For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud. 
+         Antiphon. Who dwellest in heaven, have mercy on us. <!-- drb psalm 122 -->
+         [Song] Adiutorium [Mode] I. 
+         If it had not been that the Lord was with us, let Israel now say:
+         If it had not been that the Lord was with us, When men rose up against us, 
+         Perhaps they had swallowed us up alive. When their fury was enkindled against us, <!-- psalm 123 cont --> </ab>
+
+</div>

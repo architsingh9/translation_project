@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="237r"
+     xml:id="p0489">
+
+   <ab type="transcription"
+       xml:id="p0489_transcription"
+       corresp="#p0489_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">g(e)n(er)at(i)o(n)is.</seg>
+		       <orig>gṅatōis.</orig>
+		       <reg>generationis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Perma(n)et</seg>
+		       <orig>Permāet</orig>
+		       <reg>Permanet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)et(er)</seg>
+		       <orig>īeṫ</orig>
+		       <reg>ineter</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nu(m)</seg>
+		       <orig>nū</orig>
+		       <reg>num</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(e)c(t)u</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
+	     </choice> dei: 
+	<choice>
+		       <seg type="lucas">mi(sericordi)a(m)</seg>
+		       <orig>mīa⋮</orig>
+		       <reg>misericordiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)i</seg>
+		       <orig>v̇i</orig>
+		       <reg>veri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tate(m)</seg>
+		       <orig>tatē</orig>
+		       <reg>tatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)s</seg>
+		       <orig>q̇s</orig>
+		       <reg>quis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">req(ui)ret.</seg>
+		       <orig>req̇ret.</orig>
+		       <reg>requiret.</reg>
+	     </choice> Sic
+<lb/>
+	     <choice>
+		       <seg type="lucas">psalmu(m)</seg>
+		       <orig>psalmū</orig>
+		       <reg>psalmum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dica(m)</seg>
+		       <orig>dicā</orig>
+		       <reg>dicam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(min)i</seg>
+		       <orig>nōi</orig>
+		       <reg>nomini</reg>
+	     </choice> 
+ tuo in
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scl͘i:</orig>
+		       <reg>seculi:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">redda(m)</seg>
+		       <orig>reddā</orig>
+		       <reg>reddam</reg>
+	     </choice> vota me
+<lb break="no"/>a de die in 
+	<choice>
+		       <seg type="lucas">die(m).</seg>
+		       <orig>diē.</orig>
+		       <reg>diem.</reg>
+	     </choice>
+      <lb/>EXaudi 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o(nem)</seg>
+		       <orig>or̄o⋮</orig>
+		       <reg>orationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dep(re)cor:</seg>
+		       <orig>dep̄cor:</orig>
+		       <reg>deprecor:</reg>
+	     </choice> 
+ a 
+	<choice>
+		       <seg type="lucas">ti(m)ore</seg>
+		       <orig>tīore</orig>
+		       <reg>timore</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imici</seg>
+		       <orig>īimici</orig>
+		       <reg>inimici</reg>
+	     </choice> eri
+<lb break="no"/>pe 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> Protexisti
+<lb/>me a
+	     <choice>
+		       <seg type="lucas">ve(n)tu</seg>
+		       <orig>ɔvētu</orig>
+		       <reg>conventu</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">maligna(n)tiu(m):</seg>
+		       <orig>malignātiū:</orig>
+		       <reg>malignantium:</reg>
+	     </choice>
+      <lb/>a 
+	<choice>
+		       <seg type="lucas">m(u)ltitudi(n)e</seg>
+		       <orig>ml͘titudīe</orig>
+		       <reg>multitudine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)a(n)tiu(m).</seg>
+		       <orig>oꝑātiū.</orig>
+		       <reg>operantium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q̇a</orig>
+		       <reg>Quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">exacuer(un)t</seg>
+		       <orig>exacuer̄t</orig>
+		       <reg>exacuerunt</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">gladiu(m)</seg>
+		       <orig>gladiū</orig>
+		       <reg>gladium</reg>
+	     </choice> ling
+<lb break="no"/>uas suas; 
+	<choice>
+		       <seg type="lucas">i(n)te(n)der(un)t</seg>
+		       <orig>ītēder̄t</orig>
+		       <reg>intenderunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">arcu(m)</seg>
+		       <orig>arcū</orig>
+		       <reg>arcum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">re(m)</seg>
+		       <orig>rē</orig>
+		       <reg>rem</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">amara(m):</seg>
+		       <orig>amarā:</orig>
+		       <reg>amaram:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">sagitte(n)t</seg>
+		       <orig>sagittēt</orig>
+		       <reg>sagittent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">occ(u)l</seg>
+		       <orig>occl͘</orig>
+		       <reg>occul</reg>
+	     </choice>
+      <lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">i(m)mac(u)latu(m).</seg>
+		       <orig>īmacl͘atū.</orig>
+		       <reg>immaculatum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(u)bito</seg>
+		       <orig>Sḃito</orig>
+		       <reg>Subito</reg>
+	     </choice> sa⸗
+16
+<lb/>
+	     + iniquitatem. <!--so. basically this was written in and inserted
+	                       in the margin after the initial text was written.
+	                       I am leaving it here because it is part of the book 
+	                       and definitely should be included somehow, but I 
+	                       need to talk to Dr. Flanders and Dr. Boeckeler 
+	                       about the best way to do that. So just leave it as
+	                       is for now if you run into this while digitizing :) -->
+</ab>
+
+   <ab type="translation"
+       xml:id="p0489_translation"
+       corresp="#p0489_transcription">his years even to generation and generation. 
+         He abideth for ever in the sight of God: his mercy and truth who shall search? 
+         So will I sing a psalm to thy name for ever and ever: that I may pay my vows from day to day. 
+         <!-- DRB psalm 60 --> 
+         Hear, O God, my prayer, when I make supplication to thee: deliver my soul from the fear of the enemy. 
+         hou hast protected me from the assembly of the malignant; from the multitude of the workers of iniquity. <!-- the word iniquity is the inserted word at the end. -->
+         For they have whetted their tongues like a sword; they have bent their bow a bitter thing, 
+         To shoot in secret the undefiled. They will shoot at him on a sudden,
+         <!-- DRB psalm 63, continues -->
+         
+         
+   </ab>
+
+</div>

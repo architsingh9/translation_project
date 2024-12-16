@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="130r" xml:id="p0275">
+
+      <ab type="transcription" xml:id="p0275_transcription" corresp="#p0275_translation">
+            <lb/>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">via(m)</seg>
+                  <orig>viā</orig>
+                  <reg>viam</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">possi(n)t</seg>
+                  <orig>possīt</orig>
+                  <reg>possint</reg>
+            </choice> redire iusticie <lb/>
+            <choice>
+                  <seg type="lucas">v(er)itati(s)</seg>
+                  <orig>v̇itatiˢ</orig>
+                  <reg>veritatis</reg>
+            </choice> tue <choice>
+                  <seg type="lucas">lum(en)</seg>
+                  <orig>lum̄</orig>
+                  <reg>lumen</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">o(ste)ndis:</seg>
+                  <orig>on̄dis:</orig>
+                  <reg>ostendis:</reg>
+            </choice> da <lb/>
+            <choice>
+                  <seg type="lucas">cu(n)ctis</seg>
+                  <orig>cūctis</orig>
+                  <reg>cunctis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(christi)ana</seg>
+                  <orig>xⁱana</orig>
+                  <reg>christiana</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ro)fessio(n)e</seg>
+                  <orig>ꝓfessiōe</orig> 
+                  <reg>professione</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ce(n)</seg>
+                  <orig>cē</orig>
+                  <reg>cen</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">se(n)t(ur).</seg>
+                  <orig>sēt݃.</orig> 
+                  <reg>sentur.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice> illa <choice>
+                  <seg type="lucas">respue(re)</seg>
+                  <orig>respuė</orig>
+                  <reg>respuere</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ue)</seg>
+                  <orig>q̄</orig>
+                  <reg>que</reg>
+            </choice> huic <choice>
+                  <seg type="lucas">i(n)i</seg>
+                  <orig>īi</orig>
+                  <reg>ini</reg>
+            </choice>
+            <lb break="no"/>mica <choice>
+                  <seg type="lucas">s(un)t</seg>
+                  <orig>sṫ</orig>
+                  <reg>sunt</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">no(m)i(ni);</seg>
+                  <orig>nōi;</orig>
+                  <reg>nomini;</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice> ea <choice>
+                  <seg type="lucas">q(ue)</seg>
+                  <orig>q̄</orig>
+                  <reg>que</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(un)t</seg>
+                  <orig>sṫ</orig>
+                  <reg>sunt</reg>
+            </choice> apta <lb/>sectari. <choice>
+                  <seg type="lucas">P(er).</seg>
+                  <orig>Ꝑ.</orig>
+                  <reg>Per.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Do(minica).</seg>
+                  <orig>Dö.</orig>
+                  <reg>Dominica.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(terica).</seg>
+                  <orig>in̈.</orig>
+                  <reg>terita.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">or(emus?).</seg>
+                  <orig>or̄.</orig>
+                  <reg>oremus.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">DE(us)</seg>
+                  <orig>DEꝰ</orig>
+                  <reg>DEus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(ui)</seg>
+                  <orig>q̇</orig>
+                  <reg>qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">fideliu(m)</seg>
+                  <orig>fideliū</orig>
+                  <reg>fidelium</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">me(n)tes</seg>
+                  <orig>mētes</orig>
+                  <reg>mentes</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">uni(us)</seg>
+                  <orig>uniꝰ</orig>
+                  <reg>unius</reg>
+            </choice> efficis <choice>
+                  <seg type="lucas">volu(n)tatis;</seg>
+                  <orig>volūtatis;</orig>
+                  <reg>voluntatis;</reg>
+            </choice> da <lb/>
+            <choice>
+                  <seg type="lucas">p(o)p(u)lis</seg>
+                  <orig>ppl͘is</orig>
+                  <reg>populis</reg>
+            </choice> tuis id amare <choice>
+                  <seg type="lucas">q(uo)d</seg>
+                  <orig>qḋ</orig>
+                  <reg>quod</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(re)</seg>
+                  <orig>p̄</orig>
+                  <reg>pre</reg>
+            </choice>
+            <lb break="no"/>cipis id <choice>
+                  <seg type="lucas">desid(er)are</seg>
+                  <orig>desiḋare</orig>
+                  <reg>desiderare</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">q(uo)d</seg>
+                  <orig>qḋ</orig>
+                  <reg>quod</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ro)mit</seg>
+                  <orig>ꝓmit</orig>
+                  <reg>promit</reg>
+            </choice>
+            <lb break="no"/>tis: ut <choice>
+                  <seg type="lucas">i(n)t(er)</seg>
+                  <orig>īṫ</orig>
+                  <reg>inter</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">mu(n)danas</seg>
+                  <orig>mūdanaṡ</orig>
+                  <reg>mundanas</reg>
+            </choice> vari <lb break="no"/>etates. ibi fixa <choice>
+                  <seg type="lucas">n(ost)ra</seg>
+                  <orig>nr̄a</orig>
+                  <reg>nostra</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">si(n)t</seg>
+                  <orig>sit̄</orig>
+                  <reg>sint</reg>
+            </choice> cor <lb break="no"/>da; ubi <choice>
+                  <seg type="lucas">v(er)a</seg>
+                  <orig>v̇a</orig>
+                  <reg>vera</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(un)t</seg>
+                  <orig>sṫ</orig>
+                  <reg>sunt</reg>
+            </choice> gaudia: <choice>
+                  <seg type="lucas">P(er).</seg>
+                  <orig>Ꝑ.</orig>
+                  <reg>Per.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">DE(us)</seg>
+                  <orig>DEꝰ</orig>
+                  <reg>DEus</reg>
+            </choice> a quo <choice>
+                  <seg type="lucas">Do(minica)</seg>
+                  <orig>Dö</orig>
+                  <reg>Dominica</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(quarta).</seg>
+                  <orig>iiii.</orig>
+                  <reg>quarta.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">or(emus?).</seg>
+                  <orig>or̄.</orig>
+                  <reg>oremus.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">bo(na)</seg>
+                  <orig>bö</orig>
+                  <reg>bona</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">cu(n)cta</seg>
+                  <orig>cūcta</orig>
+                  <reg>cuncta</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ro)ced(un)t:</seg>
+                  <orig>ꝓced̄t:</orig>
+                  <reg>procedunt:</reg>
+            </choice> lar⸗ </ab> 
+
+      <ab type="translation" xml:id="p0275_translation" corresp="#p0275_transcription"> O God, who show to 
+        the erring the light of Your truth that they may be able to return to the path
+            of righteousness; grant that all who by their profession are accounted Christians may reject 
+            whatsoever is becoming to it: through our Lord. <!-- Continued, DM 444-->  Third Sunday. 
+            Let us pray. O God,· in whom the minds of the faithful
+            are united in one will, grant that Your people may love
+            the things You command and desire the things You promise; that amid the manifold 
+            changes of the world our hearts may be fixed, where true joys are to be
+            found: through our Lord. <!-- DM 450-51 -->  Fourth Sunday.
+            Let us pray. O God, from whom all good things come,
+            give us,  <!-- continues, DM 454 --> </ab>
+
+</div>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="101r"
+     xml:id="p0217">
+
+   <ab type="transcription"
+       xml:id="p0217_transcription"
+       corresp="#p0217_translation">
+
+      <lb/>ego 
+	<choice>
+	      
+		       <seg type="lucas">(cog)novi</seg>
+		       <orig>ɔgnovi</orig>
+		       <reg>cognovi</reg>
+	     </choice> 
+	     <choice>
+	             <seg type="lucas">q(uod)</seg>
+		       <orig>ȹ</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">magn(us)</seg>
+		       <orig>magnꝰ</orig>
+		       <reg>magnus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s:</seg>
+		       <orig>dn̄s:</orig>
+		       <reg>dominus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(oste)r</seg>
+		       <orig>nr̄</orig>
+		       <reg>noster</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)</seg>
+		       <orig>p̄</orig>
+		       <reg>pre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> diis.
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mn)ia</seg>
+		       <orig>Oīa</orig>
+		       <reg>Omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)cu(m)q(ue)</seg>
+		       <orig>q̄cūq⋮</orig>
+		       <reg>quecumque</reg>
+	     </choice> voluit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> fe
+<lb break="no"/>cit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> celo 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra:</seg>
+		       <orig>t͘ra:</orig>
+		       <reg>terra:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> mari 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>oīb⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> abissis. 
+	<choice>
+		       <seg type="lucas">Educe(n)s</seg>
+		       <orig>Educēs</orig>
+		       <reg>Educens</reg>
+	     </choice> nu
+<lb break="no"/>bes ab 
+	<choice>
+		       <seg type="lucas">extre(m)o</seg>
+		       <orig>extrēo</orig>
+		       <reg>extremo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)re:</seg>
+		       <orig>t͘re:</orig>
+		       <reg>terre:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fulgu(r)a</seg>
+		       <orig>fulgu͘a</orig>
+		       <reg>fulgura</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pluvia(m)</seg>
+		       <orig>pluviā</orig>
+		       <reg>pluviam</reg>
+	     </choice> fecit. 
+	<choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)ducit</seg>
+	           <orig>ꝓducit</orig>
+		       <reg>producit</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ve(n)tos</seg>
+		       <orig>vētos</orig>
+		       <reg>ventos</reg>
+	     </choice> de 
+	<choice>
+		       <seg type="lucas">th(er)auris</seg>
+		       <orig>tḣauris</orig>
+		       <reg>therauris</reg>
+	     </choice> suis: 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>cussit 
+	<choice>
+		       <seg type="lucas">p(re)moge(n)ita</seg>
+		       <orig>ṗmogēita</orig>
+		       <reg>premogenita</reg>
+	     </choice> egipti ab
+<lb/>
+	     <choice>
+		       <seg type="lucas">ho(m)i(n)e</seg>
+		       <orig>hoīe</orig>
+		       <reg>homine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">usq(ue)</seg>
+		       <orig>usq⋮</orig>
+		       <reg>usque</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">pec(us).</seg>
+		       <orig>pecꝰ.</orig>
+		       <reg>pecus.</reg>
+	     </choice> Emi
+<lb break="no"/>sit 
+	<choice>
+		       <seg type="lucas">sig(na)</seg>
+		       <orig>sig̈</orig>
+		       <reg>signa</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)digia</seg>
+	           <orig>ꝓdigia</orig>
+		       <reg>prodigia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> medio
+<lb/>tui egipte: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pharaone(m)</seg>
+		       <orig>pharaonē</orig>
+		       <reg>pharaonem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> servos 
+	<choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)cussit</seg>
+		       <orig>ꝑcussit</orig>
+		       <reg>percussit</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ge(n)tes</seg>
+		       <orig>gētes</orig>
+		       <reg>gentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltas:</seg>
+		       <orig>ml͘tas:</orig>
+		       <reg>multas:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> occidit re
+<lb break="no"/>ges fortes. 
+	<choice>
+		       <seg type="lucas">Se(h)o(n)</seg>
+		       <orig>Seō</orig>
+		       <reg>Sehon</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">rege(m)</seg>
+		       <orig>regē</orig>
+		       <reg>regem</reg>
+	     </choice> amor⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0217_translation"
+       corresp="#p0217_transcription"> I have known that the Lord is great, and our God is above all gods. 
+         Whatsoever the Lord hath pleased he hath done, in heaven, in earth, in the sea, and in all the deeps. 
+         He bringeth up clouds from the end of the earth: he hath made lightnings for the rain. He bringeth forth winds out of his stores: 
+         He slew the firstborn of Egypt from man even unto beast. 
+         He sent forth signs and wonders in the midst of thee, O Egypt: upon Pharao, and upon all his servants. 
+         He smote many nations, and slew mighty kings: 
+         Sehon king of the Amorrhites, <!-- psalm 134 cont --></ab>
+
+</div>

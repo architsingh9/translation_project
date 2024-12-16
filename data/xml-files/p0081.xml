@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="33r"
+     xml:id="p0081">
+
+   <ab type="transcription"
+       xml:id="p0081_transcription"
+       corresp="#p0081_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)crepatio(n)es</seg>
+		       <orig>īcrepatōes</orig>
+		       <reg>increpationes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(o)p(u)lis.</seg>
+		       <orig>ppl͘is.</orig>
+		       <reg>populis.</reg>
+	     </choice> Ad al
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">liga(n)dos</seg>
+		       <orig>ligādos</orig>
+		       <reg>ligandos</reg>
+	     </choice> reges 
+	<choice>
+		       <seg type="lucas">eo(rum)</seg>
+		       <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)pe</seg>
+		       <orig>ɔpe</orig>
+		       <reg>conpe</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">dib(us):</seg>
+		       <orig>dib⋮:</orig>
+		       <reg>dibus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> nobiles 
+	<choice>
+		       <seg type="lucas">eo(rum)</seg>
+		       <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ma
+<lb break="no"/>nicis ferreis. Ut 
+	<choice>
+		       <seg type="lucas">facia(n)t</seg>
+		       <orig>faciāt</orig>
+		       <reg>faciant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis 
+	<choice>
+		       <seg type="lucas">iudiciu(m)</seg>
+		       <orig>iudiciū</orig>
+		       <reg>iudicium</reg>
+	     </choice> 
+
+	     <choice>
+		       <seg type="lucas">(con)sc(ri)ptu(m):</seg>
+		       <orig>ɔscṗtū:</orig>
+		       <reg>conscriptum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice>
+      <lb/>hec 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)is</seg>
+		       <orig>sc̄is</orig>
+		       <reg>sanctis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)is</seg>
+		       <orig>sc̄is</orig>
+		       <reg>sanctis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> laudate
+<lb/>
+	     <choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">firmame(n)to</seg>
+		       <orig>firmamēto</orig>
+		       <reg>firmamento</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tutis</seg>
+		       <orig>v̇tutis</orig>
+		       <reg>virtutis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice>
+      <lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tutib(us)</seg>
+		       <orig>v̇tutib⋮</orig>
+		       <reg>virtutibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice>
+      <lb/>laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltitudi</seg>
+		       <orig>ml͘titudi</orig>
+		       <reg>multitudi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ne(m)</seg>
+		       <orig>nē</orig>
+		       <reg>nem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(ni)tudi(ni)s</seg>
+		       <orig>maġtudīs</orig>
+		       <reg>magnitudinis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> sono tube: lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">psalt(er)io</seg>
+		       <orig>psalṫio</orig>
+		       <reg>psalterio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> cithara.
+<lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ty(m)pa(n)o</seg>
+		       <orig>t̄ypāo</orig>
+		       <reg>tympano</reg>
+	     </choice> et
+<lb/>choro: laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> cordis
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0081_translation"
+       corresp="#p0081_transcription">
+         chastisements among the people: 
+         To bind their kings with fetters, 
+         and their nobles with manacles of iron. 
+         To execute upon them the judgment that is written: 
+         this glory is to all his saints.
+         <!-- DRB Psalm 149.7-9 -->
+         Praise ye the Lord in his holy places; 
+         praise ye him in the firmament of his power. 
+         Praise ye him for his mighty acts: 
+         praise ye him according to the multitude of his greatness.
+         Praise him with sound of trumpet:
+         praise him with psaltery and harp. 
+         Praise him with timbrel and choir;
+         praise him with strings and organs.
+         <!-- DRB Psalm 150.1-4 -->
+         .
+         
+         
+         
+         
+   </ab>
+
+</div>

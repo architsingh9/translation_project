@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="34r"
+     xml:id="p0083">
+
+   <ab type="transcription"
+       xml:id="p0083_transcription"
+       corresp="#p0083_translation">
+
+      <lb/>mo 
+	<choice>
+		       <seg type="lucas">g(er)mi(n)e</seg>
+		       <orig>ġmīe</orig>
+		       <reg>germine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tre(n)t</seg>
+		       <orig>ītrēt</orig>
+		       <reg>intrent</reg>
+	     </choice> ut astra
+<lb/>flebiles celi 
+	<choice>
+		       <seg type="lucas">fenest(ra)</seg>
+		       <orig>fenesẗ</orig>
+		       <reg>fenestra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">f(a)c(t)a</seg>
+		       <orig>fc̄a</orig>
+		       <reg>facta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">es(t).</seg>
+		       <orig>es̄.</orig>
+		       <reg>es.</reg>
+	     </choice>
+      <lb/>Tu regis alti ianua 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>porta lucis fulgida 
+	<choice>
+		       <seg type="lucas">vita(m)</seg>
+		       <orig>vitā</orig>
+		       <reg>vitam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">data(m)</seg>
+		       <orig>datā</orig>
+		       <reg>datam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)gine(m)</seg>
+		       <orig>v̇ginē</orig>
+		       <reg>virginem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tes</seg>
+		       <orig>gētes</orig>
+		       <reg>gentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">rede(m)p</seg>
+		       <orig>redēp</orig>
+		       <reg>redemp</reg>
+	     </choice>
+      <lb break="no"/>te plaudite. Maria 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">gr(ati)e.</seg>
+		       <orig>gr̄e.</orig>
+		       <reg>gratie.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+		       <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers</reg>
+	     </choice> Ele
+<lb break="no"/>git 
+	<choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)elegit</seg>
+		       <orig>p̄elegit</orig>
+		       <reg>preelegit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ea(m).</seg>
+		       <orig>eā.</orig>
+		       <reg>eam.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">h(ab)itare</seg>
+		       <orig>hītare</orig>
+		       <reg>habitare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ea(m)</seg>
+		       <orig>eā</orig>
+		       <reg>eam</reg>
+	     </choice> fecit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tab(er)</seg>
+		       <orig>taḃ</orig>
+		       <reg>taber</reg>
+	     </choice>
+      <lb break="no"/>naculo suo. 
+	<choice>
+		       <seg type="lucas">Ps(alm).</seg>
+		       <orig>Ps̈.</orig>
+		       <reg>Psalm.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">BEned(ic)t(u)s</seg>
+		       <orig>BEnedt̄s</orig>
+		       <reg>BEnedictus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">isr(ae)l:</seg>
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> visitavit 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> fecit 
+	<choice>
+		       <seg type="lucas">rede(m)p</seg>
+		       <orig>redēp</orig>
+		       <reg>redemp</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(i)o(nem)</seg>
+		       <orig>tō⋮</orig>
+		       <reg>tionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pleb(is)</seg>
+		       <orig>pleḃ</orig>
+		       <reg>plebis</reg>
+	     </choice> sue. Et erexit
+<lb/>cornu salutis 
+	<choice>
+		       <seg type="lucas">nob(is):</seg>
+		       <orig>noḃ:</orig>
+		       <reg>nobis:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> do
+<lb break="no"/>mo david 
+	<choice>
+		       <seg type="lucas">pu(er)i</seg>
+		       <orig>pu̇i</orig>
+		       <reg>pueri</reg>
+	     </choice> sui. 
+	<choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0083_translation"
+       corresp="#p0083_transcription">
+         
+         Through the dear Blossom of thy womb,
+         Thou changest hapless Eva's doom. 
+         Through thee to contrite souls is given
+         An opening to their home in heaven. 
+         Thou art the Great King's portal bright
+         with pearls and stones of living light. 
+         Come then, ye ransomed nations, sing,
+         The Life Divine 'twas hers to bring. 
+         <!-- OBDS p. 68 -->
+         O Mary, Mother of Grace,
+         [Mother of mercy, 
+         Shield me from the enemy
+         And receive me at the hour of my death.] 
+         <!-- OBDS p. 70. See also PL -->
+         All Glory be to Thee, O Lord.
+         
+         Vespers. God hath chosen her, 
+         and hath forechosen her. 
+         And he maketh her to dwell in his tabernacle.
+         Psalm. 
+         Blessed be the Lord God of Israel: for he hath
+         visited and wrought the redemption of His people.
+         <!-- OBDS p. 70 -->
+         And hath raised up a horn of salvation to us: 
+         in the house of His servant David. 
+         As He spoke by the mouth of His holy prophets. 
+         <!-- OBDS p. 72 -->
+
+   </ab>
+
+</div>

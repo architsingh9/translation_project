@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="131r"
+     xml:id="p0277">
+
+   <ab type="transcription"
+       xml:id="p0277_transcription"
+       corresp="#p0277_translation">
+
+      <lb/>morte 
+	<choice>
+		       <seg type="lucas">toll(er)es.</seg>
+		       <orig>toll͘es.</orig>
+		       <reg>tolleres.</reg>
+	     </choice> Inferni
+<lb/>
+	     <choice>
+		       <seg type="lucas">claust(ra)</seg>
+		       <orig>clausẗ</orig>
+		       <reg>claustra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pe(ne)tra(n)s</seg>
+	           <orig>peträs</orig>
+		       <reg>penetrans</reg>
+	     </choice> tuos capti
+<lb break="no"/>vos 
+	<choice>
+		       <seg type="lucas">redime(n)s</seg>
+	             <orig>redimēs</orig>
+		       <reg>redimens</reg>
+	     </choice> victor 
+	<choice>
+		       <seg type="lucas">t(ri)um</seg>
+	             <orig>ṫum</orig>
+		       <reg>trium</reg>
+	     </choice>
+      <lb break="no"/>pho nobili ad 
+	<choice>
+		       <seg type="lucas">dextra(m)</seg>
+	             <orig>dextrā</orig>
+		       <reg>dextram</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(at)ris</seg>
+		       <orig>pr̄is</orig>
+		       <reg>patris</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">reside(n)s.</seg>
+	             <orig>residēs.</orig>
+		       <reg>residens.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ip(s)a</seg>
+		       <orig>Ip̄a</orig>
+		       <reg>Ipsa</reg>
+	     </choice> te cogat pi
+<lb break="no"/>etas ut mala 
+	<choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sup(er)es</seg>
+	             <orig>suꝑes</orig>
+		       <reg>superes</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ar)ce(n)do</seg>
+	             <orig>ꝑc̄edo</orig> 
+		       <reg>parcendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> voti 
+	<choice>
+		       <seg type="lucas">(com)potes</seg>
+	             <orig>ɔpotes</orig>
+		       <reg>compotes</reg>
+	     </choice> nos
+<lb/>tuo vultu saties. 
+	<choice>
+		       <seg type="lucas">Q(uesumu)s</seg>
+		       <orig>Q̄s</orig> 
+		       <reg>Quesumus</reg>
+	     </choice> ac
+<lb break="no"/>tor. 
+	<choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+		       <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+	             <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> In 
+	<choice>
+		       <seg type="lucas">asce(n)si</seg>
+	             <orig>ascēsi</orig>
+		       <reg>ascensi</reg>
+	     </choice>
+      <lb break="no"/>one 
+	<choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+	             <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> Tu esto 
+	<choice>
+		       <seg type="lucas">n(ost)r(um)</seg>
+	             <orig>nr̄⋮</orig>
+		       <reg>nostrum</reg>
+	     </choice> gau
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">diu(m)</seg>
+	             <orig>diū</orig>
+		       <reg>dium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> es 
+	<choice>
+		       <seg type="lucas">futur(us)</seg>
+	             <orig>futurꝰ</orig>
+		       <reg>futurus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)miu(m)</seg>
+	             <orig>p̄miū</orig>
+		       <reg>premium</reg>
+	     </choice> sit
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+	             <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(n)cta</seg>
+	             <orig>cūcta</orig>
+		       <reg>cuncta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+	             <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> se
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">c(u)la.</seg>
+		       <orig>cl͘a.</orig>
+		       <reg>cula.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+	             <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+	             <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sca(n)dis</seg>
+	             <orig>scādis</orig>
+		       <reg>scandis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sid(er)a.</seg>
+	             <orig>siḋa.</orig>
+		       <reg>sidera.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">s(?).</seg>
+		       <orig>s̈.</orig>
+		       <reg>sed? <!-- check expansion --> </reg>
+	     </choice> 
+ In die 
+	<choice>
+		       <seg type="lucas">pe(?)</seg>
+	             <orig>pē</orig>
+		       <reg>pe?? <!-- No clue what's going on here --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ch(?).</seg>
+	             <orig>cḣ.</orig>
+	             <reg>ch?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+	             <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dudu(m)</seg>
+	             <orig>Dudū</orig>
+		       <reg>Dudum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sac(ra)ta</seg>
+		       <orig>sac̈ta</orig>
+		       <reg>sacrata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pecto(r)a</seg>
+	             <orig>pectȯa</orig>
+		       <reg>pectora</reg>
+	     </choice>
+   </ab> 
+
+   <ab type="translation"
+       xml:id="p0277_translation"
+       corresp="#p0277_transcription">that we might be saved from death!
+         
+         Descending into Hell’s prison,
+         freeing thy captives,
+         Thy noble triumph won,
+         dwelling at the Father’s right hand.
+         
+         Let pity compel thee
+         to overcome our evils,
+         granting pardon,
+         fulfil and satisfy us with thy face. <!-- Continued. hymn, linked in doc CPDL -->
+         We beseech thee, author. <!-- is "Actor" meant to be "auctor"? I'm translating as if it is. 
+               don't know what actor or accor could be. -->
+         All glory be to Thee, O Lord. <!-- OBDS 146 and elsewhere --> 
+         During Ascension. Versicle. Be our joy,
+         who will be our future prize;
+         let all our glory be in Thee <!-- Hymn, CPDL linked in doc, same hymn as above. Jesu nostra redemptio -->
+         through all the ages. All glory be to Thee, O Lord, who climbs above the stars. <!-- Google translate after qui. cannot find scandis or sidera anywhere in our sources -->
+         [cu(m) ut s(?). In die pe(?) ch(?)] <!-- NO clue what this is, asked CJ Jones. -->  
+         Versicle. As then in the past thou didst
+         fill reverent hearts with thy grace,
+         so now forgive our sins
+         and grant an age of peace. <!-- continue, linked in doc. English translation of "Beata Nobis Gaudia" by Paul Doe -->
+   </ab>
+
+</div>

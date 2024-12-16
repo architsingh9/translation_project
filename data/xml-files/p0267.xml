@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="126r"
+     xml:id="p0267">
+
+   <ab type="transcription"
+       xml:id="p0267_transcription"
+       corresp="#p0267_translation">
+
+      <lb/>ste. 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)bas</seg>
+		       <orig>ꝓbas</orig>
+		       <reg>probas</reg>
+	     </choice> renes 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> corda;
+<lb/>
+	     <choice>
+		       <seg type="lucas">videa(m)</seg>
+		       <orig>videā</orig>
+		       <reg>videam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ult(i)o(nem)</seg>
+		       <orig>ultō⋮</orig>
+		       <reg>ultionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> ex eis: 
+	<choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice>
+      <lb/>revelavi 
+	<choice>
+		       <seg type="lucas">causa(m)</seg>
+		       <orig>causā</orig>
+		       <reg>causam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice>
+      <lb/>VExilla        
+	     <choice>
+		       <seg type="lucas">y(m)n(us)</seg>
+		       <orig>ȳpnꝰ</orig>
+		       <reg>hymnus</reg>
+	     </choice>        
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s;</seg>
+		       <orig>m̄s;</orig>
+		       <reg>meus;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(eo).</seg>
+		       <orig>Ḋ.</orig>
+		       <reg>Deo.</reg>
+	     </choice>
+      <lb/>regis 
+	<choice>
+		       <seg type="lucas">p(ro)deu(n)t</seg>
+		       <orig>ꝓdeūt</orig>
+		       <reg>prodeunt</reg>
+	     </choice> fulget
+<lb/>crucis 
+	<choice>
+		       <seg type="lucas">misteriu(m)</seg>
+		       <orig>misṫeriū</orig>
+		       <reg>misterium</reg>
+	     </choice> quo carne
+<lb/>carnis 
+	<choice>
+		       <seg type="lucas">(con)ditor</seg>
+		       <orig>ɔditor</orig>
+		       <reg>conditor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suspe(n)s(us)</seg>
+		       <orig>suspēsꝰ</orig> 
+		       <reg>suspensus</reg>
+	     </choice> est
+<lb/>
+	     <choice>
+		       <seg type="lucas">patib(u)lo.</seg>
+		       <orig>patibl͘o.</orig>
+		       <reg>patibulo.</reg>
+	     </choice> Quo 
+	<choice>
+		       <seg type="lucas">vuln(er)at(us)</seg>
+		       <orig>vulṅatꝰ</orig> 
+		       <reg>vulneratus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)sup(er)</seg>
+		       <orig>īsuꝑ</orig>
+		       <reg>insuper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mucro(n)e</seg>
+		       <orig>mucrōe</orig>
+		       <reg>mucrone</reg>
+	     </choice> diro 
+	<choice>
+		       <seg type="lucas">la(n)cee</seg>
+		       <orig>lācee</orig>
+		       <reg>lancee</reg>
+	     </choice> ut
+<lb/>nos lavaret 
+	<choice>
+		       <seg type="lucas">c(ri)mi(n)e</seg>
+		       <orig>ċmīe</orig>
+		       <reg>crimine</reg>
+	     </choice> mana
+<lb break="no"/>vit unda 
+	<choice>
+		       <seg type="lucas">sa(n)g(ui)ne.</seg>
+		       <orig>sāġne.</orig>
+		       <reg>sanguine.</reg>
+	     </choice> Imple
+<lb break="no"/>ta 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)cinit</seg>
+		       <orig>ɔcinit</orig>
+		       <reg>concinit</reg>
+	     </choice> david 
+	<choice>
+		       <seg type="lucas">fidel(i)</seg>
+		       <orig>fidel͘</orig>
+		       <reg>fideli</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">carmi(n)e</seg>
+		       <orig>carmīe</orig>
+		       <reg>carmine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dice(n)do</seg>
+		       <orig>dicēdo</orig>
+		       <reg>dicendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nat(i)o(n)ib(us)</seg>
+		       <orig>natōib⋮</orig>
+		       <reg>nationibus</reg>
+	     </choice> re
+<lb break="no"/>gnavit a ligno 
+	<choice>
+		       <seg type="lucas">d(eu)s.</seg>
+		       <orig>ḋs.</orig>
+		       <reg>deus.</reg>
+	     </choice> Ar
+<lb break="no"/>bor decora 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> fulgida 
+	<choice>
+		       <seg type="lucas">orna(ta)</seg>
+		       <orig>ornä</orig>
+		       <reg>ornata</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0267_translation"
+       corresp="#p0267_transcription"> justly, and triest the reins and hearts, let me see thy revenge on them: for to thee I have revealed my cause. <!-- Jeremiah 11:20 -->
+   	O Lord my God, [in thee have I put my trust: save me from all them that persecute me, and deliver me.] <!-- Psalm 7 DRB --> [Thanks be to] God. 
+   	Hymn. The Royal Banner forward goes,
+   	The mystic Cross refulgent glows:
+   	Where He, in Flesh, flesh who made,
+   	Upon the Tree of pain is laid. 
+   	Here the fell spear his wounded side
+   	With ruthless onset opened wide:
+   	To wash us in that cleansing flood,
+   	Thence mingled Water flowed, and Blood.
+   	Fulfilled is all that David told
+   	In true prophetic song, of old:
+   	Unto the nations, lo! saith he,
+   	Our God hath reignèd from the Tree.
+   	O Tree! In radiant beauty bright!
+   	With regal purple meetly dight! <!-- cont, linked in doc. CPDL (The Pslater of Sarum) --> </ab>
+
+</div>

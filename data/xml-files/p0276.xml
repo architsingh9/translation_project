@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="130v"
+     xml:id="p0276">
+
+   <ab type="transcription"
+       xml:id="p0276_transcription"
+       corresp="#p0276_translation">
+
+      <lb/>gire 
+	<choice>
+		       <seg type="lucas">supplicib(us)</seg>
+		       <orig>supplicib⋮</orig>
+		       <reg>supplicibus</reg>
+	     </choice> tuis; ut co
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">gitem(us)</seg>
+		       <orig>gitemꝰ</orig>
+		       <reg>gitemus</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">i(n)spira(n)te</seg>
+		       <orig>īspirāte</orig>
+		       <reg>inspirante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(e)c(t)a</seg>
+		       <orig>rc̄a</orig>
+		       <reg>recta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t.</seg>
+		       <orig>st͘.</orig>
+		       <reg>sunt.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">gub(er)na(n)te</seg>
+		       <orig>guḃnāte</orig>
+		       <reg>gubernante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eade(m)</seg>
+		       <orig>eadē</orig>
+		       <reg>eadem</reg>
+	     </choice> facia
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(us).</seg>
+		       <orig>mꝰ.</orig>
+		       <reg>mus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Vig(ra?)</seg>
+		       <orig>Vig̈</orig>
+		       <reg>Vigilia</reg>
+	           
+	     </choice> 
+      <choice>
+		       <seg type="lucas">o(n)is</seg>
+		       <orig>ascēsiōis</orig>
+		       <reg>ascensionis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o.</seg>
+		       <orig>or̄o.</orig>
+		       <reg>oratio.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">PR(est)a</seg>
+		       <orig>PRā</orig>
+		       <reg>PResta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>qs̄</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s:</seg>
+		       <orig>ḋs:</orig>
+		       <reg>deus:</reg>
+	     </choice> ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nr̄e</orig>
+		       <reg>nostre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)tis</seg>
+		       <orig>mētis</orig>
+		       <reg>mentis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)te(n)t(i)o</seg>
+		       <orig>ītētō</orig>
+		       <reg>intentio</reg>
+	     </choice> quo
+<lb/>
+	     <choice>
+		       <seg type="lucas">sole(m)nitatis</seg>
+		       <orig>solēpnitatis</orig>
+		       <reg>solemnitatis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fut(ur)e</seg>
+		       <orig>fut݃e</orig>
+		       <reg>future</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)osus</seg>
+		       <orig>gl͘osus</orig>
+		       <reg>gloriosus</reg>
+	     </choice>
+      <lb/>auctor 
+	<choice>
+		       <seg type="lucas">i(n)gress(us)</seg>
+		       <orig>īgressꝰ</orig> 
+		       <reg>ingressus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+		       <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)te(n)tat;</seg>
+		       <orig>ītētat;</orig>
+		       <reg>intentat;</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)</seg>
+	             <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice> vide 
+	<choice>
+		       <seg type="lucas">p(er)git</seg>
+	             <orig>ꝑgit</orig>
+		       <reg>pergit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)sat(i)o(n)e</seg>
+		       <orig>ɔv̇satōe</orig>
+		       <reg>conversatione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+	             <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>veniat: 
+	<choice>
+		       <seg type="lucas">P(er)</seg>
+	             <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(umdum).</seg>
+		       <orig>e.</orig>
+		       <reg>eumdum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)plet(?).</seg>
+	             <orig>ɔplet̄.</orig>
+		       <reg>conpletorium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">y(m)n(us).</seg>
+	             <orig>ypnꝰ.</orig>
+		       <reg>hymnus.</reg> 
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">IH(es)u</seg>
+		       <orig>IḢu</orig>
+		       <reg>IHesu</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">rede(m)pt(i)o</seg>
+		       <orig>redēptō</orig>
+		       <reg>redemptio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(m)or</seg>
+		       <orig>āor</orig>
+		       <reg>amor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> desi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">d(er)iu(m)</seg>
+		       <orig>ḋiū</orig>
+		       <reg>derium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> creator 
+	<choice>
+		       <seg type="lucas">o(mn)i(um)</seg>
+		       <orig>oī⋮</orig>
+		       <reg>omnium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(mo)</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> fine
+<lb/>
+	     <choice>
+		       <seg type="lucas">t(e)mp(orum).</seg>
+		       <orig>tꝑm.</orig>
+		       <reg>temporum.</reg>
+	     </choice> Que te vicit 
+	<choice>
+		       <seg type="lucas">cleme(n)</seg>
+		       <orig>clemē</orig>
+		       <reg>clemen</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tia(m)</seg>
+		       <orig>tia</orig>
+		       <reg>tiam</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">f(er)res</seg>
+		       <orig>fṙes</orig>
+		       <reg>ferres</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">c(ri)mi(n)a</seg>
+		       <orig>ċmīa</orig>
+		       <reg>crimina</reg>
+	     </choice> crude
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">le(m)</seg>
+		       <orig>lē</orig>
+		       <reg>lem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">morte(m)</seg>
+		       <orig>mortē</orig>
+		       <reg>mortem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">patie(n)s</seg>
+		       <orig>patiēs</orig>
+		       <reg>patiens</reg>
+	     </choice> ut nos a
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0276_translation"
+       corresp="#p0276_transcription">
+         give us, Your suppliants, by Your inspiration to think
+         what is right, and by Your guidance to perform the
+         same: through our Lord. <!-- continued, DM 454 --> Vigil of the Ascension.
+         Collect. Grant, we beseech You, almighty God, that
+         the bent of 9ur minds may always tend where the
+         glorious author of the coming solemnity has entered;
+         and attain by holy living that towards which it journeys
+         by faith: through the same Lord. <!-- DM 461. source differs: "future" and "venturae" seem
+         like they have similar enough meanings to not affect translation - "future and "coming". but "vide" and "fide"
+         have two different translations - by sight (?) and by faith. which to use? --> Compline. Hymn. 
+         Jesus, our redemption,
+         love and desire,
+         God, Creator of all things,
+         becomes man in the fullness of time.
+         
+         What mercy made thee
+         bear our crimes,
+         to suffer a cruel death
+         that we might be saved from death! <!-- Hymn, linked in doc. Continues -->
+   </ab>
+
+</div>

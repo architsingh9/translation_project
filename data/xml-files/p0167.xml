@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../stylesheets/dpb_proof.css"?> 
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="76r"
+     xml:id="p0167">
+
+   <ab type="transcription"
+       xml:id="p0167_transcription"
+       corresp="#p0167_translation">
+
+      <lb/>mea 
+	<choice>
+		       <seg type="lucas">e(st).</seg>
+		       <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(upe)r</seg>
+		       <orig>Sr̄</orig>
+		       <reg>Super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+		       <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meo(s)</seg>
+		       <orig>meoˢ</orig>
+		       <reg>meos</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">prude(n)te(m)</seg>
+		       <orig>prudētē</orig>
+		       <reg>prudentem</reg>
+	     </choice> me fecisti 
+	<choice>
+		       <seg type="lucas">ma(n)da</seg>
+		       <orig>māda</orig>
+		       <reg>manda</reg>
+	     </choice>
+      <lb break="no"/>to tuo: 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īet̄nū</orig>
+		       <reg>ineternum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st).</seg>
+		       <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(upe)r</seg>
+		       <orig>Sr̄</orig>
+		       <reg>Super</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">doce(n)tes</seg>
+		       <orig>docētes</orig>
+		       <reg>docentes</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">i(n)tellexi:</seg>
+		       <orig>ītellexi:</orig>
+		       <reg>intellexi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">testi(m)onia</seg>
+		       <orig>testīonia</orig>
+		       <reg>testimonia</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">meditat(i)o</seg>
+		       <orig>meditatō</orig>
+		       <reg>meditatio</reg>
+	     </choice> me
+<lb break="no"/>a 
+	<choice>
+		       <seg type="lucas">e(st).</seg>
+		       <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(upe)r</seg>
+		       <orig>Sr̄</orig>
+		       <reg>Super</reg>
+	     </choice> senes 
+	<choice>
+		       <seg type="lucas">i(n)tellexi:</seg>
+		       <orig>ītellexi:</orig>
+		       <reg>intellexi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">q(ue)sivi.</seg>
+		       <orig>q̄sivi.</orig>
+		       <reg>quesivi.</reg>
+	     </choice> Ab
+<lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> via mala 
+	<choice>
+		       <seg type="lucas">p(ro)hibui</seg>
+	      <orig>ꝓhibui</orig>
+		       <reg>prohibui</reg>
+	     </choice> pe
+<lb break="no"/>des meos: ut 
+	<choice>
+		       <seg type="lucas">custodia(m)</seg>
+		       <orig>custodiā</orig>
+		       <reg>custodiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)</seg>
+		       <orig>v̇</orig>
+		       <reg>ver</reg>
+	     </choice>
+      <lb break="no"/>ba tua. A iudiciis tuis
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">decli(n)avi:</seg>
+		       <orig>declīavi:</orig>
+		       <reg>declinavi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lege(m)</seg>
+		       <orig>legē</orig>
+		       <reg>legem</reg>
+	     </choice> posuis
+<lb break="no"/>ti 
+	<choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ua)m</seg>
+		       <orig>Qm̈</orig>
+		       <reg>Quam</reg>
+	     </choice> dulcia fauci
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> meis 
+	<choice>
+		       <seg type="lucas">eloq(ui)a</seg>
+		       <orig>eloq͘a</orig>
+		       <reg>eloquia</reg>
+	     </choice> tua: 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> mel
+<lb/>ori meo. A 
+	<choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> tuis
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)t(e)llexi:</seg>
+		       <orig>ītll͘exi:</orig>
+		       <reg>intellexi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)pt(er)ea</seg>
+	           <orig>ꝓpt͘ea</orig>
+		       <reg>propterea</reg>
+	     </choice> odivi 
+         <supplied>
+	<choice>
+		       <seg type="lucas">om(n)e(m)</seg>
+		       <orig>om̄e⋮</orig>
+		       <reg>omnem</reg>
+	     </choice>
+         </supplied>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0167_translation"
+       corresp="#p0167_transcription">  it is my meditation all the day. Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me. 
+         I have understood more than all my teachers: because thy testimonies are my meditation. 
+         I have had understanding above ancients: because I have sought thy commandments. 
+         I have restrained my feet from every evil way: that I may keep thy words. 
+         I have not declined from thy judgments, because thou hast set me a law. 
+         How sweet are thy words to my palate! more than honey to my mouth. 
+         By thy commandments I have had understanding: therefore have I hated every  <!-- psalm 118 verse 104 drb cont --> </ab>
+
+</div>

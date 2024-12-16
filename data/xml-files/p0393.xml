@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="189r"
+     xml:id="p0393">
+
+   <ab type="transcription"
+       xml:id="p0393_transcription"
+       corresp="#p0393_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(un)t</seg>
+		       <orig>b̄t</orig>
+		       <reg>bunt</reg>
+	     </choice> te. Sic 
+	<choice>
+		       <seg type="lucas">b(e)n(e)dica(m)</seg>
+		       <orig>bn̄dicā</orig>
+		       <reg>benedicam</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> vi
+<lb break="no"/>ta mea: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(m)i(n)e</seg>
+		       <orig>noīe</orig>
+		       <reg>nomine</reg>
+	     </choice> tuo leva
+<lb break="no"/>bo 
+	<choice>
+		       <seg type="lucas">man(us)</seg>
+		       <orig>manꝰ</orig>
+		       <reg>manus</reg>
+	     </choice> meas. 
+         
+	<choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice> a
+<lb break="no"/>dipe 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pi(n)guedi(n)e</seg>
+		       <orig>pīguedīe</orig>
+		       <reg>pinguedine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">repleat(ur)</seg>
+		       <orig>repleat݃</orig>
+		       <reg>repleatur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> mea: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> labiis exulta
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(i)o(n)is</seg>
+		       <orig>tōis</orig>
+		       <reg>tionis</reg>
+	     </choice> laudabit os 
+	<choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> Si
+<lb/>
+	     <choice>
+		       <seg type="lucas">me(m)or</seg>
+		       <orig>mēor</orig>
+		       <reg>memor</reg>
+	     </choice> fui tui 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">stratu(m)</seg>
+		       <orig>stratū</orig>
+		       <reg>stratum</reg>
+	     </choice> me
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m);</seg>
+		       <orig>ū;</orig>
+		       <reg>um;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">matuti(ni)s</seg>
+		       <orig>matutīs</orig>
+		       <reg>matutinis</reg>
+	     </choice> meditabor 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>te: 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> fuisti adiutor 
+	<choice>
+		       <seg type="lucas">m(eu)s.</seg>
+		       <orig>m̄s.</orig>
+		       <reg>meus.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">velame(n)to</seg>
+		       <orig>velamēto</orig>
+		       <reg>velamento</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">alar(um)</seg>
+		       <orig>alaꝝ</orig>
+		       <reg>alarum</reg>
+	     </choice> tua
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+		       <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> exultabo; adhesit 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice>
+      <lb/>mea post te: me suscepit
+<lb/>
+	     <choice>
+		       <seg type="lucas">dext(er)a</seg>
+		       <orig>dexṫa</orig>
+		       <reg>dextera</reg>
+	     </choice> tua. 
+	<choice>
+		       <seg type="lucas">Ip(s)i</seg>
+		       <orig>Ip̄i</orig>
+		       <reg>Ipsi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)o</seg>
+		       <orig>v̇o</orig>
+		       <reg>vero</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vanu(m)</seg>
+		       <orig>vanū</orig>
+		       <reg>vanum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ue)sier(un)t</seg>
+		       <orig>q̄sier̄t</orig>
+		       <reg>quesierunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)[:]i(n)troibu(n)t</seg>
+		       <orig>meā<supplied>:</supplied></orig>
+		       <reg>meam<supplied>:</supplied></reg>
+	     </choice>
+         <choice>
+               <orig>ītroibūt </orig>
+               <reg>introibunt</reg>
+         </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)feriora</seg>
+		       <orig>īferiora</orig>
+		       <reg>inferiora</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)re:</seg>
+		       <orig>ṫre:</orig>
+		       <reg>terre:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ra)de(n)t(ur)</seg>
+		       <orig>ẗdēt݃</orig> 
+		       <reg>tradentur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">man(us)</seg>
+		       <orig>manꝰ</orig>
+		       <reg>manus</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0393_translation"
+       corresp="#p0393_transcription">
+         <!-- continues from last page -->
+         Thus will I bless Thee all my life long:
+         and in Thy Name I will lift up my hands.
+         Let my soul be filled as with marrow and fatness:
+         and my mouth shall praise Thee with joyful lips.
+         If I remembered Thee upon my bed, <!-- OBDS page 448 -->
+         in the morning shall I think upon Thee:
+         for Thou hast been my helper.
+         And I will rejoice under the covert of Thy wings, 
+         my soul cleaveth unto Thee: 
+         Thy right hand hath upholden me. 
+         But they have sought my soul in vain,
+         they shall go down to the lower parts of the earth:
+         they shall be delivered into the hands of the sword,
+         they shall become the foxes' prey. <!-- OBDS page 449, continues -->
+   </ab>
+            
+</div>

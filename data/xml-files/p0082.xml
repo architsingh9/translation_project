@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="33v"
+     xml:id="p0082">
+
+   <ab type="transcription"
+       xml:id="p0082_transcription"
+       corresp="#p0082_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">orga(n)o.</seg>
+		       <orig>orgāo.</orig>
+		       <reg>organo.</reg>
+	     </choice> Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cy(m)bal(is)</seg>
+		       <orig>cȳbal͘</orig>
+		       <reg>cymbalis</reg>
+	     </choice> 
+
+	     <choice>
+	           <seg type="lucas">b(e)n(e)sona(n)tib(us):</seg>
+	           <orig>bn̄sonātib⋮:</orig>
+	           <reg>benesonantibus:</reg>
+	     </choice> lauda
+<lb break="no"/>te 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cy(m)bal(is)</seg>
+		       <orig>cȳbal͘</orig>
+		       <reg>cymbalis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iubilat(i)o(n)is:</seg>
+		       <orig>iubilatōis:</orig>
+		       <reg>iubilationis:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)is</seg>
+		       <orig>oīs</orig>
+		       <reg>omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> laudet 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)m.</seg>
+		       <orig>dn̄m.</orig>
+		       <reg>dominum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(ntiphon).</seg>
+		       <orig>ä.</orig>
+		       <reg>antiphon.</reg>
+	     </choice>
+      <lb/>post 
+	<choice>
+		       <seg type="lucas">p(ar)tu(m)</seg>
+		       <orig>ꝑtū</orig> 
+		       <reg>partum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)violata</seg>
+		       <orig>īviolata</orig>
+		       <reg>inviolata</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)ma(n)sisti</seg>
+		       <orig>ꝑmāsisti</orig>
+		       <reg>permansisti</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">ge(n)it(ri)x</seg>
+		       <orig>gēit̄x</orig>
+		       <reg>genitrix</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)t(er)cede</seg>
+		       <orig>īṫcede</orig>
+		       <reg>intercede</reg>
+	     </choice>
+      <lb/>EGo 
+	<choice>
+		       <seg type="lucas">q(uas)i</seg>
+		       <orig>q̈i</orig>
+		       <reg>quasi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Cap(?)</seg>
+		       <orig>Cap̄</orig>
+		       <reg>Capitulum </reg>
+	     </choice> 
+
+	     <choice>
+		       <seg type="lucas">p(ro)nob(is).</seg>
+		       <orig>ꝓ.</orig> 
+		       <reg>pro.</reg>
+	     </choice>
+         <choice>
+               <orig>noḃ</orig>
+               <reg>nobis</reg>
+         </choice>
+      <lb/>vitis fructificavi su
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">avitate(m)</seg>
+		       <orig>avitatē</orig>
+		       <reg>avitatem</reg>
+	     </choice> odoris 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">flo(r)es</seg>
+		       <orig>flȯes</orig>
+		       <reg>flores</reg>
+	     </choice> me
+<lb break="no"/>i 
+	<choice>
+		       <seg type="lucas">fruct(us)</seg>
+		       <orig>fructꝰ</orig>
+		       <reg>fructus</reg>
+	     </choice> honoris 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	    <seg next ="#segm"> <choice>
+		       <seg type="lucas">ho(n)esta</seg>
+		       <orig>hōesta</orig>
+		       <reg>honesta</reg>
+	     </choice>
+	    </seg>
+      <lb break="no"/>O 
+	<choice>
+		       <seg type="lucas">Gl(or)iosa</seg>
+		       <orig>Gl͘iosa</orig>
+		       <reg>Gloriosa</reg>
+	     </choice> 
+
+	     <choice>
+		       <seg type="lucas">y(mnus).</seg>
+		       <orig>ȳpꝰ.</orig>
+		       <reg>hymnus.</reg>
+	     </choice>         <seg xml:id="segm">tis</seg>
+	<choice>
+		       <seg type="lucas">D(eus).</seg>
+		       <orig>Ḋ.</orig>
+		       <reg>Deo.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> excelsa 
+	<choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">side(r)a</seg>
+		       <orig>sidėa</orig>
+		       <reg>sidera</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> te creavit 
+	<choice>
+		       <seg type="lucas">p(ro)vide</seg>
+		       <orig>ꝓvide</orig>
+		       <reg>provide</reg>
+	     </choice> lactas
+<lb break="no"/>ti sacro 
+	<choice>
+		       <seg type="lucas">ube(re).</seg>
+		       <orig>ubė.</orig>
+		       <reg>ubere.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uo)d</seg>
+		       <orig>Qḋ</orig>
+		       <reg>Quod</reg>
+	     </choice> eva 
+	<choice>
+		       <seg type="lucas">t(ri)s</seg>
+		       <orig>ṫs</orig>
+		       <reg>tris</reg>
+	     </choice>
+      <lb break="no"/>tis abstulit tu reddis al⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0082_translation"
+       corresp="#p0082_transcription">
+         
+       praise him with strings and organs
+       Praise him on high sounding cymbals: 
+       praise him on cymbals of joy: 
+       let every spirit praise the Lord. 
+         <!-- DRB Psalm 150.4-5 -->
+         Antiphon.
+         After childbirth thou still 
+         didst remain a Virgin undefiled:
+         O Mother of God, intercede for us. 
+         Little Chapter
+         As the vine I gave forth a pleasant odor:
+         and my flowers are the fruits of honour and riches. 
+         Thanks be to God. 
+        <!-- OBDS p. 66 -->
+         Hymn.
+         O glorious Lady, 
+         Throned in light 
+         Sublime above the starry height, 
+         Thine arms they great Creator pressed
+         A suckling at thy sacred breast.
+         Through the dear Blossom of thy womb,
+         Thou changest hapless Eva's doom. 
+    
+         
+         <!-- OBDS p. 68 -->
+         
+   </ab>
+
+</div>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="193v"
+     xml:id="p0402">
+
+   <ab type="transcription"
+       xml:id="p0402_transcription"
+       corresp="#p0402_translation">
+
+      <lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tutib(us)</seg>
+		       <orig>v̇tutib⋮</orig>
+		       <reg>virtutibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice>
+      <lb/>laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltitudi</seg>
+		       <orig>ml͘titudi</orig>
+		       <reg>multitudi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ne(m)</seg>
+		       <orig>nē</orig>
+		       <reg>nem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mag(ni)tudi(ni)s</seg>
+		       <orig>maġtudīs</orig>
+		       <reg>magnitudinis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice> Lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> sono tube: lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">psalt(er)io</seg>
+		       <orig>psalṫio</orig>
+		       <reg>psalterio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> citha
+<lb break="no"/>ra. Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ty(m)pa</seg>
+		       <orig>tȳpa</orig>
+		       <reg>tympa</reg>
+	     </choice>
+      <lb break="no"/>no 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> choro: laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> cordis 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">orga(n)o.</seg>
+		       <orig>orgāo.</orig>
+		       <reg>organo.</reg>
+	     </choice> Lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cy(m)bal(is)</seg>
+		       <orig>cȳbal͘</orig>
+		       <reg>cymbalis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)sona(n)</seg>
+		       <orig>bn̄sonā</orig>
+		       <reg>benesonan</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tib(us);</seg>
+		       <orig>tib⋮;</orig>
+		       <reg>tibus;</reg>
+	     </choice> laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cy(m)bal(is)</seg>
+		       <orig>cȳbal͘</orig>
+		       <reg>cymbalis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">iudbilat(i)o(n)is:</seg>
+		       <orig>iudbilatōis:</orig>
+		       <reg>iudbilationis:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)is</seg>
+		       <orig>oīs</orig>
+		       <reg>omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> laudet
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)n(um).</seg>
+		       <orig>dn̄⋮.</orig>
+		       <reg>dominum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">O(mn)is</seg>
+		       <orig>Oīs</orig>
+		       <reg>Omnis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laud(et)</seg>
+		       <orig>laud⋮</orig>
+		       <reg>laudet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(um).</seg>
+		       <orig>dn̄⋮.</orig>
+		       <reg>dominum.</reg>
+	     </choice>
+      <lb/>ii         resurrec⸗ 
+	<choice>
+		       <seg type="lucas">bn(?)</seg>
+		       <orig>bn̄</orig>
+	                  <reg>bn?<!--  check expansion --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia?.<!--  check expansion --></reg>
+	     </choice> 
+  
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(i)o</seg>
+		       <orig>tō</orig>
+		       <reg>tio</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vita 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> cre
+<lb break="no"/>Ego 
+	<choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice>         dit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">etia(m)</seg>
+		       <orig>etiā</orig>
+		       <reg>etiam</reg>
+	     </choice> si
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0402_translation"
+       corresp="#p0402_transcription">
+         Praise ye him for his mighty acts: praise ye him according to the multitude of his greatness.
+         Praise him with sound of trumpet: praise him with psaltery and harp.
+         Praise him with timbrel and choir: praise him with strings and organs.
+         Praise him on high sounding cymbals: praise him on cymbals of joy: let every spirit praise the Lord. Alleluia.
+         <!-- drb psalm 150 -->
+         I am the resurrection and the life; he who believes in Me,
+         even if he die, shall live; and whoever lives and believes
+         in Me, shall never die.
+         <!-- musicasacra 238 -->
+         
+   </ab>
+
+</div>

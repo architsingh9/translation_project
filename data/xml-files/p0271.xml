@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="128r"
+     xml:id="p0271">
+
+   <ab type="transcription"
+       xml:id="p0271_transcription"
+       corresp="#p0271_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)issimu(m)</seg>
+	            <orig>sc̄issimū</orig>
+		       <reg>sanctissimum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> ara crucis torri
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+	             <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> cruore 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+	             <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> roseo 
+	<choice>
+		       <seg type="lucas">gusta(n)</seg>
+	             <orig>gustā</orig>
+		       <reg>gustan</reg>
+	     </choice>
+      <lb break="no"/>do 
+	<choice>
+		       <seg type="lucas">vivim(us)</seg>
+	             <orig>vivimꝰ</orig>
+		       <reg>vivimus</reg>
+	     </choice> deo. Protecti
+<lb/>pasche 
+	<choice>
+		       <seg type="lucas">vesp(er)e</seg>
+	             <orig>vesꝑe</orig>
+		       <reg>vespere</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">devasta(n)te</seg>
+	             <orig>devastāte</orig>
+		       <reg>devastante</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(n)g(e)lo</seg>
+	             <orig>āgl͘o</orig>
+		       <reg>angelo</reg>
+	     </choice> erepti de 
+	<choice>
+		       <seg type="lucas">durissi(m)o</seg>
+	             <orig>durissīo</orig>
+		       <reg>durissimo</reg>
+	     </choice> pha
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rao(n)is</seg>
+	             <orig>raōis</orig>
+		       <reg>raonis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)p(er)io.</seg>
+	             <orig>īꝑio.</orig>
+		       <reg>imperio.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ia(m)</seg>
+	             <orig>Iā</orig>
+		       <reg>Iam</reg>
+	     </choice> pascha
+<lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)r(u)m</seg>
+		       <orig>nr̄m</orig>
+		       <reg>nostrum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christu)s</seg>
+		       <orig>xps̄</orig>
+		       <reg>christus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">y(m)molatus</seg>
+		       <orig>ȳmolatus</orig>
+		       <reg>ymmolatus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">agn(us)</seg>
+	             <orig>agnꝰ</orig>
+		       <reg>agnus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sinc(er)itatis</seg>
+	             <orig>sinc̄itatis</orig>
+		       <reg>sinceritatis</reg>
+	     </choice> azima
+<lb/>caro 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+	              <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> oblata 
+	<choice>
+		       <seg type="lucas">e(st).</seg>
+	             <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> O vere
+<lb/>
+	     <choice>
+		       <seg type="lucas">dig(na)</seg>
+		       <orig>dig̈</orig>
+		       <reg>digna</reg>
+	     </choice> hostia 
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+	             <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">qua(m)</seg>
+	             <orig>quā</orig>
+		       <reg>quam</reg>
+	     </choice> fracta
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+	             <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> tartara 
+	<choice>
+		       <seg type="lucas">rede(m)pta</seg>
+	             <orig>redēpta</orig>
+		       <reg>redempta</reg>
+	     </choice> plebs
+<lb/>captivata redit ad vite
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(re)mia.</seg>
+		       <orig>p̄mia.</orig>
+		       <reg>premia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">C(o)nsurgit</seg>
+		       <orig>Cn̄surgit</orig>
+		       <reg>Consurgit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christu)s</seg>
+	             <orig>xp̄s</orig>
+		       <reg>christus</reg>
+	     </choice> tu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">m(u)lo</seg>
+		       <orig>ml͘o</orig>
+		       <reg>mulo</reg>
+	     </choice> victor redit de bara
+<lb break="no"/>tro 
+	<choice>
+		       <seg type="lucas">tyra(n)nu(m)</seg>
+	             <orig>tyrānū</orig>
+		       <reg>tyrannum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">trude(n)s</seg>
+	             <orig>trudēs</orig>
+		       <reg>trudens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vi(n)culo</seg>
+	             <orig>vīculo</orig>
+		       <reg>vinculo</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0271_translation"
+       corresp="#p0271_transcription"><!-- Cont from previous page --> Upon the Altar of the Cross
+         His Body hath redeemed our loss: and tasting of his roseate Blood,
+         our life is hid with Him in God. That Paschal Eve God's arm was bared,
+         the devastating Angel spared:
+         by strength of hand our hosts went free
+         from Pharaoh's ruthless tyranny. Now Christ, our Paschal Lamb, is slain,
+         the Lamb of God that knows no stain,
+         the true Oblation offered here,
+         our own unleavened Bread sincere. O Thou, from whom hell's monarch flies,
+         O great, O very Sacrifice,
+         Thy captive people are set free,
+         and endless life restored in Thee. For Christ, arising from the dead,
+         from conquered hell victorious sped,
+         and thrust the tyrant down to chains,
+         and Paradise for man regains. <!-- CPDL, linked in Doc, cont --> </ab>
+
+</div>

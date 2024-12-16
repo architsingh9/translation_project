@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="71r"
+     xml:id="p0157">
+
+   <ab type="transcription"
+       xml:id="p0157_transcription"
+       corresp="#p0157_translation">
+
+      <lb/>niis tuis 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)sp(e)c(t)u</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">regu(m):</seg>
+		       <orig>regū:</orig>
+		       <reg>regum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fu(n)debar.</seg>
+		       <orig>ɔfūdebar.</orig>
+		       <reg>confundebar.</reg>
+	     </choice> Et medita
+<lb break="no"/>bar 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>mādatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> tuis: 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> di
+<lb break="no"/>lexi. Et levavi manus
+<lb/>meas ad 
+	<choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice>
+      <lb/>dilexi: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ex(er)cebor</seg>
+		       <orig>ex̄cebor</orig>
+		       <reg>exercebor</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> iustifi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cat(i)o(n)ib(us)</seg>
+		       <orig>catōib⋮</orig>
+		       <reg>cationibus</reg>
+	     </choice> tuis.        
+	<choice>
+		       <seg type="lucas">Ps(alm).</seg>
+		       <orig>Ps̄.</orig>
+		       <reg>Psalmus.</reg>
+	     </choice>
+      <lb/>MEmor esto 
+	<choice>
+		       <seg type="lucas">v(er)bi</seg>
+		       <orig>v̇bi</orig>
+		       <reg>verbi</reg>
+	     </choice> tui
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(er)vo</seg>
+		       <orig>s͘vo</orig>
+		       <reg>servo</reg>
+	     </choice> tuo: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)</seg>
+		       <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">spe(m)</seg>
+		       <orig>spē</orig>
+		       <reg>spem</reg>
+	     </choice> dedisti.
+<lb/>Hec me 
+	<choice>
+		       <seg type="lucas">(con)solata</seg>
+		       <orig>ɔsolata</orig>
+		       <reg>consolata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)i</seg>
+		       <orig>hūi</orig>
+		       <reg>humi</reg>
+	     </choice>
+      <lb break="no"/>litate mea: 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> elo 
+	<choice>
+		       <seg type="lucas">q(ui)u(m)</seg>
+		       <orig>q̇ū</orig>
+		       <reg>quium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice>
+      <lb/>vivificavit me. 
+	<choice>
+		       <seg type="lucas">Sup(er)bi</seg>
+		       <orig>Suꝑbi</orig>
+		       <reg>Superbi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)iq(ue)</seg>
+		       <orig>īiq̄</orig>
+		       <reg>inique</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ageba(n)t</seg>
+		       <orig>agebāt</orig>
+		       <reg>agebant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">usq(ue)q(ua)</seg>
+		       <orig>usq⋮q̈q⋮</orig>
+		       <reg>usquequaque</reg>
+	     </choice> 
+   	 a<supplied> le⸗ </supplied>
+<lb/>ge 
+	<choice>
+		       <seg type="lucas">aut(em)</seg>
+		       <orig>aut̄</orig>
+		       <reg>autem</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> declinavi.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Me(m)or</seg>
+		       <orig>Mēor</orig>
+		       <reg>Memor</reg>
+	     </choice> fui 
+	<choice>
+		       <seg type="lucas">iudic(i)or(um)</seg>
+		       <orig>iudicōꝝ</orig>
+		       <reg>iudiciorum</reg>
+	     </choice> <supplied> 
+	<choice>
+		       <seg type="lucas">tuor(um)</seg>
+		       <orig>tuoꝝ</orig>
+		       <reg>tuorum</reg>
+	     </choice> a </supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0157_translation"
+       corresp="#p0157_transcription"> thy testimonies before kings: and I was not ashamed.
+   	I meditated also on thy commandments, which I loved. 
+   	And I lifted up my hands to thy commandments, which I loved: and I was exercised in thy justifications. Psalm.
+   	Be thou mindful of thy word to thy servant, in which thou hast given me hope. 
+   	This hath comforted me in my humiliation: because thy word hath enlivened me. 
+   	The proud did iniquitously altogether: but I declined not from thy law. 
+   	I remembered, O Lord, thy judgments of old: <!-- psalm 118 cont --> </ab>
+
+</div>

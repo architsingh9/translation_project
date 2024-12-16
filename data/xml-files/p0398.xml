@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+  type="page"
+  n="191v"
+  xml:id="p0398">
+
+ <ab type="transcription"
+  xml:id="p0398_transcription"
+  corresp="#p0398_translation">
+
+  <lb/>
+	  <choice>
+		  <seg type="lucas">D(omi)ne</seg>
+		  <orig>Dn̄e</orig>
+		  <reg>Domine</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">salvu(m)</seg>
+	    <orig>salvū</orig>
+		  <reg>salvum</reg>
+	  </choice> me fac: 
+	<choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig>+ </orig>
+		  <reg>et </reg>
+	  </choice> psal
+<lb break="no"/>mos 
+	<choice>
+		  <seg type="lucas">n(ost)ros</seg>
+		  <orig>nr̄os</orig>
+		  <reg>nostros</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">ca(n)tabim(us)</seg>
+	    <orig>cātabimꝰ</orig>
+		  <reg>cantabimus</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">cu(n)c</seg>
+	    <orig>cūc</orig>
+		  <reg>cunc</reg>
+	  </choice>
+  <lb break="no"/>tis 
+	<choice>
+		  <seg type="lucas">dieb(us)</seg>
+		  <orig>dieb⋮</orig>
+		  <reg>diebus</reg>
+	  </choice> vite 
+	<choice>
+		  <seg type="lucas">n(ost)re</seg>
+		  <orig>nr̄e</orig>
+		  <reg>nostre</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">i(n)</seg>
+	    <orig>ī</orig>
+		  <reg>in</reg>
+	  </choice> domo
+<lb/>
+	  <choice>
+		  <seg type="lucas">d(omi)ni.</seg>
+		  <orig>dn̄i.</orig>
+		  <reg>domini.</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">a(lleluia).</seg>
+	    <orig>ä.</orig>
+		  <reg>alleluia.</reg>
+	  </choice> A porta 
+	<choice>
+		  <seg type="lucas">i(n)feri</seg>
+	    <orig>īferi</orig>
+		  <reg>inferi</reg>
+	  </choice> erue
+<lb/>
+	  <choice>
+		  <seg type="lucas">d(omi)ne</seg>
+		  <orig>dn̄e</orig>
+		  <reg>domine</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">a(n)i(m)as</seg>
+	    <orig>aīas</orig>
+		  <reg>animas</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">eor(um).</seg>
+	    <orig>eoꝝ.</orig>
+		  <reg>eorum.</reg>
+	  </choice> 
+  <lb/>LAudate
+<lb/>
+	  <choice>
+		  <seg type="lucas">d(omi)n(u)m</seg>
+		  <orig>dn̄m</orig>
+		  <reg>dominum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">d(e)</seg>
+	    <orig>ḋ</orig>
+		  <reg>de</reg>
+	  </choice>     
+	  <choice>
+		  <seg type="lucas">Om(n)is.</seg>
+		  <orig>Om̄is.</orig>
+		  <reg>Omnis.</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">vii(?).</seg>
+		  <orig>v̈ii.</orig>
+		  <reg>vii?.<!-- check expansion --></reg>
+	  </choice> 
+  <lb/>
+	  <choice>
+		  <seg type="lucas">cel(is):</seg>
+		  <orig>cel͘:</orig>
+		  <reg>celis:</reg>
+	  </choice> laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">i(n)</seg>
+	    <orig>ī</orig>
+		  <reg>in</reg>
+	  </choice> excelsis.
+<lb/>Laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">o(mne)s</seg>
+	    <orig>ōs</orig>
+		  <reg>omnes</reg>
+	  </choice> angeli
+<lb/>
+	  <choice>
+		  <seg type="lucas">ei(us):</seg>
+	    <orig>eiꝰ:</orig>
+		  <reg>eius:</reg>
+	  </choice> laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">o(mne)s</seg>
+	    <orig>ōs</orig>
+		  <reg>omnes</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">v(ir)tutes</seg>
+	    <orig>v̇tutes</orig>
+		  <reg>virtutes</reg>
+	  </choice>
+  <lb/>
+	  <choice>
+		  <seg type="lucas">ei(us).</seg>
+	    <orig>eiꝰ.</orig>
+		  <reg>eius.</reg>
+	  </choice> Laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> sol 
+	<choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig>+ </orig>
+		  <reg>et </reg>
+	  </choice> lu
+<lb break="no"/>na: laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">o(mne)s</seg>
+	    <orig>ōs</orig>
+		  <reg>omnes</reg>
+	  </choice> stelle 
+	<choice>
+		  <seg type="lucas">(et)</seg>
+		  <orig>+ </orig>
+		  <reg>et</reg>
+	  </choice>
+  <lb/>
+	  <choice>
+		  <seg type="lucas">lume(n).</seg>
+	    <orig>lumē.</orig>
+		  <reg>lumen.</reg>
+	  </choice> Laudate 
+	<choice>
+		  <seg type="lucas">eu(m)</seg>
+	    <orig>eū</orig>
+		  <reg>eum</reg>
+	  </choice> celi ce
+<lb break="no"/>
+	  <choice>
+		  <seg type="lucas">lor(um):</seg>
+	    <orig>loꝝ:</orig>
+		  <reg>lorum:</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">(et) </seg>
+		  <orig>+ </orig>
+		  <reg>et </reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">aq(ue)</seg>
+		  <orig>aq̄</orig>
+		  <reg>aque</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">q(ue)</seg>
+		  <orig>q̄</orig>
+		  <reg>que</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">s(upe)r</seg>
+		  <orig>sr̄</orig>
+		  <reg>super</reg>
+	  </choice> celos 
+	<choice>
+		  <seg type="lucas">s(un)t</seg>
+	    <orig>sṫ</orig>
+		  <reg>sunt</reg>
+	  </choice> lau
+<lb break="no"/>
+	  <choice>
+		  <seg type="lucas">de(n)t</seg>
+	    <orig>dēt</orig>
+		  <reg>dent</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">nome(n)</seg>
+	    <orig>nomē</orig>
+		  <reg>nomen</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">d(omi)ni.</seg>
+		  <orig>dn̄i.</orig>
+		  <reg>domini.</reg>
+	  </choice> 
+	  <choice>
+		  <seg type="lucas">Q(ui)a</seg>
+		  <orig>Q̇a</orig> 
+		  <reg>Quia</reg>
+	  </choice> ipse
+
+
+</ab>
+
+ <ab type="translation"
+  xml:id="p0398_translation"
+  corresp="#p0398_transcription">
+   O lord, save me and we will sing our psalms
+   all the days of our life in the house of the Lord. <!-- OBDS page 451 -->
+   God be praised. 
+   From the gates of hell deliver their souls,
+   O Lord. <!-- OBDS page 453 -->
+   Praise ye the Lord from the heavens: 
+   praise ye Him in the high places.
+   Praise ye Him, all His angels: 
+   praise ye Him, all His hosts.
+   Praise ye Him, O sun and moon: 
+   praise Him all ye stars and light.
+   Praise Him, ye heavens of heavens:
+   and let all the waters 
+   that are above the heavens, 
+   praise the name of the Lord. <!-- Psalms 148, continues -->
+ </ab>
+
+</div>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="83r"
+     xml:id="p0181">
+
+   <ab type="transcription"
+       xml:id="p0181_transcription"
+       corresp="#p0181_translation">
+
+      <lb/>ta tua 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+	     	  <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oblit(us).</seg>
+	     	  <orig>oblitꝰ.</orig>
+		       <reg>oblitus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Fi(?)a</seg>
+		       <orig>Fi̇̄a</orig> 
+		       <reg>Feria</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+	     	  <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+      <lb/>Aspice 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	     	  <orig> +</orig>
+		       <reg>et </reg>
+	     </choice> <seg next="#seg1">mise</seg>
+<lb break="no"/>EMpti <seg next="#seg2">es⸗</seg>       
+	<choice>
+		       <seg type="lucas">Cap(itulum)</seg>
+		       <orig>Cap̄</orig>
+		       <reg>Capitulum</reg>
+	     </choice> 
+   	<seg xml:id = "seg1">
+	     <choice>
+		       <seg type="lucas">re(re)</seg>
+	     	  <orig>rė</orig>
+		       <reg>rere</reg>
+	     </choice>
+   	</seg>
+   		mei.
+<lb/><seg xml:id = "seg2">tis</seg>
+	<choice>
+		       <seg type="lucas">p(re)t(i)o</seg>
+		       <orig>p̄tō</orig>
+		       <reg>pretio</reg>
+	     </choice> magno: 
+	<choice>
+		       <seg type="lucas">gl(or)i</seg>
+		       <orig>gl͘i</orig>
+		       <reg>glori</reg>
+	     </choice>
+      <lb break="no"/>ficate 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> portate 
+	<choice>
+		       <seg type="lucas">deu(m)</seg>
+		       <orig>deū</orig>
+		       <reg>deum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	     	  <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> cor
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(or)e</seg>
+		       <orig>ꝑe</orig>
+		       <reg>pore</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(est)ro;</seg>
+		       <orig>vr̄o;</orig>
+		       <reg>vestro;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig> 
+		       <reg>Responsorium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Redi(m)e</seg>
+	     	  <orig>Redīe</orig>
+		       <reg>Redime</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miser̄e</orig> 
+		       <reg>miserere</reg>
+	     </choice> mei. 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Pes 
+	<choice>
+		       <seg type="lucas">e(n)i(m)</seg>
+		       <orig>eī</orig>
+		       <reg>enim</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> stetit 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> via 
+	<choice>
+		       <seg type="lucas">r(e)c(t)a</seg>
+		       <orig>rc̄a</orig>
+		       <reg>recta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	     	  <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eccle
+<lb break="no"/>siis 
+	<choice>
+		       <seg type="lucas">b(e)n(e)dica(m)</seg>
+		       <orig>bn̄dicā</orig>
+		       <reg>benedicam</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> Et. 
+	<choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice>
+      <lb/>Re. 
+	<choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Ab 
+	<choice>
+		       <seg type="lucas">occ(u)ltis</seg>
+		       <orig>occl͘tis</orig>
+		       <reg>occultis</reg>
+	     </choice> meis 
+	<choice>
+		       <seg type="lucas">mu(n)</seg>
+		       <orig>mū</orig>
+		       <reg>mun</reg>
+	     </choice>
+      <lb break="no"/>da me 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> Et ab alienis
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ar)ce</seg>
+		       <orig>ꝑce</orig>
+		       <reg>parce</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vo</seg>
+	     	  <orig>sv̇o</orig>
+		       <reg>servo</reg>
+	     </choice> tuo. K. 
+	<choice>
+		       <seg type="lucas">P(ate)r.</seg>
+		       <orig>Pr̄.</orig>
+		       <reg>Pater.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)nica</seg>
+		       <orig>Dn̄ica</orig>
+		       <reg>Dominica</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">an(tiphon)</seg>
+		       <orig>an̈</orig>
+		       <reg>antiphon</reg>
+	     </choice>        Ex 
+	<choice>
+		       <seg type="lucas">q(uo)</seg>
+		       <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+	     	  <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uem)</seg>
+		       <orig>q̄ˢ</orig> 
+		       <reg>quem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+	     	  <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	     	  <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)</seg>
+	     	  <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+	     	  <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)i</seg>
+		       <orig>ip̄i</orig>
+		       <reg>ipsi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	     	  <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)la.</seg>
+		       <orig>scl͘a.</orig>
+		       <reg>secula.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Cap(itulum).</seg>
+		       <orig>Cap̄.</orig>
+		       <reg>Capitulum.</reg>
+	     </choice> 
+      <lb/>TRes 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>st͘</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">testi(m)oniu(m)</seg>
+	     	  <orig>testīoniū</orig>
+		       <reg>testimonium</reg>
+	     </choice> <supplied>
+	<choice>
+		       <seg type="lucas">da(n)t†</seg>
+		       <orig>dāt</orig>
+		       <reg>dant</reg>
+	     </choice></supplied>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0181_translation"
+       corresp="#p0181_transcription">I have not forgotten thy commandments. <!-- cont from psalm 118 --> Weekday. Alleluia. <!-- ?? --> 
+   	Look thou upon me, O Lord, and have mercy on me. <!-- drb psalm 118 verse 132 --> Chapter. 
+   	You are bought with a great price. Glorify and bear God in your body. <!-- DRB 1 Cor. 6:20 except it's missing 'enim' --> 
+   	Response. Redeem me, O Lord, and have mercy on me. Versicle. For my foot has stood in the direct way;
+   	in the churches I will bless the Lord.<!-- DM 146 --> And have mercy on me. Glory [be to the Father, and to the Son, and to the Holy Spirit. As it was
+   in the beginning, is now, and ever shall be, world without end. Amne.] Redeem me, O Lord. Versicle. 
+   	From my secret ones cleanse
+   	Thou me: and from
+   	the sins of others,
+   	spare Thy servant. <!-- OBDS 24 --> Lord have mercy, Christ have mercy, Lord have mercy. 
+   	Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. 
+   	Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. 
+   	And lead us not into temptation, but deliver us from evil.]
+   	Sunday antiphon. 
+   	Of whom are all things, by whom are all things, in which are all things, be glory unto the ages. <!-- google/my transl via 1 Cor. 8:6 -->
+   	Chapter. There are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. <!-- 1 john 5:7 drb cont --> </ab>
+
+</div>
