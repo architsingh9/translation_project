@@ -1,0 +1,13 @@
+numpy
+pytesseract==0.3.10
+Pillow==9.3.0
+torch==2.1.2
+datasets==1.17.0
+transformers
+sentencepiece
+protobuf==3.20.0
+google-cloud-firestore
+google-auth
+mlflow
+opencv-python
+rapidfuzz
