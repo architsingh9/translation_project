@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/armina/Documents/GitHub/translation_project/mlruns/413745833495785669/62bc53363d0f464484baf86b65d3cabd/artifacts
+end_time: 1734634543682
+entry_point_name: ''
+experiment_id: '413745833495785669'
+lifecycle_stage: active
+run_id: 62bc53363d0f464484baf86b65d3cabd
+run_name: Main Script Execution
+run_uuid: 62bc53363d0f464484baf86b65d3cabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734634543325
+status: 4
+tags: []
+user_id: armina

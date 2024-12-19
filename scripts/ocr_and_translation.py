@@ -73,19 +73,35 @@ def store_translation(db, document_id, english_text):
     """
     Stores the translation in Google Cloud Firestore.
     """
+    # try:
+    #     doc_ref = db.collection('translations').document(document_id)
+    #     doc_ref.set({
+    #         'english_text': english_text
+    #     })
+    #     logger.info(f"Translation stored in database with document ID: {document_id}")
+    #     # Log a success metric
+    #     mlflow.log_metric("translation_stored", 1)
+    # except GoogleAPIError as e:
+    #     logger.error(f"Failed to store data in Firestore: {e}")
+    #     # Log a failure metric
+    #     mlflow.log_metric("translation_stored", 0)
+    #     raise
+    store_translation_local("translations.json", document_id, english_text)
+    
+def store_translation_local(file_path, key, value):
     try:
-        doc_ref = db.collection('translations').document(document_id)
-        doc_ref.set({
-            'english_text': english_text
-        })
-        logger.info(f"Translation stored in database with document ID: {document_id}")
-        # Log a success metric
-        mlflow.log_metric("translation_stored", 1)
-    except GoogleAPIError as e:
-        logger.error(f"Failed to store data in Firestore: {e}")
-        # Log a failure metric
-        mlflow.log_metric("translation_stored", 0)
-        raise
+        if os.path.exists(file_path):
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+        else:
+            data = {}
+
+        data[key] = value
+
+        with open(file_path, 'w') as file:
+            json.dump(data, file, indent=4)
+    except Exception as e:
+        logger.error(f"Failed to store translation locally: {e}")
 
 def process_image(image_path, correction_model, correction_tokenizer, translation_model, translation_tokenizer, page_number):
     """

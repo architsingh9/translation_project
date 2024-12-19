@@ -1,11 +1,12 @@
 numpy
-pytesseract==0.3.10
-Pillow==9.3.0
-torch==2.1.2
-datasets==1.17.0
+pytesseract
+Pillow
+torch
+datasets
 transformers
+protobuf
+tensorflow
 sentencepiece
-protobuf==3.20.0
 google-cloud-firestore
 google-auth
 mlflow
