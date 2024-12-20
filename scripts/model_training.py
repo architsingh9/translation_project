@@ -10,7 +10,7 @@ def fine_tune_translation_model(dataset, model_directory):
     """
     Fine-tunes a pre-trained translation model on the custom dataset.
     """
-    model_name = 'Helsinki-NLP/opus-mt-la-en'
+    model_name = 'Helsinki-NLP/opus-mt-zh-en'
     tokenizer = MarianTokenizer.from_pretrained(model_name)
     model = MarianMTModel.from_pretrained(model_name)
 
@@ -28,6 +28,7 @@ def fine_tune_translation_model(dataset, model_directory):
     training_args = Seq2SeqTrainingArguments(
         output_dir=model_directory,
         evaluation_strategy='epoch',
+        save_strategy='epoch',
         learning_rate=2e-5,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,

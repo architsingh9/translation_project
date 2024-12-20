@@ -10,6 +10,7 @@ import mlflow
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+print(logger)
 
 def main():
     # Paths
@@ -20,7 +21,8 @@ def main():
 
     # Initialize Firestore
     try:
-        db = firestore.Client()
+        # db = firestore.Client()
+        db = MockFirestoreClient()
     except DefaultCredentialsError as e:
         logger.error(f"Google Cloud credentials not found: {e}")
         return
@@ -134,5 +136,40 @@ def main():
 
     mlflow.end_run(status="FINISHED")
 
+class MockFirestoreClient:
+    def __init__(self):
+        self.data = {}
+
+    def collection(self, collection_name):
+        return self
+
+    def document(self, doc_id):
+        return MockFirestoreDocument(self.data, doc_id)
+
+
+class MockFirestoreDocument:
+    def __init__(self, data, doc_id):
+        self.data = data
+        self.doc_id = doc_id
+
+    def get(self):
+        return MockFirestoreDocumentSnapshot(self.data.get(self.doc_id))
+
+    def set(self, value):
+        self.data[self.doc_id] = value
+
+
+class MockFirestoreDocumentSnapshot:
+    def __init__(self, data):
+        self._data = data
+
+    def exists(self):
+        return self._data is not None
+
+    def to_dict(self):
+        return self._data
+
+
 if __name__ == "__main__":
+    print("Starting program...")
     main()

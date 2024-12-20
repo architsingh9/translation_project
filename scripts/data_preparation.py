@@ -97,7 +97,7 @@ def create_translation_dataset(latin_texts, english_texts):
     Creates a dataset for translation model training and splits it into training, validation, and test sets.
     """
     dataset_dict = {'translation': [{'la': la, 'en': en} for la, en in zip(latin_texts, english_texts)]}
-    full_dataset = Dataset.from_list(dataset_dict['translation'])
+    full_dataset = Dataset.from_dict(dataset_dict)
 
     # Split the dataset
     split_dataset = full_dataset.train_test_split(test_size=0.2, seed=42)
