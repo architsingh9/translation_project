@@ -1,3 +1,9 @@
+
+---
+
+**requirements.txt**
+
+```plaintext
 numpy
 pytesseract
 Pillow
@@ -7,8 +13,6 @@ transformers
 protobuf
 tensorflow
 sentencepiece
-google-cloud-firestore
-google-auth
-mlflow
 opencv-python
 rapidfuzz
+lxml
