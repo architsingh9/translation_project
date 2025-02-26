@@ -1,7 +1,7 @@
 import logging
 from transformers import MarianMTModel, MarianTokenizer, Seq2SeqTrainingArguments, Seq2SeqTrainer, DataCollatorForSeq2Seq
 from transformers import T5ForConditionalGeneration, T5Tokenizer, Trainer, TrainingArguments
-from datasets import load_metric
+import evaluate
 
 logger = logging.getLogger(__name__)
 
@@ -33,14 +33,12 @@ def fine_tune_translation_model(dataset, model_directory):
         predict_with_generate=True,
         logging_dir='./logs',
         logging_steps=10,
-        save_steps=500,
-        eval_steps=500,
         load_best_model_at_end=True,
         metric_for_best_model='eval_bleu',
         greater_is_better=True,
     )
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
-    metric = load_metric("sacrebleu")
+    metric = evaluate.load("sacrebleu")
 
     def postprocess_text(preds, labels):
         preds = [pred.strip() for pred in preds]
@@ -101,6 +99,7 @@ def train_ocr_correction_model(dataset, model_directory):
     training_args = TrainingArguments(
         output_dir=model_directory,
         evaluation_strategy='epoch',
+        save_strategy='epoch',
         learning_rate=2e-4,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
@@ -109,8 +108,6 @@ def train_ocr_correction_model(dataset, model_directory):
         num_train_epochs=5,
         logging_dir='./logs',
         logging_steps=10,
-        save_steps=500,
-        eval_steps=500,
         load_best_model_at_end=True,
         metric_for_best_model='eval_loss',
         greater_is_better=False,
