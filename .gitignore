@@ -2,3 +2,4 @@ venv
 logs
 __pycache__
 models
+google-cloud-sdk
